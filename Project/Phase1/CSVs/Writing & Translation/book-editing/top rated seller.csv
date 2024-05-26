@@ -1,0 +1,48 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Writing & Translation,book-editing,top rated seller,181 Results,$75,$100,$120,5 days,5 days,5 days,-1,-1,-1,5.0,34,United States,May 2022,3 hours,about 8 hours,"English, French",1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$150,$250,$500,5 days,7 days,10 days,-1,-1,-1,5.0,72,Australia,Jul 2019,1 hour,about 16 hours,English,1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$250,$750,"$1,250",5 days,10 days,14 days,-1,-1,-1,5.0,50,Spain,Oct 2020,1 hour,1 day,"English, Spanish, French, Italian",1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,"$1,365","$1,820","$2,270",60 days,75 days,90 days,1,1,1,5.0,23,United Kingdom,Mar 2019,3 hours,2 weeks,English,2 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$200,$200,$200,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,"1,681",United States,Jun 2012,5 hours,1 day,English,6 orders in queue,True
+Writing & Translation,book-editing,top rated seller,181 Results,$10,$20,$40,1 day,1 day,2 days,0,0,0,5.0,"1,374",United States,Apr 2019,1 hour,1 day,English,2 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$10,$20,$40,5 days,5 days,5 days,0,Unlimited,Unlimited,5.0,"2,658",United States,Jan 2014,2 hours,about 8 hours,English,3 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$15,$150,$300,2 days,3 days,5 days,1,1,1,5.0,177,United Kingdom,Sep 2021,3 hours,about 9 hours,English,2 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$150,$250,$500,5 days,7 days,10 days,-1,-1,-1,5.0,72,Australia,Jul 2019,1 hour,about 16 hours,English,1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$40,$200,$350,10 days,21 days,30 days,1,1,1,5.0,26,United Kingdom,Mar 2021,4 hours,about 2 hours,"English, Bulgarian, Spanish, Russian",9 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$50,$75,$100,7 days,7 days,7 days,Unlimited,Unlimited,Unlimited,5.0,437,United States,Jan 2014,2 hours,about 8 hours,English,8 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$75,$95,$115,5 days,7 days,10 days,1,2,3,5.0,588,United Kingdom,Jul 2020,4 hours,3 days,English,7 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$10,$20,$40,5 days,5 days,5 days,0,Unlimited,Unlimited,5.0,"2,658",United States,Jan 2014,2 hours,about 8 hours,English,3 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$100,$100,$100,14-day delivery,14-day delivery,14-day delivery,-1,-1,-1,5.0,387,United States,Mar 2021,8 hours,about 12 hours,English,14 orders in queue,True
+Writing & Translation,book-editing,top rated seller,181 Results,$100,$100,$100,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,15,Ireland,Apr 2022,2 hours,about 12 hours,"English, French, Spanish",N/A,True
+Writing & Translation,book-editing,top rated seller,181 Results,$135,$225,$270,4 days,7 days,10 days,0,0,0,5.0,3,Canada,Mar 2021,1 hour,1 week,English,N/A,False
+Writing & Translation,book-editing,top rated seller,181 Results,$165,$175,$190,14 days,21 days,30 days,1,1,2,5.0,238,United States,Oct 2019,6 hours,about 3 hours,"English, Spanish",4 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$150,$200,$250,3 days,3 days,3 days,3,3,3,5.0,67,United Kingdom,Jul 2020,1 hour,1 day,"English, French",1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$60,$90,$110,5 days,5 days,5 days,-1,-1,-1,5.0,53,United States,May 2022,3 hours,about 8 hours,"English, French",1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$400,$600,$800,14 days,21 days,30 days,-1,-1,-1,5.0,177,United States,Jul 2022,6 hours,1 day,"English, Dutch",10 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$140,$200,$400,21 days,21 days,30 days,2,4,6,5.0,211,United States,Apr 2019,5 hours,about 1 hour,English,2 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$250,$750,"$1,250",5 days,10 days,14 days,-1,-1,-1,5.0,50,Spain,Oct 2020,1 hour,1 day,"English, Spanish, French, Italian",1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,"$1,200","$2,100","$3,000",30 days,45 days,45 days,0,0,0,5.0,175,United Kingdom,Jun 2021,1 hour,2 days,English,N/A,False
+Writing & Translation,book-editing,top rated seller,181 Results,$70,$250,$350,3 days,7 days,21 days,-1,-1,-1,5.0,198,United States,Jan 2021,4 hours,4 days,English,N/A,False
+Writing & Translation,book-editing,top rated seller,181 Results,$495,$595,$695,5 days,5 days,5 days,-1,-1,-1,5.0,68,Indonesia,N/A,2 hours,4 days,English,2 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$50,$100,$200,2 days,3 days,5 days,3,3,3,4.9,308,United Kingdom,May 2014,5 hours,1 day,"English, Spanish",N/A,False
+Writing & Translation,book-editing,top rated seller,181 Results,$30,$60,$90,14 days,21 days,30 days,-1,-1,-1,5.0,109,United States,Oct 2020,2 hours,3 days,English,N/A,False
+Writing & Translation,book-editing,top rated seller,181 Results,$60,$150,"$1,500",5 days,10 days,30 days,-1,-1,-1,4.9,176,Japan,Oct 2018,2 hours,1 week,English,3 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$150,$250,$500,5 days,7 days,10 days,-1,-1,-1,5.0,365,Australia,Jul 2019,1 hour,about 16 hours,English,1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$105,$420,$480,5 days,10 days,14 days,1,1,1,4.9,169,United States,May 2019,6 hours,1 day,"English, French",3 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,€435.22,€531.93,€628.65,10 days,14 days,21 days,2,2,2,5.0,545,United Kingdom,Jan 2019,1 hour,about 6 hours,English,10 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$190,$220,$290,10 days,10 days,14 days,1,1,1,5.0,173,Malaysia,Jul 2016,3 hours,1 day,English,3 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$350,$675,"$1,000",10 days,14 days,21 days,Unlimited,Unlimited,Unlimited,5.0,183,Canada,Apr 2021,1 hour,about 3 hours,"English, Arabic",5 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$100,$150,$200,45 days,60 days,90 days,0,0,0,4.9,72,United States,Nov 2019,1 hour,1 day,English,5 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$25,$205,$315,14 days,14 days,21 days,1,1,1,5.0,76,Brazil,Mar 2021,2 hours,1 day,English,2 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$150,$600,"$1,200",7 days,14 days,21 days,Unlimited,Unlimited,Unlimited,5.0,237,United States,Oct 2017,2 hours,1 week,English,N/A,False
+Writing & Translation,book-editing,top rated seller,181 Results,$100,$150,$200,21 days,21 days,21 days,0,0,0,5.0,544,United States,May 2017,6 hours,1 week,English,2 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$455,$760,$995,21 days,21 days,21 days,0,0,0,5.0,155,United Kingdom,Jun 2018,4 hours,2 days,English,8 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$60,$150,$450,7 days,7 days,10 days,0,0,0,5.0,219,United States,Apr 2014,1 hour,4 days,English,1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$300,$300,$300,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,5.0,877,United States,May 2014,1 hour,1 day,English,2 orders in queue,True
+Writing & Translation,book-editing,top rated seller,181 Results,$125,$200,$300,14 days,14 days,14 days,3,3,3,4.9,129,United States,Feb 2014,3 hours,2 days,English,1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$100,$100,$100,14-day delivery,14-day delivery,14-day delivery,-1,-1,-1,5.0,387,United States,Mar 2021,8 hours,about 12 hours,English,14 orders in queue,True
+Writing & Translation,book-editing,top rated seller,181 Results,$100,$150,$200,45 days,60 days,90 days,0,0,0,4.9,70,United States,Nov 2019,1 hour,1 day,English,1 order in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$165,$175,$190,14 days,21 days,30 days,1,1,2,5.0,238,United States,Oct 2019,6 hours,about 3 hours,"English, Spanish",4 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,€101.55,€406.20,€464.23,5 days,10 days,14 days,1,1,1,4.9,169,United States,May 2019,6 hours,1 day,"English, French",3 orders in queue,False
+Writing & Translation,book-editing,top rated seller,181 Results,$10,$50,$100,3 days,7 days,10 days,3,3,3,4.8,28,Pakistan,Jul 2018,1 hour,1 day,English,N/A,False
+Writing & Translation,book-editing,top rated seller,181 Results,$125,$200,$300,14 days,14 days,14 days,3,3,3,4.9,129,United States,Feb 2014,3 hours,2 days,English,1 order in queue,False

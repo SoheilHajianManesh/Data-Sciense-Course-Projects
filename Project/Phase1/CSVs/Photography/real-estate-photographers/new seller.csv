@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,real-estate-photographers,new seller,298 Results,$150,$250,$400,2 days,4 days,7 days,1,2,3,5.0,5,France,May 2023,1 hour,1 month,"English, French",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$100,$200,$300,3 days,3 days,5 days,1,1,1,5.0,3,United States,Jan 2024,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$200,$200,$200,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,1,Germany,Jan 2019,5 hours,2 months,"English, German, Spanish",N/A,True
+Photography,real-estate-photographers,new seller,298 Results,$130,$180,$700,1 day,1 day,2 days,2,3,3,5.0,6,United Kingdom,Dec 2019,9 hours,3 weeks,"English, French",3 orders in queue,False
+Photography,real-estate-photographers,new seller,298 Results,$115,$125,$160,1 day,1 day,1 day,2,2,4,5.0,2,United Kingdom,Dec 2019,9 hours,3 weeks,"English, French",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$120,$160,$220,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,11,United Kingdom,Mar 2022,1 hour,1 week,"English, Tigrinya, Amharic",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$150,$270,$340,2 days,2 days,2 days,0,1,1,5.0,1,United Kingdom,Jul 2022,3 hours,2 months,N/A,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$150,$250,$350,3 days,7 days,7 days,0,3,3,4.9,5,Hong Kong,Jul 2021,1 hour,2 weeks,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$245,$350,$595,3 days,4 days,5 days,0,1,1,5.0,4,United Kingdom,Jul 2019,2 hours,5 months,"English, Spanish, Portuguese",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$135,$165,$220,2 days,2 days,2 days,1,1,1,5.0,1,United Kingdom,Jan 2023,1 hour,9 months,"English, Russian",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$50,$90,$175,1 day,2 days,3 days,2,3,4,5.0,1,Canada,Jun 2023,1 hour,9 months,"English, French",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$120,$220,$320,5 days,7 days,10 days,0,0,0,5.0,1,France,Dec 2014,1 day,11 months,"English, French",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$150,$275,$400,1 day,1 day,1 day,1,1,1,N/A,N/A,United States,Oct 2021,1 hour,10 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$250,$330,$500,1 day,1 day,1 day,-1,-1,-1,5.0,1,United Kingdom,Jul 2019,1 hour,10 months,"English, Italian, Portuguese, Spanish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$100,$200,$400,3 days,3 days,1 day,1,1,2,N/A,N/A,United States,May 2023,1 hour,N/A,"English, Hindi, Gujarati",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$200,$350,$600,2 days,3 days,3 days,-1,-1,-1,5.0,1,United Kingdom,Apr 2023,6 days,6 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$110,$150,$200,2 days,2 days,2 days,-1,-1,-1,5.0,2,United Arab Emirates,May 2023,11 hours,8 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$100,$180,$350,2 days,2 days,7 days,0,0,1,5.0,1,Turkey,Jul 2020,N/A,11 months,"Russian, Turkish, Azerbaijani, English",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,₪768.22,"₪1,345","₪2,305",2 days,3 days,3 days,0,1,2,5.0,1,United Kingdom,Apr 2023,6 days,6 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,₪921.87,"₪1,153","₪1,345",10 days,10 days,10 days,1,1,1,5.0,1,United Kingdom,Jan 2020,1 hour,10 months,"English, Polish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,₪364.91,₪441.73,₪556.96,7 days,7 days,7 days,2,2,2,4.8,3,United Kingdom,Jan 2022,1 hour,2 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$100,$155,$200,3 days,3 days,3 days,1,1,1,N/A,N/A,United States,Mar 2018,10 hours,3 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$250,$350,$450,5 days,5 days,5 days,Unlimited,Unlimited,Unlimited,5.0,1,United States,Jul 2023,N/A,8 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$85,$150,$250,1 day,1 day,1 day,-1,-1,-1,5.0,2,Spain,Jul 2023,4 days,7 months,Spanish,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$150,$225,$350,3 days,4 days,5 days,2,3,3,5.0,1,United States,Jul 2023,1 hour,8 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$220,$380,$605,7 days,10 days,14 days,2,2,2,5.0,5,United Kingdom,Feb 2021,1 hour,8 months,"Italian, English",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$100,$150,$180,3 days,3 days,4 days,0,0,0,5.0,1,United States,Jun 2018,4 hours,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$75,$100,$125,4 days,3 days,3 days,1,2,2,5.0,1,United States,Apr 2024,1 hour,3 weeks,"French, Spanish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$150,$530,$650,2 days,3 days,3 days,-1,-1,-1,5.0,1,United States,Oct 2020,1 hour,1 week,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$140,$180,$230,2 days,2 days,2 days,2,2,2,5.0,1,United Kingdom,Nov 2023,1 hour,2 months,"English, Spanish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$115,$155,$195,1 day,1 day,1 day,1,1,2,5.0,1,Canada,Dec 2023,1 hour,1 month,"English, French, Swedish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$100,$150,$200,3 days,2 days,1 day,1,2,2,4.0,1,United States,Sep 2017,1 day,2 months,"English, Spanish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$155,$225,$290,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,N/A,N/A,United States,Aug 2022,1 hour,3 weeks,"English, Japanese",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$200,$380,$700,3 days,4 days,5 days,1,2,3,4.7,1,France,Feb 2024,N/A,3 months,"English, French, Korean, Japanese",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$150,$150,$150,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,1,United States,Dec 2023,1 hour,2 months,"English, French",N/A,True
+Photography,real-estate-photographers,new seller,298 Results,$200,$400,$500,3 days,4 days,5 days,-1,-1,-1,5.0,1,United States,May 2022,1 hour,8 months,N/A,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$110,$130,$150,3 days,2 days,2 days,1,1,2,5.0,2,United States,May 2023,2 hours,1 month,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$120,$180,$250,1 day,1 day,2 days,1,2,3,4.3,1,United States,Jun 2020,1 hour,3 months,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$250,$415,$550,5 days,5 days,5 days,-1,-1,-1,5.0,3,United Arab Emirates,Apr 2023,2 hours,4 months,"English, Russian",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$150,$180,$250,1 day,1 day,2 days,5,5,5,4.0,2,United Kingdom,Mar 2022,16 hours,1 year,"English, Yoruba, Spanish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$150,$250,$350,1 day,2 days,3 days,-1,-1,-1,5.0,9,United States,Aug 2021,2 hours,3 months,"English, Portuguese, Spanish",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$100,$100,$100,7-day delivery,7-day delivery,7-day delivery,1 Revision,1 Revision,1 Revision,5.0,1,United States,Sep 2021,1 hour,6 months,English,N/A,True
+Photography,real-estate-photographers,new seller,298 Results,$300,$500,"$1,000",10 days,10 days,10 days,1,2,3,5.0,2,Switzerland,May 2022,1 hour,10 months,"English, Ukrainian, Polish, Italian",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$160,$230,$480,2 days,2 days,3 days,0,0,0,4.8,2,Ireland,Apr 2022,1 hour,5 months,"English, Portuguese",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$100,$200,$400,2 days,3 days,3 days,0,0,0,5.0,1,Canada,Mar 2022,10 hours,1 year,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$550,"$1,000","$1,500",1 day,1 day,2 days,1,1,1,5.0,1,United Kingdom,Jan 2020,2 days,1 year,English,N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$70,$80,$100,1 day,1 day,2 days,2,2,2,5.0,1,Italy,May 2022,3 hours,1 year,"English, Italian",N/A,False
+Photography,real-estate-photographers,new seller,298 Results,$130,$150,$170,2 days,2 days,2 days,1,1,1,5.0,3,United Arab Emirates,Apr 2023,2 hours,4 months,"English, Russian",N/A,False

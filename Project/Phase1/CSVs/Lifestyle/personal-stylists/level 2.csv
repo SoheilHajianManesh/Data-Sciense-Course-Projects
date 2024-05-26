@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,personal-stylists,level 2,76 Results,$25,$30,$40,1 day,2 days,2 days,-1,-1,-1,4.9,105,Italy,Apr 2020,3 hours,1 day,"English, Italian",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$40,$65,2 days,2 days,3 days,-1,-1,-1,4.9,48,Estonia,Nov 2016,4 hours,about 2 hours,"English, Estonian, Spanish",1 order in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,€48.36,€67.70,€82.21,2 days,3 days,3 days,-1,-1,-1,4.9,143,Estonia,Nov 2016,4 hours,about 2 hours,"English, Estonian, Spanish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$50,$50,$50,30-day delivery,30-day delivery,30-day delivery,-1,-1,-1,5.0,12,Spain,Nov 2021,1 hour,3 weeks,English,N/A,True
+Lifestyle,personal-stylists,level 2,76 Results,$25,$70,$110,3 days,5 days,7 days,-1,-1,-1,5.0,40,Italy,Apr 2020,2 hours,1 month,"English, Italian, Spanish",1 order in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,$50,$70,$85,2 days,3 days,3 days,-1,-1,-1,4.9,143,Estonia,Nov 2016,4 hours,about 2 hours,"English, Estonian, Spanish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$40,$65,2 days,2 days,3 days,-1,-1,-1,4.9,48,Estonia,Nov 2016,4 hours,about 2 hours,"English, Estonian, Spanish",1 order in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,$40,$75,$110,3 days,5 days,7 days,-1,-1,-1,5.0,285,Turkey,Dec 2018,4 hours,1 week,"English, Turkish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$150,$250,$350,5 days,7 days,10 days,-1,-1,-1,4.9,11,United States,Sep 2021,4 hours,4 days,"English, Ukrainian",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$50,$150,10 days,7 days,5 days,-1,-1,-1,5.0,334,United States,Dec 2014,1 hour,3 weeks,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$35,$70,$100,3 days,5 days,7 days,-1,-1,-1,4.9,25,United States,Sep 2021,4 hours,4 days,"English, Ukrainian",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$30,$40,1 day,2 days,2 days,-1,-1,-1,4.9,105,Italy,Apr 2020,3 hours,1 day,"English, Italian",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$40,$40,$40,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,4.9,48,Italy,Dec 2021,4 hours,3 weeks,"English, Italian, French",N/A,True
+Lifestyle,personal-stylists,level 2,76 Results,$30,$40,$55,4 days,3 days,2 days,-1,-1,-1,4.8,70,Georgia,Mar 2022,1 hour,about 5 hours,"English, Georgian, Turkish, Spanish",1 order in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$70,$165,5 days,7 days,10 days,-1,-1,-1,5.0,31,Venezuela,Oct 2019,1 hour,4 days,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$15,$45,$65,3 days,4 days,5 days,-1,-1,-1,4.9,3,Venezuela,Oct 2019,1 hour,4 days,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$50,$100,10 days,7 days,5 days,-1,-1,-1,5.0,1,United States,Dec 2014,1 hour,3 weeks,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$30,$40,$55,4 days,3 days,2 days,-1,-1,-1,4.8,70,Georgia,Mar 2022,1 hour,about 5 hours,"English, Georgian, Turkish, Spanish",1 order in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$40,$80,4 days,4 days,7 days,-1,-1,-1,5.0,29,Austria,Oct 2021,1 hour,about 10 hours,"English, German, French",1 order in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,$150,$300,$450,5 days,6 days,7 days,-1,-1,-1,5.0,6,Turkey,Oct 2021,3 hours,2 weeks,"English, Turkish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$100,$200,$350,5 days,10 days,14 days,-1,-1,-1,5.0,42,Spain,Feb 2021,2 hours,1 day,"English, Spanish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$30,$40,$45,3 days,3 days,3 days,-1,-1,-1,5.0,4,Estonia,Nov 2016,4 hours,about 2 hours,"English, Estonian, Spanish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$75,$155,$225,5 days,7 days,14 days,-1,-1,-1,5.0,4,United States,Mar 2021,8 hours,1 month,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$150,$300,$450,5 days,6 days,7 days,-1,-1,-1,4.9,10,Turkey,Oct 2021,3 hours,2 weeks,"English, Turkish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$70,$80,2 days,2 days,4 days,-1,-1,-1,5.0,4,Estonia,Nov 2016,4 hours,about 2 hours,"English, Estonian, Spanish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$15,$45,$65,3 days,4 days,5 days,-1,-1,-1,4.9,3,Venezuela,Oct 2019,1 hour,4 days,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$20,$40,$55,5 days,6 days,7 days,-1,-1,-1,5.0,5,Australia,Jul 2020,1 hour,1 day,"English, Chinese",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$5,$10,$15,2 days,3 days,4 days,-1,-1,-1,4.6,50,Jamaica,Apr 2016,3 hours,3 weeks,English,1 order in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,$20,$30,$40,4 days,5 days,6 days,-1,-1,-1,4.9,6,Bangladesh,Aug 2021,1 hour,5 days,"English, Spanish, Hebrew, German",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$50,$50,$50,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,4.9,11,Indonesia,Aug 2020,2 hours,3 weeks,"English, Romanian, Italian",N/A,True
+Lifestyle,personal-stylists,level 2,76 Results,$20,$35,$50,7 days,10 days,14 days,-1,-1,-1,4.9,31,Pakistan,Mar 2019,1 hour,2 weeks,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$5,$15,$35,2 days,3 days,4 days,-1,-1,-1,5.0,14,Sri Lanka,Aug 2022,1 hour,1 week,"English, French, Sinhala",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,€14.51,€38.69,€58.03,3 days,5 days,6 days,-1,-1,-1,5.0,1,United States,Dec 2020,3 hours,2 months,"English, Ukrainian, Russian, Spanish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,€24.18,€53.19,€72.54,3 days,3 days,5 days,-1,-1,-1,5.0,2,Spain,Mar 2016,8 hours,2 months,"English, Spanish, French",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,€145.07,€290.15,€435.22,5 days,6 days,7 days,-1,-1,-1,4.9,10,Turkey,Oct 2021,3 hours,2 weeks,"English, Turkish",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,€9.67,€19.34,€33.85,3 days,3 days,3 days,-1,-1,-1,5.0,13,Indonesia,Jan 2022,1 hour,3 weeks,"English, Indonesian",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,€14.51,€24.18,€33.85,4 days,5 days,7 days,-1,-1,-1,4.8,71,Venezuela,Feb 2016,3 hours,4 days,"English, Spanish",1 order in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,$10,$15,$20,2 days,2 days,2 days,-1,-1,-1,5.0,2,United Kingdom,May 2020,5 hours,2 months,"English, Italian",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$50,$50,$50,30-day delivery,30-day delivery,30-day delivery,-1,-1,-1,5.0,12,Spain,Nov 2021,1 hour,3 weeks,English,N/A,True
+Lifestyle,personal-stylists,level 2,76 Results,$40,$40,$40,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,4.9,48,Italy,Dec 2021,4 hours,3 weeks,"English, Italian, French",N/A,True
+Lifestyle,personal-stylists,level 2,76 Results,US$70,US$105,US$135,10 days,14 days,14 days,-1,-1,-1,5.0,2,Austria,Oct 2021,1 hour,about 10 hours,"English, German, French",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$15,$30,$50,2 days,3 days,3 days,-1,-1,-1,5.0,13,Nigeria,Apr 2020,1 hour,1 day,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,US$35,US$70,US$100,2 days,4 days,5 days,-1,-1,-1,5.0,1,United States,Sept 2021,4 hours,4 days,"English, Ukrainian",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$35,$55,3 days,5 days,6 days,-1,-1,-1,5.0,15,Austria,Oct 2021,1 hour,about 10 hours,"English, German, French",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$25,$70,$165,5 days,7 days,10 days,-1,-1,-1,5.0,31,Venezuela,Oct 2019,1 hour,4 days,English,N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$15,$40,$55,3 days,5 days,5 days,-1,-1,-1,5.0,34,Austria,Oct 2021,1 hour,about 10 hours,"English, German, French",2 orders in queue,False
+Lifestyle,personal-stylists,level 2,76 Results,$85,$175,$285,2 days,2 days,2 days,-1,-1,-1,5.0,6,Egypt,Jun 2020,1 hour,1 week,"Arabic, Spanish, English",N/A,False
+Lifestyle,personal-stylists,level 2,76 Results,$5,$10,$15,2 days,3 days,4 days,-1,-1,-1,4.9,5,Morocco,Oct 2021,1 hour,about 2 hours,"English, Arabic, French, Spanish",N/A,False

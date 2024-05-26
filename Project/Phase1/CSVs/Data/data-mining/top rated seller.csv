@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Data,data-mining,top rated seller,65 Results,$30,$60,$120,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,5.0,10,Morocco,Feb 2021,2 hours,2 days,"English, Arabic, French",N/A,False
+Data,data-mining,top rated seller,65 Results,$100,$400,"$1,000",2 days,3 days,3 days,-1,-1,-1,5.0,16,Morocco,Feb 2015,1 hour,1 day,"English, Arabic, French",N/A,False
+Data,data-mining,top rated seller,65 Results,$100,$250,$500,2 days,4 days,5 days,-1,-1,-1,5.0,273,Bangladesh,Jan 2022,1 hour,1 day,"Bengali, English",3 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$30,$50,$70,1 day,2 days,2 days,1,2,3,5.0,157,India,Mar 2018,1 hour,4 days,"English, Hindi, Marathi",3 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$200,$500,$750,7 days,10 days,14 days,Unlimited,Unlimited,Unlimited,5.0,130,United States,Jul 2014,3 hours,1 day,English,2 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$30,$50,$80,1 day,2 days,3 days,1,1,2,5.0,"1,314",Pakistan,May 2020,1 hour,about 12 hours,English,2 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$30,$50,$70,1 day,2 days,2 days,1,2,3,5.0,157,India,Mar 2018,1 hour,4 days,"English, Hindi, Marathi",3 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$30,$50,$70,1 day,2 days,2 days,1,2,3,4.9,305,Pakistan,Sep 2016,1 hour,about 1 hour,"English, Spanish, German",3 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$140,$250,$500,3 days,4 days,7 days,1,2,3,5.0,166,Italy,May 2021,1 hour,2 days,"English, Spanish, Italian, Russian",1 order in queue,False
+Data,data-mining,top rated seller,65 Results,$40,$40,$40,2-day delivery,2-day delivery,2-day delivery,5 Revisions,5 Revisions,5 Revisions,5.0,79,Nigeria,Oct 2019,3 hours,about 17 hours,"English, German, Spanish, Dutch",N/A,True
+Data,data-mining,top rated seller,65 Results,$30,$55,$95,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,"1,525",India,May 2015,1 hour,1 day,"English, Gujarati, Hindi",N/A,False
+Data,data-mining,top rated seller,65 Results,$30,$80,$130,2 days,3 days,4 days,1,2,3,5.0,"1,248",Pakistan,Feb 2017,1 hour,2 days,"English, Urdu, Punjabi",1 order in queue,False
+Data,data-mining,top rated seller,65 Results,$30,$50,$70,1 day,2 days,2 days,1,2,3,4.9,305,Pakistan,Sep 2016,1 hour,about 1 hour,"English, Spanish, German",3 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$30,$80,$130,2 days,3 days,4 days,1,2,3,5.0,"1,248",Pakistan,Feb 2017,1 hour,2 days,"English, Urdu, Punjabi",1 order in queue,False
+Data,data-mining,top rated seller,65 Results,$50,$100,$200,1 day,2 days,4 days,9,9,9,5.0,455,Pakistan,Apr 2020,3 hours,about 19 hours,"English, French, Spanish",7 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$30,$30,$30,2-day delivery,2-day delivery,2-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,5.0,71,United States,Dec 2020,7 hours,about 9 hours,"English, Spanish",1 order in queue,True
+Data,data-mining,top rated seller,65 Results,$100,$400,$660,3 days,6 days,10 days,0,0,0,4.9,174,Greece,Jul 2019,1 hour,2 days,English,N/A,False
+Data,data-mining,top rated seller,65 Results,€82.21,€125.73,€154.74,3 days,3 days,5 days,5,5,9,4.9,562,Nepal,Jan 2019,1 hour,about 16 hours,"English, Nepali",7 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$100,$250,$500,2 days,4 days,5 days,-1,-1,-1,5.0,273,Bangladesh,Jan 2022,1 hour,1 day,"Bengali, English",3 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$40,$40,$40,5-day delivery,5-day delivery,5-day delivery,1 Revision,1 Revision,1 Revision,5.0,992,Croatia,Mar 2018,4 hours,4 days,English,1 order in queue,True
+Data,data-mining,top rated seller,65 Results,$50,$100,$200,1 day,2 days,4 days,9,9,9,5.0,455,Pakistan,Apr 2020,3 hours,about 19 hours,"English, French, Spanish",7 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$100,$400,"$1,000",2 days,3 days,3 days,-1,-1,-1,5.0,16,Morocco,Feb 2015,1 hour,1 day,"English, Arabic, French",N/A,False
+Data,data-mining,top rated seller,65 Results,$170,$200,$250,3 days,4 days,5 days,3,5,7,5.0,144,Nepal,Jan 2019,1 hour,about 16 hours,"English, Nepali",1 order in queue,False
+Data,data-mining,top rated seller,65 Results,$40,$150,$250,1 day,4 days,7 days,-1,-1,-1,5.0,190,Pakistan,Mar 2019,1 hour,2 days,"Urdu, English",2 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$100,$400,$660,3 days,6 days,10 days,0,0,0,4.9,174,Greece,Jul 2019,1 hour,2 days,English,N/A,False
+Data,data-mining,top rated seller,65 Results,$85,$130,$160,3 days,3 days,5 days,5,5,9,4.9,562,Nepal,Jan 2019,1 hour,about 16 hours,"English, Nepali",7 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$30,$50,$80,1 day,2 days,3 days,1,1,2,5.0,"1,314",Pakistan,May 2020,1 hour,about 12 hours,English,2 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$200,$500,$750,7 days,10 days,14 days,Unlimited,Unlimited,Unlimited,5.0,130,United States,Jul 2014,3 hours,1 day,English,2 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$100,$100,$100,2-day delivery,2-day delivery,2-day delivery,5 Revisions,5 Revisions,5 Revisions,5.0,187,Nigeria,Oct 2019,3 hours,about 17 hours,"English, German, Spanish, Dutch",1 order in queue,True
+Data,data-mining,top rated seller,65 Results,$50,$80,$150,2 days,3 days,1 day,5,5,7,5.0,278,Nigeria,Oct 2019,3 hours,about 17 hours,"English, German, Spanish, Dutch",2 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$60,$90,$180,1 day,2 days,2 days,-1,-1,-1,5.0,87,India,Jun 2016,1 hour,2 days,"Hindi, English",N/A,False
+Data,data-mining,top rated seller,65 Results,$35,$35,$35,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,5.0,293,Moldova,Sep 2018,6 hours,4 days,English,1 order in queue,True
+Data,data-mining,top rated seller,65 Results,$100,$100,$100,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,31,Greece,Jul 2019,1 hour,2 days,English,N/A,True
+Data,data-mining,top rated seller,65 Results,$30,$50,$150,2 days,2 days,3 days,1,1,1,5.0,"1,923",Romania,Mar 2014,3 hours,1 day,English,N/A,False
+Data,data-mining,top rated seller,65 Results,$50,$100,$200,2 days,2 days,2 days,0,0,0,5.0,287,Ukraine,Dec 2018,1 hour,1 day,"English, Ukrainian",N/A,False
+Data,data-mining,top rated seller,65 Results,$30,$30,$30,2-day delivery,2-day delivery,2-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,5.0,71,United States,Dec 2020,7 hours,about 10 hours,"English, Spanish",1 order in queue,True
+Data,data-mining,top rated seller,65 Results,$50,$100,$150,2 days,2 days,2 days,1,1,1,5.0,18,India,Nov 2013,3 hours,about 12 hours,"English, Hindi, Spanish, French",N/A,False
+Data,data-mining,top rated seller,65 Results,$35,$35,$35,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,5.0,293,Moldova,Sep 2018,6 hours,4 days,English,1 order in queue,True
+Data,data-mining,top rated seller,65 Results,$30,$55,$95,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,"1,525",India,May 2015,1 hour,1 day,"English, Gujarati, Hindi",N/A,False
+Data,data-mining,top rated seller,65 Results,$40,$40,$40,5-day delivery,5-day delivery,5-day delivery,1 Revision,1 Revision,1 Revision,5.0,992,Croatia,Mar 2018,4 hours,4 days,English,1 order in queue,True
+Data,data-mining,top rated seller,65 Results,$100,$200,$400,2 days,3 days,4 days,-1,-1,-1,5.0,8,Bangladesh,Jan 2022,1 hour,1 day,"Bengali, English",N/A,False
+Data,data-mining,top rated seller,65 Results,$50,$100,$150,2 days,2 days,2 days,1,1,1,5.0,18,India,Nov 2013,3 hours,about 12 hours,"English, Hindi, Spanish, French",N/A,False
+Data,data-mining,top rated seller,65 Results,$100,$500,"$1,000",4 days,7 days,14 days,0,1,1,5.0,"1,294",India,Dec 2011,5 hours,about 9 hours,English,3 orders in queue,False
+Data,data-mining,top rated seller,65 Results,$35,$75,$150,1 day,4 days,7 days,1,2,4,4.9,101,Bangladesh,Jun 2017,3 hours,about 15 hours,"Bengali, English, Hindi",N/A,False
+Data,data-mining,top rated seller,65 Results,$30,$50,$150,2 days,2 days,3 days,1,1,1,5.0,"1,923",Romania,Mar 2014,3 hours,1 day,English,N/A,False
+Data,data-mining,top rated seller,65 Results,$40,$80,$200,2 days,4 days,6 days,2,4,4,4.9,508,Bangladesh,Nov 2017,1 hour,1 day,"English, Bengali",N/A,False
+Data,data-mining,top rated seller,65 Results,$50,$300,$450,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,75,Pakistan,Jun 2019,1 hour,4 months,"English, Urdu, Spanish",N/A,False
+Data,data-mining,top rated seller,65 Results,US$50,US$150,US$400,2 days,4 days,7 days,-1,-1,-1,5.0,4,Nigeria,Aug 2019,4 hours,about 8 hours,English,N/A,False

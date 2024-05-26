@@ -1,0 +1,23 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Data,data-engineering,top rated seller,23 Results,$25,$50,$100,4 days,6 days,7 days,0,1,2,N/A,N/A,India,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-engineering,top rated seller,23 Results,$200,$300,$600,2 days,3 days,5 days,1,2,3,5.0,144,Ukraine,N/A,N/A,N/A,"I speak English, Ukrainian",N/A,False
+Data,data-engineering,top rated seller,23 Results,$50,$200,$500,3 days,14 days,30 days,1,3,Unlimited,5.0,70,India,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-engineering,top rated seller,23 Results,$100,$100,$100,2-day delivery,2-day delivery,2-day delivery,5 Revisions,5 Revisions,5 Revisions,5.0,64,Nigeria,N/A,N/A,N/A,"I speak English, German, Spanish, Dutch",N/A,True
+Data,data-engineering,top rated seller,23 Results,$100,"$1,450","$4,500",5 days,14 days,45 days,1,3,Unlimited,5.0,24,Sweden,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-engineering,top rated seller,23 Results,$255,$455,$950,7 days,5 days,3 days,1,3,5,5.0,6,India,N/A,N/A,N/A,"I speak Hindi, English, Urdu",N/A,False
+Data,data-engineering,top rated seller,23 Results,$100,$200,"$1,000",1 day,3 days,5 days,0,0,1,4.3,5,India,N/A,N/A,N/A,"I speak Hindi, English",N/A,False
+Data,data-engineering,top rated seller,23 Results,US$155,US$245,US$540,3 days,3 days,3 days,-1,-1,-1,4.9,22,India,N/A,N/A,N/A,"I speak Hindi, English, Urdu",N/A,False
+Data,data-engineering,top rated seller,23 Results,$60,$150,$300,3 days,7 days,14 days,1,1,1,5.0,9,New Zealand,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-engineering,top rated seller,23 Results,$450,$630,$810,7 days,10 days,14 days,1,1,1,5.0,1,United Kingdom,N/A,N/A,N/A,"I speak English, Russian",N/A,False
+Data,data-engineering,top rated seller,23 Results,$300,$500,"$1,000",5 days,14 days,30 days,0,3,9,5.0,4,Sweden,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-engineering,top rated seller,23 Results,$200,$200,$200,3-day delivery,3-day delivery,3-day delivery,8 Revisions,8 Revisions,8 Revisions,5.0,17,Nigeria,N/A,N/A,N/A,"I speak English, German, Spanish, Dutch",N/A,True
+Data,data-engineering,top rated seller,23 Results,$200,$300,$600,2 days,3 days,5 days,1,2,3,5.0,4,Ukraine,N/A,N/A,N/A,"I speak English, Ukrainian",N/A,False
+Data,data-engineering,top rated seller,23 Results,$350,$350,$350,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,2,United Arab Emirates,N/A,N/A,N/A,I speak English,N/A,True
+Data,data-engineering,top rated seller,23 Results,$50,$100,$310,3 days,2 days,1 day,-1,-1,-1,5.0,1,India,N/A,N/A,N/A,"I speak Hindi, English, Urdu",N/A,False
+Data,data-engineering,top rated seller,23 Results,$450,$450,$450,3-day delivery,3-day delivery,3-day delivery,4 Revisions,4 Revisions,4 Revisions,N/A,N/A,Nepal,N/A,N/A,N/A,I speak English,N/A,True
+Data,data-engineering,top rated seller,23 Results,$155,$155,$155,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,N/A,N/A,India,N/A,N/A,N/A,"I speak Hindi, English, Urdu",N/A,True
+Data,data-engineering,top rated seller,23 Results,$50,$350,$780,2 days,5 days,7 days,-1,-1,-1,N/A,N/A,India,N/A,N/A,N/A,"I speak Hindi, English, Urdu",N/A,False
+Data,data-engineering,top rated seller,23 Results,$275,$500,$775,6 days,6 days,5 days,1,1,3,5.0,1,India,N/A,N/A,N/A,"I speak Hindi, English, Urdu",N/A,False
+Data,data-engineering,top rated seller,23 Results,$125,$250,"$1,345",2 days,4 days,5 days,-1,-1,-1,N/A,N/A,India,N/A,N/A,N/A,"I speak Hindi, English, Urdu",N/A,False
+Data,data-engineering,top rated seller,23 Results,$95,$95,$95,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,N/A,N/A,India,N/A,N/A,N/A,"I speak Hindi, English, Urdu",N/A,True
+Data,data-engineering,top rated seller,23 Results,$25,$50,$100,4 days,6 days,7 days,0,1,2,N/A,N/A,India,N/A,N/A,N/A,I speak English,N/A,False

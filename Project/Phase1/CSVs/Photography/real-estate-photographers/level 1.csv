@@ -1,0 +1,26 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,real-estate-photographers,level 1,23 Results,$110,$150,$200,2 days,2 days,2 days,-1,-1,-1,5.0,21,Sri Lanka,Feb 2020,2 hours,1 month,"English, Tamil, Sinhala",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$250,$305,$360,2 days,2 days,3 days,1,1,1,5.0,3,United States,Jan 2023,3 hours,1 week,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$185,$285,$345,1 day,2 days,3 days,1,1,1,5.0,2,United States,Apr 2023,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$50,$135,$150,5 days,5 days,7 days,0,1,1,5.0,2,Canada,Jul 2015,1 hour,1 week,English,N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$140,$185,$225,2 days,2 days,2 days,1,1,1,5.0,6,United States,May 2014,4 hours,1 month,English,N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$140,$180,$230,4 days,6 days,7 days,0,0,0,3.2,2,United Kingdom,Nov 2020,6 hours,2 weeks,English,N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$135,$245,$295,1 day,2 days,2 days,1,1,1,5.0,2,United States,Apr 2023,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$140,$160,$180,1 day,1 day,1 day,1,1,1,5.0,17,United States,Apr 2019,1 hour,2 weeks,"English, Spanish",1 order in queue,False
+Photography,real-estate-photographers,level 1,23 Results,$125,$225,$425,5 days,6 days,7 days,1,1,1,5.0,8,United States,May 2014,4 hours,1 month,English,N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$400,"$1,000","$1,800",5 days,6 days,10 days,1,1,1,5.0,8,United States,May 2014,4 hours,1 month,English,N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$200,$260,$360,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,4.9,44,Poland,Nov 2022,1 hour,1 week,"English, Polish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$75,$175,$275,1 day,2 days,3 days,1,1,1,5.0,2,United States,Apr 2023,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,€478.74,€768.89,"€1,060",3 days,4 days,5 days,1,1,2,5.0,9,United States,Aug 2019,10 hours,9 months,English,N/A,False
+Photography,real-estate-photographers,level 1,23 Results,€145.07,€241.79,€338.50,3 days,5 days,7 days,0,1,2,5.0,2,Germany,Nov 2019,1 hour,3 days,"Chinese, German, English",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$250,$305,$360,2 days,2 days,3 days,1,1,1,5.0,3,United States,Jan 2023,3 hours,1 week,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$350,$650,"$1,250",5 days,5 days,5 days,1,1,1,5.0,1,United States,May 2014,4 hours,1 month,English,N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$225,$400,$600,4 days,5 days,5 days,-1,-1,-1,4.9,11,United States,Oct 2022,2 hours,1 month,"English, Portuguese",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$130,$160,$200,7 days,7 days,7 days,1,2,4,5.0,5,United Kingdom,Jan 2019,4 hours,1 month,"English, Persian",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$140,$165,$190,1 day,1 day,1 day,1,1,1,5.0,22,United States,Apr 2019,1 hour,2 weeks,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$50,$90,$130,2 days,3 days,3 days,1,2,3,5.0,1,India,Jun 2019,8 hours,2 weeks,"English, Hindi, Marathi, Punjabi",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$135,$245,$295,1 day,2 days,3 days,1,1,1,5.0,2,United States,Apr 2023,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$250,$355,$450,2 days,2 days,3 days,1,1,1,5.0,2,United States,Apr 2023,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$165,$295,$325,2 days,3 days,3 days,1,1,1,5.0,2,United States,Apr 2023,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 1,23 Results,$50,$50,$50,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,4.8,2,United States,Aug 2020,6 hours,2 months,English,N/A,True
+Photography,real-estate-photographers,level 1,23 Results,$110,$150,$200,2 days,2 days,2 days,-1,-1,-1,5.0,21,Sri Lanka,Feb 2020,2 hours,1 month,"English, Tamil, Sinhala",N/A,False

@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Video & Animation,video-editing,level 2,6393,$10,$25,$40,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,4.9,33,Bangladesh,Feb 2020,1 hour,about 7 hours,"English, Bengali, Spanish, German",N/A,False
+Video & Animation,video-editing,level 2,6393,$25,$80,$115,3 days,5 days,7 days,1,2,2,5.0,412,Ukraine,Apr 2020,1 hour,1 day,"Russian, Ukrainian, English",2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$25,$75,$155,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,248,Pakistan,Jan 2020,1 hour,about 11 hours,English,2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$20,$40,$60,2 days,3 days,4 days,-1,-1,-1,4.9,78,Pakistan,Sep 2018,1 hour,about 3 hours,English,7 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$10,$20,$30,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,44,Colombia,Aug 2021,3 hours,about 6 hours,"English, Spanish, Portuguese",1 order in queue,False
+Video & Animation,video-editing,level 2,6393,$80,$250,$400,1 day,1 day,2 days,2,2,2,4.9,407,India,Jun 2019,1 hour,2 days,English,1 order in queue,False
+Video & Animation,video-editing,level 2,6393,$10,$40,$70,1 day,1 day,2 days,Unlimited,Unlimited,Unlimited,4.9,71,Pakistan,Jul 2022,1 hour,about 6 hours,"Urdu, Punjabi, English",2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$35,$55,$65,4 days,5 days,6 days,0,1,3,4.9,143,India,Sep 2022,3 hours,about 6 hours,English,2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$10,$40,$95,1 day,2 days,3 days,4,5,5,5.0,"1,377",Pakistan,Jul 2019,1 hour,about 2 hours,"Urdu, English, Punjabi, Hindi",14 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$40,$80,$160,3 days,6 days,10 days,3,5,Unlimited,5.0,276,India,May 2020,1 hour,about 11 hours,"Hindi, English",6 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$25,$50,$125,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,"1,853",Pakistan,Jul 2019,1 hour,about 3 hours,English,38 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$40,$60,$80,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,586,Pakistan,Oct 2021,1 hour,1 day,English,2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$50,$120,$200,3 days,5 days,7 days,1,2,3,5.0,232,Turkey,May 2022,1 hour,2 days,English,3 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$10,$20,$40,2 days,3 days,4 days,1,1,1,5.0,"1,596",Armenia,Oct 2020,2 hours,about 11 hours,English,1 order in queue,False
+Video & Animation,video-editing,level 2,6393,€14.51,€48.36,€77.37,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,4.9,"1,473",Pakistan,Jun 2018,1 hour,about 9 hours,English,4 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$15,$40,$65,2 days,3 days,3 days,3,Unlimited,Unlimited,4.9,257,Canada,Feb 2021,13 hours,about 5 hours,"English, German, French, Norwegian Bokmål",17 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$60,$200,$320,2 days,5 days,7 days,2,3,4,5.0,"1,250",Pakistan,Jan 2021,1 hour,about 9 hours,"Urdu, English, Hindi",6 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$85,$160,$250,1 day,2 days,3 days,1,2,3,4.9,149,Bangladesh,Mar 2021,1 hour,1 day,English,N/A,False
+Video & Animation,video-editing,level 2,6393,$50,$75,$150,2 days,3 days,3 days,2,2,2,5.0,145,Morocco,May 2020,1 hour,about 3 hours,"English, French",N/A,False
+Video & Animation,video-editing,level 2,6393,€58.03,€212.77,€309.49,3 days,5 days,7 days,1,3,3,4.9,793,Pakistan,Aug 2021,1 hour,about 3 hours,English,21 orders in queue,False
+Video & Animation,video-editing,level 2,6393,€48.36,€116.06,€241.79,2 days,5 days,7 days,4,3,3,5.0,139,N/A,Jun 2022,1 hour,about 23 hours,"English, Turkish",2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,€58.03,€212.77,€309.49,3 days,5 days,7 days,1,3,3,4.9,793,Pakistan,Aug 2021,1 hour,about 3 hours,English,21 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$35,$35,$35,1-day delivery,1-day delivery,1-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.8,93,Bangladesh,May 2023,1 hour,about 3 hours,"Bengali, English, Hindi",4 orders in queue,True
+Video & Animation,video-editing,level 2,6393,€38.69,€77.37,€145.07,3 days,4 days,5 days,Unlimited,Unlimited,Unlimited,4.9,64,Pakistan,Oct 2018,1 hour,about 9 hours,"English, Portuguese, French",1 order in queue,False
+Video & Animation,video-editing,level 2,6393,$10,$20,$30,2 days,2 days,2 days,1,3,5,5.0,651,India,Jul 2020,1 hour,about 17 hours,English,N/A,False
+Video & Animation,video-editing,level 2,6393,$25,$45,$175,2 days,2 days,7 days,1,2,Unlimited,4.9,170,Pakistan,Aug 2022,1 hour,about 3 hours,"Urdu, English, Spanish, French",9 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$5,$15,$55,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,67,United States,Sep 2017,1 hour,about 22 hours,English,2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$35,$60,$100,2 days,2 days,2 days,2,2,2,4.9,256,Pakistan,Aug 2022,1 hour,about 3 hours,"Urdu, English, Spanish, French",8 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$50,$85,$150,4 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.9,229,Finland,Aug 2017,1 hour,2 days,"English, Bengali, German, Finnish",4 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$30,$60,$100,2 days,3 days,4 days,3,6,9,4.9,771,Pakistan,Jul 2021,1 hour,about 5 hours,English,13 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$40,$180,$480,2 days,4 days,6 days,2,3,4,4.9,453,Pakistan,Jul 2019,1 hour,about 11 hours,English,6 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$10,$15,$25,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,23,Sri Lanka,Oct 2021,1 hour,4 days,"English, Sinhala, Tamil",1 order in queue,False
+Video & Animation,video-editing,level 2,6393,$30,$65,$100,3 days,4 days,5 days,3,3,3,5.0,424,Philippines,Apr 2018,3 hours,5 days,"English, Tagalog",4 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$30,$75,$100,2 days,4 days,7 days,2,4,6,5.0,194,Pakistan,Feb 2018,1 hour,about 5 hours,"Urdu, English, French, Arabic",2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$35,$70,$120,7 days,6 days,5 days,1,2,4,4.9,60,India,Mar 2023,1 hour,5 days,"English, Hindi",N/A,False
+Video & Animation,video-editing,level 2,6393,$25,$50,$180,2 days,4 days,5 days,Unlimited,Unlimited,Unlimited,5.0,650,Sri Lanka,May 2019,1 hour,about 4 hours,"English, Sinhala",2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$10,$40,$70,2 days,2 days,3 days,1,3,Unlimited,4.9,"1,142",Pakistan,Jan 2016,1 hour,about 11 hours,"Urdu, Punjabi, English",6 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$5,$20,"$2,010",1 day,1 day,7 days,3,3,3,4.9,423,India,Oct 2021,1 hour,about 7 hours,"English, Spanish, French, German",7 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$60,$90,$110,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,"1,503",Pakistan,Oct 2018,1 hour,about 10 hours,"English, Urdu, Pashto, Hindi",10 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$30,$50,$75,2 days,3 days,3 days,1,2,3,4.8,110,Pakistan,Aug 2023,1 hour,about 11 hours,English,1 order in queue,False
+Video & Animation,video-editing,level 2,6393,$60,$90,$110,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,"1,503",Pakistan,Oct 2018,1 hour,about 10 hours,"English, Urdu, Pashto, Hindi",10 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$30,$90,$150,1 day,2 days,4 days,5,9,Unlimited,5.0,601,Pakistan,Jun 2020,1 hour,about 7 hours,"English, Sindhi, Urdu, Hindi",8 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$35,$70,$130,1 day,2 days,2 days,1,2,2,4.9,"1,061",Bangladesh,Oct 2016,1 hour,about 5 hours,"Bengali, English, Spanish, French",6 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$20,$40,$55,10 days,10 days,10 days,2,2,3,5.0,664,Turkey,Jan 2022,1 hour,about 15 hours,English,6 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$15,$25,$35,6 days,6 days,6 days,1,1,1,5.0,76,United Kingdom,Mar 2023,1 hour,about 6 hours,"English, French",N/A,False
+Video & Animation,video-editing,level 2,6393,$10,$20,$30,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,4.8,556,Pakistan,Apr 2022,1 hour,1 day,"English, Spanish, German",6 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$80,$160,$240,2 days,3 days,4 days,2,2,2,5.0,33,Germany,Oct 2019,1 hour,2 days,"English, German",2 orders in queue,False
+Video & Animation,video-editing,level 2,6393,$200,$300,$400,7 days,7 days,7 days,1,2,3,4.8,62,United Kingdom,Jan 2023,4 hours,2 days,"English, Italian",2 orders in queue,False

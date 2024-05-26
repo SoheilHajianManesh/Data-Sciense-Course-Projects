@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Data,data-science,level 2,170 Results,$200,$600,$850,14 days,21 days,30 days,0,2,4,5.0,12,India,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$90,$115,$140,1 day,2 days,3 days,-1,-1,-1,5.0,1,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$140,$160,$180,14 days,14 days,14 days,-1,-1,-1,5.0,25,Switzerland,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$120,$250,$605,2 days,5 days,14 days,-1,-1,-1,4.8,57,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$100,"$5,000","$7,500",2 days,21 days,45 days,0,0,0,5.0,42,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$95,$300,$940,3 days,5 days,10 days,-1,-1,-1,4.8,78,Morocco,N/A,N/A,N/A,"I speak English, Arabic, French",N/A,False
+Data,data-science,level 2,170 Results,$90,$180,$300,5 days,10 days,21 days,-1,-1,-1,4.9,41,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$90,$170,$340,1 day,14 days,30 days,-1,-1,-1,4.6,11,Germany,N/A,N/A,N/A,"I speak English, German, Spanish, Russian",N/A,False
+Data,data-science,level 2,170 Results,$250,$500,"$2,000",3 days,5 days,7 days,0,1,2,5.0,1,India,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$200,$300,$500,2 days,4 days,7 days,-1,-1,-1,4.9,72,India,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Data,data-science,level 2,170 Results,€87.04,€145.07,€241.79,2 days,4 days,5 days,0,1,2,4.9,31,Bangladesh,N/A,N/A,N/A,"I speak Bengali, Hindi, English",N/A,False
+Data,data-science,level 2,170 Results,$150,$350,$950,3 days,6 days,10 days,3,3,3,5.0,8,Morocco,N/A,N/A,N/A,"I speak English, Arabic, French",N/A,False
+Data,data-science,level 2,170 Results,$90,$150,$215,1 day,2 days,4 days,3,Unlimited,Unlimited,4.8,25,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Chinese",N/A,False
+Data,data-science,level 2,170 Results,$90,$120,$150,2 days,4 days,5 days,-1,-1,-1,5.0,15,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Chinese",N/A,False
+Data,data-science,level 2,170 Results,$120,$200,$605,2 days,4 days,14 days,-1,-1,-1,4.9,7,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$100,"$5,000","$7,500",2 days,21 days,45 days,0,0,0,5.0,42,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$50,$80,$120,7 days,5 days,3 days,-1,-1,-1,4.9,5,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$90,$150,$215,1 day,2 days,4 days,3,Unlimited,Unlimited,4.8,25,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Chinese",N/A,False
+Data,data-science,level 2,170 Results,$100,$150,$200,5 days,10 days,14 days,0,1,2,5.0,5,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,₪768.22,"₪1,921","₪3,688",3 days,5 days,10 days,3,4,5,4.7,1,Nigeria,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$150,$150,$150,14-day delivery,14-day delivery,14-day delivery,-1,-1,-1,4.9,7,United Kingdom,N/A,N/A,N/A,"I speak English, German",N/A,True
+Data,data-science,level 2,170 Results,$50,$70,$90,2 days,3 days,5 days,-1,-1,-1,4.9,6,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Data,data-science,level 2,170 Results,$300,$600,"$1,000",14 days,21 days,30 days,1,1,2,4.9,102,Sri Lanka,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$100,$200,$500,1 day,2 days,3 days,-1,-1,-1,5.0,26,Morocco,N/A,N/A,N/A,"I speak English, Arabic, French, Spanish",N/A,False
+Data,data-science,level 2,170 Results,$100,$200,$500,1 day,2 days,3 days,-1,-1,-1,5.0,26,Morocco,N/A,N/A,N/A,"I speak English, Arabic, French, Spanish",N/A,False
+Data,data-science,level 2,170 Results,€87.04,€116.06,€135.40,2 days,3 days,5 days,-1,-1,-1,5.0,1,Cyprus,N/A,N/A,N/A,"I speak English, Greek",N/A,False
+Data,data-science,level 2,170 Results,$100,$250,$500,2 days,5 days,10 days,-1,-1,-1,5.0,24,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, French, Arabic",N/A,False
+Data,data-science,level 2,170 Results,$160,$180,$220,3 days,3 days,4 days,-1,-1,-1,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$120,$180,$300,4 days,10 days,21 days,-1,-1,-1,5.0,25,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, Hindi, French",N/A,False
+Data,data-science,level 2,170 Results,$150,$400,$550,3 days,7 days,14 days,-1,-1,-1,5.0,4,India,N/A,N/A,N/A,"I speak English, German",N/A,False
+Data,data-science,level 2,170 Results,$90,$200,"$2,000",1 day,7 days,30 days,-1,-1,-1,4.9,25,India,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Data,data-science,level 2,170 Results,$20,$20,$20,2-day delivery,2-day delivery,2-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,34,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,True
+Data,data-science,level 2,170 Results,$100,$150,$250,7 days,10 days,14 days,2,5,Unlimited,5.0,23,Pakistan,N/A,N/A,N/A,"I speak Urdu, Pashto, English",N/A,False
+Data,data-science,level 2,170 Results,$100,$150,$250,3 days,7 days,14 days,-1,-1,-1,5.0,3,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$150,$150,$150,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,5.0,6,Venezuela,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Data,data-science,level 2,170 Results,$100,$150,$250,2 days,3 days,4 days,-1,-1,-1,5.0,4,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Data,data-science,level 2,170 Results,$90,$120,$160,2 days,4 days,6 days,-1,-1,-1,5.0,5,Cyprus,N/A,N/A,N/A,"I speak English, Greek",N/A,False
+Data,data-science,level 2,170 Results,$90,$110,$145,2 days,3 days,7 days,-1,-1,-1,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$90,$120,$135,2 days,2 days,3 days,-1,-1,-1,5.0,23,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$90,$110,$120,2 days,2 days,3 days,-1,-1,-1,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$50,$50,$50,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,52,Bangladesh,N/A,N/A,N/A,"I speak English, German, Hindi",N/A,True
+Data,data-science,level 2,170 Results,$100,$150,$250,7 days,5 days,4 days,2,3,Unlimited,4.6,12,Pakistan,N/A,N/A,N/A,"I speak Urdu, Pashto, English",N/A,False
+Data,data-science,level 2,170 Results,$50,$70,$100,2 days,2 days,2 days,-1,-1,-1,5.0,18,South Africa,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$95,$120,$150,2 days,3 days,5 days,-1,-1,-1,5.0,2,Sri Lanka,N/A,N/A,N/A,"I speak English, Sinhala",N/A,False
+Data,data-science,level 2,170 Results,$90,$110,$200,2 days,2 days,3 days,-1,-1,-1,5.0,5,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$200,$600,$850,14 days,21 days,30 days,0,2,4,N/A,N/A,India,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-science,level 2,170 Results,$90,$145,$220,4 days,7 days,10 days,-1,-1,-1,5.0,12,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-science,level 2,170 Results,$90,$110,$145,2 days,3 days,7 days,-1,-1,-1,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False

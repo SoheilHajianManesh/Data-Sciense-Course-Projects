@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$100,$250,$450,2 days,2 days,3 days,1,1,1,5.0,101,United Kingdom,Aug 2020,5 hours,1 month,English,N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$100,$190,$650,3 days,5 days,14 days,5,5,5,5.0,13,Italy,Oct 2020,1 hour,1 day,"Italian, English, Spanish, German",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$140,$185,$240,3 days,5 days,7 days,3,4,5,5.0,171,United Kingdom,Jul 2020,1 hour,2 days,English,N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$140,$180,$230,3 days,3 days,3 days,3,3,3,5.0,351,United States,Mar 2016,1 hour,about 18 hours,"English, Spanish, Portuguese",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$70,$250,$450,3 days,7 days,21 days,3,3,3,5.0,111,Ukraine,Mar 2019,3 hours,3 days,"English, Ukrainian, Polish",2 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$10,$50,$90,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,5.0,841,Italy,Aug 2017,3 hours,about 44 minutes,"English, Italian",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$15,$20,$25,2 days,3 days,3 days,9,9,9,4.9,"4,058",Brazil,Jan 2021,1 hour,about 10 hours,English,56 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$10,$15,$25,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,"1,874",Sri Lanka,Aug 2017,2 hours,about 2 hours,"English, Sinhala",15 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$130,$235,$375,3 days,4 days,5 days,2,3,4,5.0,332,Italy,Apr 2019,1 hour,4 days,"English, Italian",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$15,$25,$35,3 days,3 days,3 days,5,5,5,4.9,"2,896",United States,Feb 2018,2 hours,about 2 hours,English,31 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",US$10,US$25,US$40,7 days,7 days,7 days,Unlimited,Unlimited,Unlimited,5.0,"10,938",United States,Apr 2013,11 hours,about 47 minutes,English,46 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$30,$50,$80,3 days,4 days,5 days,2,2,2,5.0,211,Italy,Feb 2022,1 hour,about 7 hours,"English, Italian",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$80,$120,$150,3 days,5 days,7 days,Unlimited,Unlimited,Unlimited,5.0,25,United Kingdom,Apr 2018,3 hours,2 weeks,English,N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$65,$90,$150,2 days,3 days,5 days,3,5,Unlimited,5.0,63,United Kingdom,Mar 2023,1 hour,about 4 hours,English,N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$40,$80,$120,1 day,1 day,2 days,1,1,2,5.0,14,Ukraine,Mar 2020,1 hour,about 3 hours,"English, Ukrainian",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$50,$70,$110,3 days,4 days,5 days,2,2,2,5.0,135,Italy,Apr 2020,2 hours,3 days,"English, Italian",3 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",₪192.06,₪288.08,₪326.49,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,424,Czech Republic,Apr 2021,3 hours,1 day,English,2 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$20,$35,$100,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,350,Brazil,Aug 2019,1 hour,1 day,"English, Portuguese, Spanish, Italian",7 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$100,$140,$200,3 days,4 days,6 days,Unlimited,Unlimited,Unlimited,5.0,170,United States,Feb 2016,5 hours,about 16 hours,"English, Spanish",3 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$30,$70,$80,5 days,7 days,7 days,2,5,5,5.0,327,Brazil,Oct 2020,1 hour,about 17 hours,"English, Portuguese",5 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$30,$105,$110,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,265,Netherlands,May 2020,1 hour,3 days,"English, Dutch",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$10,$15,$45,1 day,1 day,2 days,2,2,3,4.9,"12,860",United States,Mar 2011,1 hour,about 19 hours,English,1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$50,$110,$180,7 days,7 days,10 days,2,2,3,5.0,311,United States,Mar 2019,7 hours,3 days,English,N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$50,$70,$85,3 days,5 days,6 days,2,3,5,5.0,530,Poland,Nov 2020,2 hours,about 20 hours,"English, Polish, Russian",3 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$180,$300,$500,2 days,3 days,3 days,2,3,3,5.0,7,Colombia,Mar 2020,1 hour,3 weeks,"English, Spanish, French, German",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$40,$100,$250,1 day,3 days,5 days,2,3,4,5.0,42,Greece,Jul 2020,1 hour,about 20 hours,"English, Greek",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$130,$200,$300,5 days,5 days,5 days,1,1,3,5.0,46,Brazil,May 2021,1 hour,1 month,"English, Portuguese, Spanish",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$25,$60,$100,4 days,7 days,10 days,1,1,2,5.0,177,Italy,Sep 2021,2 hours,about 21 hours,English,1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$10,$15,$20,1 day,2 days,2 days,Unlimited,Unlimited,Unlimited,4.9,619,Sri Lanka,Aug 2017,2 hours,about 2 hours,"English, Sinhala",4 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$10,$25,$40,1 day,1 day,2 days,2,2,2,5.0,368,United States,Mar 2018,3 hours,about 7 minutes,English,1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$15,$40,$65,4 days,6 days,7 days,2,3,4,5.0,56,Croatia,Nov 2022,1 hour,2 days,"English, Croatian, Italian",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$35,$65,$90,3 days,3 days,4 days,2,2,3,5.0,754,Germany,Apr 2020,2 hours,about 3 hours,"English, German",2 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$55,$85,$150,2 days,2 days,2 days,9,9,Unlimited,5.0,172,Kenya,Dec 2021,1 hour,1 day,"English, Swahili",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$140,$170,$200,2 days,2 days,3 days,2,2,3,5.0,300,Italy,Mar 2020,1 hour,4 days,"Italian, English",2 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$50,$75,$100,5 days,5 days,5 days,2,2,2,4.9,648,United States,Oct 2020,4 hours,4 days,English,2 orders in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",₪134.44,₪134.44,₪134.44,2-day delivery,2-day delivery,2-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,5.0,461,Sri Lanka,Aug 2017,1 hour,about 5 hours,English,3 orders in queue,True
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$245,$320,$430,30 days,7 days,3 days,1,2,3,5.0,23,United Kingdom,Aug 2019,1 hour,2 weeks,"English, Spanish",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$50,$120,$200,3 days,4 days,5 days,2,2,2,5.0,2,Ukraine,Aug 2020,1 hour,2 days,"Ukrainian, English",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$55,$75,$130,5 days,5 days,7 days,3,3,3,5.0,17,New Zealand,Aug 2022,2 hours,about 11 hours,English,1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$250,$300,$350,7 days,10 days,10 days,Unlimited,Unlimited,Unlimited,5.0,32,Portugal,Jun 2016,2 hours,about 22 hours,"English, Portuguese, Spanish",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$30,$75,$95,1 day,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,123,Germany,Mar 2022,1 hour,1 week,"English, German",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$40,$80,$125,3 days,5 days,5 days,3,4,5,5.0,287,Hungary,Jun 2020,1 hour,2 days,"English, Hungarian, German",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$100,$180,$230,3 days,7 days,7 days,1,1,1,4.9,31,Italy,Sep 2022,2 hours,2 days,"English, Italian",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",€24.18,€58.03,€96.72,4 days,7 days,10 days,1,1,2,5.0,177,Italy,Sep 2021,2 hours,about 21 hours,English,1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$155,$195,$245,6 days,6 days,6 days,4,4,4,5.0,66,Italy,Aug 2020,2 hours,1 week,"English, Italian, Portuguese",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$100,$130,$180,6 days,6 days,6 days,2,2,2,4.9,33,Germany,Dec 2022,4 hours,3 days,"English, Swedish",1 order in queue,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$50,$100,$200,1 day,2 days,3 days,1,3,Unlimited,5.0,26,Germany,Apr 2020,1 hour,1 month,"English, German, French",N/A,False
+Music & Audio,mixing-mastering,level 2,"1,000+ Results",$25,$40,$60,2 days,3 days,4 days,3,6,9,4.9,49,United Kingdom,Aug 2020,3 hours,1 week,English,N/A,False

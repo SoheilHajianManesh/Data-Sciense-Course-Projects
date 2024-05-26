@@ -1,0 +1,9 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,personal-stylists,top rated seller,7 Results,$15,$35,$65,2 days,3 days,4 days,-1,-1,-1,5.0,4,United Kingdom,Jun 2020,1 hour,about 7 hours,"English, Greek, Spanish",N/A,False
+Lifestyle,personal-stylists,top rated seller,7 Results,$55,$95,$155,2 days,3 days,5 days,-1,-1,-1,5.0,2,Bulgaria,Mar 2021,3 hours,about 53 minutes,English,N/A,False
+Lifestyle,personal-stylists,top rated seller,7 Results,$15,$30,$50,4 days,6 days,10 days,-1,-1,-1,5.0,7,Greece,May 2017,1 hour,5 days,"English, Greek",N/A,False
+Lifestyle,personal-stylists,top rated seller,7 Results,$25,$40,$80,4 days,6 days,10 days,-1,-1,-1,4.9,42,Greece,May 2017,1 hour,5 days,"English, Greek",N/A,False
+Lifestyle,personal-stylists,top rated seller,7 Results,$35,$35,$35,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,4.9,6,Greece,May 2017,1 hour,5 days,"English, Greek",N/A,True
+Lifestyle,personal-stylists,top rated seller,7 Results,$35,$50,$95,4 days,6 days,10 days,-1,-1,-1,4.9,98,Greece,May 2017,1 hour,5 days,"English, Greek",N/A,False
+Lifestyle,personal-stylists,top rated seller,7 Results,$25,$50,$100,10 days,14 days,14 days,-1,-1,-1,5.0,29,Portugal,Nov 2021,4 hours,1 day,"English, Portuguese",N/A,False
+Lifestyle,personal-stylists,top rated seller,7 Results,$15,$35,$65,2 days,3 days,4 days,-1,-1,-1,5.0,4,United Kingdom,Jun 2020,1 hour,about 7 hours,"English, Greek, Spanish",N/A,False

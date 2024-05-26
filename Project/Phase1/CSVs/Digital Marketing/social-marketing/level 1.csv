@@ -1,0 +1,48 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$70,$100,$150,7 days,10 days,14 days,Unlimited,Unlimited,Unlimited,5.0,64,India,Aug 2022,1 hour,1 day,"English, Hindi",6 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$40,$70,$120,7 days,14 days,30 days,2,3,4,4.9,173,Pakistan,Jul 2021,2 hours,3 weeks,"English, Urdu",2 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$15,$30,3 days,10 days,21 days,-1,-1,-1,5.0,17,Bangladesh,May 2023,1 hour,about 9 hours,"Bengali, English",2 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$95,$155,$235,7 days,21 days,30 days,-1,-1,-1,5.0,17,Bangladesh,Oct 2020,1 hour,6 days,English,3 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$140,$250,$375,3 days,3 days,3 days,-1,-1,-1,4.9,394,United States,Mar 2020,21 hours,2 days,English,3 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$25,$50,3 days,5 days,7 days,-1,-1,-1,4.7,86,Bangladesh,Feb 2024,1 hour,about 13 hours,English,13 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$40,$130,$850,21 days,30 days,45 days,-1,-1,-1,4.8,15,Pakistan,Dec 2019,1 hour,1 day,"English, French, Urdu, Hindi",2 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$10,$20,1 day,1 day,1 day,-1,-1,-1,4.9,108,Egypt,Jun 2021,1 hour,about 14 hours,"English, Arabic",1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$30,$100,$150,2 days,5 days,7 days,-1,-1,-1,5.0,37,Bangladesh,Sep 2022,1 hour,1 day,"Bengali, English, Spanish, German",3 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$45,$90,2 days,3 days,5 days,-1,-1,-1,4.6,16,Bangladesh,Apr 2021,1 hour,about 12 hours,English,4 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$10,$60,$100,1 day,3 days,5 days,2,3,7,5.0,34,Pakistan,Apr 2024,1 hour,1 day,"English, Spanish, Dutch, Italian",N/A,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$150,$190,$250,10 days,14 days,21 days,3,Unlimited,Unlimited,4.8,76,Poland,Nov 2019,2 hours,about 4 minutes,"English, Polish",7 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$195,$295,$395,14 days,14 days,14 days,1,2,3,4.9,138,United Kingdom,Jul 2021,1 day,1 day,English,2 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$20,$60,$150,2 days,3 days,4 days,-1,-1,-1,5.0,11,Bangladesh,Mar 2024,1 hour,about 14 hours,"English, Spanish, German, French",1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$10,$40,$70,5 days,14 days,30 days,-1,-1,-1,4.9,39,Pakistan,Jul 2022,1 hour,about 11 hours,"Urdu, English, Spanish",5 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$200,$450,$800,14 days,30 days,60 days,-1,-1,-1,4.9,6,Sri Lanka,Dec 2017,11 hours,4 days,"English, Sinhala",5 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",€4.84,€14.51,€24.19,1 day,1 day,1 day,-1,-1,-1,4.8,204,Egypt,Apr 2023,1 hour,about 2 hours,"English, Arabic",3 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$95,$155,$235,7 days,21 days,30 days,-1,-1,-1,5.0,17,Bangladesh,Oct 2020,1 hour,6 days,English,3 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$10,$20,$25,1 day,1 day,1 day,-1,-1,-1,4.8,64,Pakistan,Sep 2022,1 hour,about 2 hours,"English, French, German, Korean",N/A,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",£4.12,£4.12,£4.12,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,4.6,35,Morocco,Nov 2014,9 hours,about 9 hours,"Spanish, French, German, English",1 order in queue,True
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$10,$65,$115,1 day,2 days,3 days,-1,-1,-1,4.9,22,Bangladesh,Nov 2023,1 hour,about 12 hours,"Bengali, English",1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$55,$55,$55,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,97,Bangladesh,Jul 2023,1 hour,1 day,"Bengali, English, German, Spanish",N/A,True
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$20,$50,2 days,3 days,7 days,-1,-1,-1,4.7,12,Bangladesh,Dec 2022,5 hours,1 day,N/A,1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$200,$300,$400,3 days,3 days,10 days,-1,-1,-1,4.8,31,India,Aug 2019,1 hour,about 2 hours,"Hindi, English",3 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$35,$70,$130,7 days,14 days,30 days,1,2,2,5.0,12,Pakistan,Mar 2018,1 hour,1 day,"Urdu, English, German",7 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$15,$30,2 days,2 days,3 days,-1,-1,-1,4.9,62,Pakistan,Apr 2023,1 hour,1 day,"English, Urdu, Spanish, German",1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$20,$55,$110,3 days,7 days,10 days,-1,-1,-1,5.0,10,Bangladesh,Nov 2023,1 hour,1 week,"Bengali, English, Spanish, German",1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$30,$50,$100,2 days,3 days,5 days,1,1,1,5.0,71,Pakistan,Nov 2020,1 hour,1 day,English,1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$10,$25,$60,1 day,2 days,3 days,-1,-1,-1,5.0,34,Pakistan,Feb 2024,1 hour,about 13 hours,"English, Dutch, Italian, Spanish",1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$20,$60,$110,2 days,3 days,5 days,-1,-1,-1,5.0,63,Bangladesh,Mar 2023,1 hour,2 days,"English, French, German, Spanish",N/A,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$50,$160,3 days,10 days,30 days,1,1,1,4.8,50,Pakistan,Nov 2023,1 hour,about 18 hours,English,4 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$15,$35,$50,2 days,4 days,5 days,-1,-1,-1,4.9,12,Pakistan,Jul 2022,1 hour,1 day,"English, Spanish, German",4 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$100,$450,$700,7 days,30 days,30 days,0,0,1,5.0,29,India,Jan 2019,1 hour,3 days,"English, Hindi, Spanish, French",4 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$50,$95,$135,7 days,14 days,30 days,1,Unlimited,Unlimited,4.9,27,Pakistan,Nov 2023,3 hours,1 week,English,2 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$10,$25,2 days,3 days,6 days,-1,-1,-1,4.9,37,Bangladesh,Mar 2022,1 hour,about 12 hours,English,2 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$30,$60,$250,3 days,5 days,10 days,-1,-1,-1,4.9,20,Egypt,Jan 2022,1 hour,about 6 hours,"English, Arabic",N/A,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$50,$110,$170,10 days,30 days,30 days,Unlimited,Unlimited,Unlimited,4.9,235,Pakistan,Oct 2016,1 hour,1 day,"Urdu, English",7 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$50,$120,$200,1 day,3 days,7 days,-1,-1,-1,4.8,14,Bangladesh,Apr 2022,1 hour,1 day,"Bengali, English, French, German",N/A,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$50,$70,$100,21 days,30 days,30 days,-1,-1,-1,4.9,228,India,Jul 2020,1 hour,3 days,"English, Hindi",11 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$30,$120,$280,7 days,21 days,30 days,Unlimited,Unlimited,Unlimited,4.9,53,Pakistan,Jun 2020,2 hours,2 days,"Urdu, Punjabi, English",4 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$20,$60,$120,2 days,3 days,4 days,-1,-1,-1,5.0,21,Bangladesh,Feb 2024,1 hour,about 17 hours,"English, Spanish, French, German",1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$25,$75,$120,4 days,6 days,6 days,-1,-1,-1,5.0,21,Pakistan,Oct 2020,1 hour,1 week,"English, German, French",N/A,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$100,$180,$250,7 days,14 days,21 days,Unlimited,Unlimited,Unlimited,5.0,23,India,Jan 2024,1 hour,3 days,English,4 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$15,$50,$100,1 day,2 days,3 days,-1,-1,-1,5.0,22,Bangladesh,Aug 2022,1 hour,3 weeks,"Bengali, English",N/A,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$5,$10,$20,3 days,7 days,14 days,-1,-1,-1,5.0,32,Sri Lanka,Sep 2023,1 hour,1 day,"Tamil, English, Arabic, Urdu",1 order in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$30,$70,$150,5 days,14 days,30 days,3,4,Unlimited,4.9,13,Pakistan,Oct 2022,1 hour,4 days,"English, German",2 orders in queue,False
+Digital Marketing,social-marketing,level 1,"6,400+ Results",$20,$50,$190,2 days,3 days,5 days,-1,-1,-1,5.0,34,Bangladesh,May 2023,1 hour,1 day,"English, French, Dutch",N/A,False

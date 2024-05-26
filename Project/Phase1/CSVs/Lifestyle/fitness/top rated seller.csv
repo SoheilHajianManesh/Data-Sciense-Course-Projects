@@ -1,0 +1,28 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,fitness,top rated seller,25 Results,₪172.85,₪556.96,"₪1,518",7 days,7 days,10 days,-1,-1,-1,5.0,631,United States,Sept 2013,3 hours,1 day,English,2 orders in queue,False
+Lifestyle,fitness,top rated seller,25 Results,$35,$65,$80,2 days,5 days,5 days,-1,-1,-1,5.0,115,Italy,May 2018,3 hours,2 weeks,"English, Italian, Romanian",2 orders in queue,False
+Lifestyle,fitness,top rated seller,25 Results,€9.67,€29.01,€48.36,3 days,4 days,5 days,-1,-1,-1,5.0,110,Bulgaria,Jun 2020,3 hours,3 days,"English, Bulgarian",N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$35,$65,$80,2 days,5 days,5 days,-1,-1,-1,5.0,115,Italy,May 2018,3 hours,2 weeks,"English, Italian, Romanian",2 orders in queue,False
+Lifestyle,fitness,top rated seller,25 Results,$90,$125,$155,4 days,6 days,7 days,-1,-1,-1,5.0,118,Singapore,Jan 2020,2 hours,2 days,English,1 order in queue,False
+Lifestyle,fitness,top rated seller,25 Results,€507.76,€749.54,"€1,064",10 days,14 days,21 days,-1,-1,-1,5.0,139,Singapore,Jan 2020,2 hours,2 days,English,2 orders in queue,False
+Lifestyle,fitness,top rated seller,25 Results,$200,$300,$500,3 days,3 days,3 days,-1,-1,-1,4.9,25,Thailand,Feb 2021,5 hours,about 10 hours,English,N/A,False
+Lifestyle,fitness,top rated seller,25 Results,€87.04,€120.89,€149.91,4 days,6 days,7 days,-1,-1,-1,4.7,16,Singapore,Jan 2020,2 hours,2 days,English,N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$250,$375,$595,3 days,3 days,3 days,-1,-1,-1,5.0,26,Thailand,Feb 2021,5 hours,about 10 hours,English,N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$60,$100,$160,3 days,3 days,3 days,-1,-1,-1,4.9,53,Thailand,Feb 2021,5 hours,about 10 hours,English,N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$70,$120,$150,3 days,3 days,3 days,-1,-1,-1,5.0,11,Thailand,Feb 2021,5 hours,about 10 hours,English,N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$15,$20,$30,1 day,1 day,1 day,-1,-1,-1,5.0,153,Thailand,Mar 2020,1 hour,2 weeks,"English, Malay",1 order in queue,False
+Lifestyle,fitness,top rated seller,25 Results,$10,$15,$25,1 day,1 day,1 day,-1,-1,-1,5.0,38,Italy,May 2021,1 hour,1 day,"English, German, Italian, Spanish",1 order in queue,False
+Lifestyle,fitness,top rated seller,25 Results,$45,$145,$395,7 days,7 days,10 days,-1,-1,-1,5.0,631,United States,Sep 2013,3 hours,1 day,English,2 orders in queue,False
+Lifestyle,fitness,top rated seller,25 Results,$150,$200,$520,3 days,3 days,3 days,-1,-1,-1,5.0,2,Bulgaria,Jun 2020,3 hours,3 days,"English, Bulgarian",N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$45,$150,$395,5 days,7 days,10 days,-1,-1,-1,5.0,75,United States,Sep 2013,3 hours,1 day,English,N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$20,$30,$35,1 day,1 day,1 day,-1,-1,-1,5.0,27,Thailand,Mar 2020,1 hour,2 weeks,"English, Malay",N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$15,$15,$15,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,10,Thailand,Mar 2020,1 hour,2 weeks,"English, Malay",N/A,True
+Lifestyle,fitness,top rated seller,25 Results,€145.07,€241.79,€386.86,3 days,3 days,3 days,-1,-1,-1,5.0,2,Thailand,Feb 2021,5 hours,about 10 hours,English,N/A,False
+Lifestyle,fitness,top rated seller,25 Results,€38.69,€53.19,€62.86,1 day,1 day,1 day,-1,-1,-1,5.0,13,Thailand,Mar 2020,1 hour,2 weeks,"English, Malay",N/A,False
+Lifestyle,fitness,top rated seller,25 Results,€19.34,€58.03,€77.37,2 days,2 days,2 days,-1,-1,-1,4.8,9,Thailand,Feb 2021,5 hours,about 10 hours,English,1 order in queue,False
+Lifestyle,fitness,top rated seller,25 Results,€9.67,€29.01,€48.36,3 days,4 days,5 days,-1,-1,-1,5.0,1,Bulgaria,Jun 2020,3 hours,3 days,"Bulgarian, English",N/A,False
+Lifestyle,fitness,top rated seller,25 Results,€53.19,€53.19,€53.19,30-day delivery,30-day delivery,30-day delivery,-1,-1,-1,5.0,1,Argentina,Apr 2021,3 hours,1 day,"English, Spanish",N/A,True
+Lifestyle,fitness,top rated seller,25 Results,€14.51,€14.51,€14.51,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,1,Italy,May 2021,1 hour,1 day,"English, German, Italian, Spanish",N/A,True
+Lifestyle,fitness,top rated seller,25 Results,$25,$35,$45,2 days,2 days,2 days,-1,-1,-1,5.0,1,Singapore,Jan 2020,2 hours,2 days,English,N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$10,$30,$50,3 days,4 days,5 days,-1,-1,-1,5.0,1,Bulgaria,Jun 2020,3 hours,3 days,"English, Bulgarian",N/A,False
+Lifestyle,fitness,top rated seller,25 Results,$100,"$1,200","$2,500",5 days,5 days,5 days,-1,-1,-1,5.0,245,Bulgaria,Jun 2020,3 hours,3 days,"English, Bulgarian",N/A,False

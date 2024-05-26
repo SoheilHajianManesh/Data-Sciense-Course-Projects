@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,personal-stylists,level 1,128 Results,$65,$95,$155,7 days,10 days,10 days,-1,-1,-1,5.0,94,Spain,May 2022,6 hours,2 days,English,4 orders in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$35,$75,$115,1 day,2 days,2 days,-1,-1,-1,4.9,192,United States,Jul 2021,17 hours,about 3 hours,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$65,$115,$145,1 day,2 days,3 days,-1,-1,-1,4.8,82,United States,Jul 2021,17 hours,about 3 hours,English,2 orders in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$25,$70,$115,1 day,2 days,2 days,-1,-1,-1,4.9,128,United States,Jul 2021,17 hours,about 3 hours,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,€29.01,€48.36,€77.37,2 days,3 days,4 days,-1,-1,-1,5.0,7,India,Oct 2021,1 hour,1 day,"Hindi, English",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$15,$20,$25,2 days,1 day,2 days,-1,-1,-1,4.9,211,Portugal,Feb 2022,3 hours,about 1 hour,"English, Portuguese",3 orders in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.9,86,Indonesia,Jan 2017,1 hour,about 8 hours,"English, Indonesian",1 order in queue,True
+Lifestyle,personal-stylists,level 1,128 Results,$20,$45,$70,2 days,3 days,5 days,-1,-1,-1,4.9,442,United Kingdom,Feb 2014,1 hour,1 day,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$65,$95,$155,7 days,10 days,10 days,-1,-1,-1,5.0,94,Spain,May 2022,6 hours,2 days,English,4 orders in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$20,$30,$45,3 days,5 days,7 days,-1,-1,-1,4.8,24,Mexico,Jan 2021,4 hours,2 weeks,"English, Spanish",1 order in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$35,$50,$110,2 days,3 days,6 days,-1,-1,-1,4.9,30,India,Oct 2021,1 hour,1 day,"Hindi, English",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$25,$70,$115,1 day,2 days,2 days,-1,-1,-1,4.9,128,United States,Jul 2021,17 hours,about 3 hours,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,€87.04,€154.74,€261.13,14 days,14 days,14 days,-1,-1,-1,5.0,15,Poland,Aug 2022,1 hour,3 months,"English, Ukrainian, Polish",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,US$150,US$275,US$395,3 days,7 days,10 days,-1,-1,-1,4.9,29,United States,Apr 2020,1 hour,2 days,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$160,$195,$225,14 days,14 days,14 days,-1,-1,-1,5.0,12,Poland,Aug 2022,1 hour,3 months,"English, Ukrainian, Polish",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$25,$35,$45,5 days,5 days,5 days,-1,-1,-1,5.0,1,Italy,Jul 2020,1 hour,3 weeks,"English, Italian, French",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$35,$70,$100,2 days,3 days,4 days,-1,-1,-1,5.0,193,India,Oct 2021,1 hour,1 day,"Hindi, English",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$35,$75,$110,1 day,2 days,2 days,-1,-1,-1,4.9,146,United States,Jul 2021,17 hours,about 3 hours,English,1 order in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$10,$15,$25,1 day,2 days,3 days,-1,-1,-1,4.9,157,Philippines,Nov 2020,2 hours,1 day,"English, Tagalog",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$10,$20,$35,2 days,3 days,4 days,-1,-1,-1,4.9,18,Macedonia [FYROM],Jun 2022,1 hour,5 days,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$30,$90,$150,1 day,1 day,14 days,-1,-1,-1,4.9,7,Barbados,Sep 2020,3 hours,1 week,N/A,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$40,$60,$90,4 days,6 days,7 days,-1,-1,-1,5.0,9,United Kingdom,Feb 2022,4 hours,1 month,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$35,$75,$115,1 day,2 days,2 days,-1,-1,-1,4.9,192,United States,Jul 2021,17 hours,about 3 hours,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$35,$70,$100,3 days,4 days,5 days,-1,-1,-1,5.0,97,United Kingdom,Feb 2014,1 hour,1 day,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$35,$60,$100,1 day,2 days,4 days,-1,-1,-1,4.5,2,Slovenia,Nov 2022,1 hour,about 15 hours,"English, Slovenian",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$100,$200,$285,5 days,7 days,14 days,-1,-1,-1,4.9,19,United Kingdom,Dec 2019,1 hour,4 weeks,"English, Spanish",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$15,$40,$65,2 days,3 days,5 days,-1,-1,-1,4.7,16,Pakistan,Sep 2020,1 hour,1 day,"English, Urdu",1 order in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$60,$60,$60,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,7,United Kingdom,Mar 2018,2 hours,1 week,English,N/A,True
+Lifestyle,personal-stylists,level 1,128 Results,$25,$70,$200,5 days,10 days,30 days,-1,-1,-1,4.9,10,United States,Mar 2019,9 hours,4 days,"English, German",2 orders in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$50,$60,$85,3 days,3 days,3 days,-1,-1,-1,5.0,13,Australia,Aug 2022,4 hours,1 month,N/A,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$30,$40,$80,5 days,7 days,14 days,-1,-1,-1,4.9,20,Sweden,Apr 2022,6 hours,1 week,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$15,$40,$65,2 days,3 days,5 days,-1,-1,-1,4.7,16,Pakistan,Sep 2020,1 hour,1 day,"English, Urdu",1 order in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$30,$50,$85,2 days,3 days,4 days,-1,-1,-1,4.7,19,United States,Apr 2022,2 hours,2 weeks,"English, Spanish",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$30,$60,$130,2 days,3 days,5 days,-1,-1,-1,4.8,5,Pakistan,Jun 2018,2 hours,5 days,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$65,$115,$145,1 day,2 days,3 days,-1,-1,-1,4.8,82,United States,Jul 2021,17 hours,about 4 hours,English,2 orders in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$35,$45,$70,1 day,1 day,1 day,-1,-1,-1,4.8,304,United States,Jul 2021,17 hours,about 4 hours,English,1 order in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$20,$40,$50,3 days,3 days,3 days,-1,-1,-1,4.9,13,Pakistan,May 2023,1 hour,3 days,"English, Urdu",1 order in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$50,$90,$140,2 days,4 days,5 days,-1,-1,-1,5.0,3,Slovenia,Nov 2022,1 hour,about 15 hours,"English, Slovenian",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,€19.34,€19.34,€19.34,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,6,Pakistan,Oct 2021,1 hour,1 week,"English, Urdu, Turkish",N/A,True
+Lifestyle,personal-stylists,level 1,128 Results,$30,$50,$80,3 days,4 days,6 days,-1,-1,-1,4.8,3,India,Oct 2021,1 hour,1 day,"Hindi, English",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$10,$15,$35,2 days,3 days,4 days,-1,-1,-1,5.0,19,France,Nov 2020,1 day,2 weeks,"English, French",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$20,$35,$75,2 days,3 days,6 days,-1,-1,-1,5.0,4,Italy,Jan 2023,2 hours,3 weeks,"English, Italian, Portuguese",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$25,$35,$45,5 days,5 days,5 days,-1,-1,-1,5.0,1,Italy,Jul 2020,1 hour,3 weeks,"English, Italian, French",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$20,$25,$30,3 days,3 days,3 days,-1,-1,-1,5.0,30,Indonesia,Jun 2021,1 hour,1 week,"English, Indonesian, Korean",N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$10,$20,$35,2 days,3 days,4 days,-1,-1,-1,4.9,13,Macedonia [FYROM],Jun 2022,1 hour,5 days,English,N/A,False
+Lifestyle,personal-stylists,level 1,128 Results,$20,$40,$50,3 days,3 days,3 days,-1,-1,-1,4.9,13,Pakistan,May 2023,1 hour,3 days,"English, Urdu",1 order in queue,False
+Lifestyle,personal-stylists,level 1,128 Results,$200,$200,$200,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,5.0,5,Vietnam,Feb 2020,3 days,1 month,"English, Vietnamese",N/A,True
+Lifestyle,personal-stylists,level 1,128 Results,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,7,Jamaica,Oct 2022,2 hours,1 month,"English, Spanish",N/A,True

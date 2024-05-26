@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$50,$50,$50,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,6,Pakistan,Apr 2022,1 hour,2 months,"Urdu, English",N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$10,$15,$20,1 day,2 days,2 days,-1,-1,-1,4.9,34,Italy,May 2022,1 hour,about 5 hours,"English, Italian",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$35,$70,$80,5 days,5 days,5 days,-1,-1,-1,4.9,678,Germany,Sep 2020,9 hours,about 8 minutes,"English, German",7 orders in queue,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$30,$50,$100,2 days,2 days,3 days,-1,-1,-1,4.9,25,United Kingdom,Sep 2023,7 hours,1 day,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$25,$40,$55,4 days,4 days,4 days,-1,-1,-1,5.0,50,Brazil,Jun 2022,2 hours,4 days,"English, Portuguese, French",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$20,$30,$40,2 days,3 days,3 days,-1,-1,-1,5.0,29,Mexico,Mar 2022,1 hour,about 5 hours,"English, Spanish",2 orders in queue,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$25,$30,$45,2 days,3 days,4 days,-1,-1,-1,4.9,133,Canada,Feb 2023,2 hours,about 19 hours,English,2 orders in queue,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$35,$40,$70,4 days,4 days,4 days,-1,-1,-1,4.9,96,Sweden,Apr 2013,1 hour,2 days,English,1 order in queue,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$95,$180,$360,5 days,6 days,10 days,-1,-1,-1,5.0,18,Germany,Apr 2021,2 hours,1 week,"German, English",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$50,$65,$80,3 days,3 days,3 days,-1,-1,-1,4.9,11,United Kingdom,Sep 2021,1 hour,4 months,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$70,$70,$70,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,1,Chile,Oct 2022,12 days,4 months,"English, Spanish",N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$30,$40,$50,3 days,4 days,4 days,-1,-1,-1,5.0,25,Mexico,Mar 2022,1 hour,about 5 hours,"English, Spanish",1 order in queue,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$45,$70,$100,2 days,3 days,4 days,-1,-1,-1,5.0,3,United States,Jan 2021,5 days,5 months,"English, Spanish",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$10,$50,2 days,4 days,7 days,-1,-1,-1,5.0,44,United States,Apr 2016,2 days,2 weeks,"English, Spanish",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$10,$25,3 days,3 days,3 days,-1,-1,-1,4.9,15,India,May 2021,1 hour,3 weeks,"Assamese, English, Hindi, Bengali",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$15,$25,$35,1 day,1 day,1 day,-1,-1,-1,4.8,89,Pakistan,Mar 2020,3 hours,4 days,English,1 order in queue,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$75,$125,$245,3 days,7 days,10 days,-1,-1,-1,5.0,8,United States,Jun 2021,8 hours,5 days,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$30,$50,$75,2 days,2 days,1 day,-1,-1,-1,5.0,3,India,Aug 2023,11 hours,1 day,"Hindi, English, Gujarati, Assamese",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$10,$20,$30,3 days,5 days,30 days,-1,-1,-1,5.0,1,Germany,Mar 2023,N/A,1 year,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$15,$30,$65,1 day,1 day,1 day,1,1,0,5.0,6,United States,Nov 2022,N/A,8 months,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,N/A,N/A,Argentina,Dec 2023,N/A,N/A,"English, Spanish",N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$65,$65,$65,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,N/A,N/A,Belgium,Aug 2019,8 hours,2 years,"English, Dutch, French",N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,10-day delivery,10-day delivery,10-day delivery,-1,-1,-1,1.0,1,United States,Jan 2013,N/A,N/A,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$30,$30,$30,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,N/A,N/A,Belgium,Aug 2019,8 hours,2 years,"English, Dutch, French",N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$10,$10,$10,30-day delivery,30-day delivery,30-day delivery,-1,-1,-1,4.8,59,United States,May 2022,21 hours,about 20 hours,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,1.0,1,United States,Feb 2014,N/A,N/A,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,29-day delivery,29-day delivery,29-day delivery,-1,-1,-1,N/A,N/A,United States,Jan 2014,N/A,N/A,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,1.0,1,United States,Feb 2013,N/A,N/A,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,N/A,N/A,Jamaica,Feb 2014,N/A,N/A,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$10,$15,3 days,4 days,6 days,-1,-1,-1,4.8,16,Indonesia,Nov 2021,21 hours,1 month,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,4,Pakistan,Jan 2018,N/A,4 days,"English, Urdu",N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$40,$50,$70,4 days,3 days,2 days,-1,-1,-1,5.0,20,United States,May 2023,6 days,1 week,"Spanish, English",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$25,$40,$65,4 days,4 days,4 days,-1,-1,-1,5.0,9,Kenya,Jan 2019,N/A,7 months,"English, Swahili, Kikuyu",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",€33.85,€72.54,€145.07,1 day,1 day,1 day,-1,-1,-1,5.0,5,Pakistan,Jan 2021,N/A,10 months,"Urdu, English",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",€19.34,€38.69,€72.54,6 days,7 days,10 days,-1,-1,-1,4.9,21,United States,Mar 2012,4 hours,2 months,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",€67.70,€96.72,€145.07,1 day,2 days,2 days,-1,-1,-1,4.8,2,India,Sep 2021,3 hours,4 months,"English, Hindi, Sanskrit, Spanish",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",€19.34,€38.69,€193.43,1 day,3 days,5 days,-1,-1,-1,5.0,6,Turkey,Jul 2023,23 hours,2 days,"English, Turkish, Spanish, Russian",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",€96.72,€174.09,€241.79,2 days,3 days,4 days,-1,-1,-1,N/A,N/A,South Africa,Oct 2023,1 hour,1 week,"English, Xhosa",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",€48.36,€96.72,€145.07,1 day,1 day,2 days,1,1,1,N/A,N/A,United States,Apr 2020,N/A,N/A,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",€14.51,€43.52,€72.54,4 days,6 days,10 days,-1,-1,-1,4.7,18,South Africa,Apr 2022,1 day,4 weeks,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,3.0,2,United States,Feb 2013,N/A,N/A,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$30,$35,$55,3 days,3 days,3 days,-1,-1,-1,5.0,1,Pakistan,Jul 2021,1 hour,4 months,"English, French, German",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,N/A,N/A,Pakistan,Feb 2013,N/A,N/A,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,1,United States,Nov 2022,N/A,5 months,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$10,$15,1 day,1 day,1 day,-1,-1,-1,5.0,1,India,Apr 2023,1 hour,11 months,"English, Hindi, Kannada",N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$10,$15,1 day,2 days,2 days,-1,-1,-1,4.9,8,Sri Lanka,Aug 2023,1 hour,5 days,English,N/A,False
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,1.0,1,United States,Jan 2014,N/A,N/A,English,N/A,True
+Lifestyle,personal-stylists,new seller,"1,000+ Results",$15,$25,$45,1 day,1 day,2 days,-1,-1,-1,5.0,1,Bulgaria,Jun 2021,1 hour,4 months,"English, Bulgarian, Polish, German",N/A,False

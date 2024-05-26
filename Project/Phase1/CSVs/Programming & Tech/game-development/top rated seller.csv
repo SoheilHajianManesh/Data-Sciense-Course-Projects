@@ -1,0 +1,47 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Programming & Tech,game-development,top rated seller,155 Results,$165,$420,"$1,000",5 days,10 days,14 days,2,5,8,4.9,568,Greece,Oct 2017,4 hours,about 9 hours,"English, Greek",10 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$350,$840,"$4,500",5 days,7 days,21 days,1,2,5,4.7,21,Germany,Jun 2021,1 hour,about 2 hours,"English, German",2 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$600,"$3,500","$7,000",21 days,30 days,30 days,-1,-1,-1,4.9,118,India,May 2020,1 hour,1 day,"English, Hindi, Gujarati",2 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$500,"$1,000","$2,000",10 days,30 days,45 days,-1,-1,-1,5.0,176,Pakistan,Jul 2017,2 hours,1 month,English,1 order in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$55,$330,$615,7 days,14 days,21 days,-1,-1,-1,5.0,99,Philippines,Jul 2021,3 hours,6 days,"English, Tagalog",3 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,€14.51,€14.51,€14.51,21-day delivery,21-day delivery,21-day delivery,1 Revision,1 Revision,1 Revision,5.0,100,Croatia,Dec 2020,3 hours,5 days,"English, Croatian, German, Swedish",N/A,True
+Programming & Tech,game-development,top rated seller,155 Results,$15,$20,$80,2 days,3 days,5 days,0,1,1,5.0,877,Bangladesh,May 2020,1 hour,2 days,"Bengali, English, Hindi",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$15,$50,$160,2 days,2 days,2 days,-1,-1,-1,5.0,247,Bangladesh,Jan 2017,4 hours,4 days,English,N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$500,"$2,500","$5,000",7 days,14 days,21 days,1,3,Unlimited,5.0,302,Pakistan,Dec 2017,3 hours,1 week,"Urdu, English, Hindi",1 order in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$740,"$1,095","$2,060",5 days,10 days,30 days,1,2,3,5.0,26,India,May 2015,4 hours,about 12 hours,"English, Gujarati, Hindi",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$95,$160,$415,2 days,3 days,4 days,0,1,2,5.0,79,Pakistan,Oct 2019,2 hours,1 day,"Urdu, English",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$300,$750,"$1,500",14 days,21 days,30 days,-1,-1,-1,5.0,55,Greece,Oct 2017,4 hours,about 9 hours,"English, Greek",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,€91.88,"€1,446","€3,864",3 days,14 days,30 days,-1,-1,-1,5.0,169,Pakistan,Aug 2020,1 hour,3 days,English,3 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,€193.43,€483.58,€967.15,7 days,7 days,7 days,1,3,5,4.9,336,Bangladesh,May 2017,1 hour,2 days,"Bengali, English",5 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,₪633.78,"₪1,614","₪3,842",5 days,10 days,14 days,2,5,8,4.9,568,Greece,Oct 2017,4 hours,about 9 hours,"English, Greek",10 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$50,$150,$500,7 days,10 days,14 days,0,1,5,5.0,59,Philippines,Apr 2018,1 hour,2 days,"English, Tagalog",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$25,$25,$25,7-day delivery,7-day delivery,7-day delivery,1 Revision,1 Revision,1 Revision,5.0,51,Netherlands,Aug 2022,1 hour,4 days,"English, German",2 orders in queue,True
+Programming & Tech,game-development,top rated seller,155 Results,€285.31,€672.17,"€1,446",10 days,21 days,30 days,1,2,5,5.0,431,Pakistan,Feb 2016,2 hours,1 day,"Urdu, English",4 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$40,$100,$200,3 days,5 days,6 days,1,1,1,5.0,84,Georgia,Feb 2022,2 hours,5 days,"English, Georgian, Russian",1 order in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$150,$400,"$1,200",3 days,14 days,30 days,0,3,5,5.0,628,Pakistan,Sep 2015,1 hour,1 day,"English, Urdu",5 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$35,$140,$360,7 days,14 days,45 days,1,1,1,5.0,96,Argentina,Aug 2020,2 hours,1 day,"Spanish, English",1 order in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$45,$250,$625,7 days,14 days,21 days,0,1,5,5.0,159,Trinidad and Tobago,Nov 2021,1 hour,1 week,English,N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$325,$425,$495,5 days,5 days,5 days,0,1,3,5.0,16,Pakistan,Oct 2019,2 hours,1 day,"Urdu, English",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$800,"$3,000","$8,000",21 days,30 days,30 days,-1,-1,-1,5.0,47,India,May 2020,1 hour,1 day,"English, Hindi, Gujarati",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$95,$155,$165,2 days,2 days,3 days,1,1,2,5.0,96,Pakistan,Oct 2019,2 hours,1 day,"Urdu, English",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,"₪2,843","₪4,207","₪7,913",5 days,10 days,30 days,1,2,3,5.0,26,India,May 2015,4 hours,about 13 hours,"English, Gujarati, Hindi",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,£45.31,£411.91,"£1,648",14 days,30 days,90 days,1,2,0,5.0,355,Italy,Oct 2015,1 hour,1 day,"English, Italian",2 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$30,$30,$30,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,206,Bangladesh,May 2020,1 hour,2 days,"Bengali, English, Hindi",N/A,True
+Programming & Tech,game-development,top rated seller,155 Results,$200,$225,$250,2 days,2 days,2 days,0,0,0,5.0,825,Israel,Feb 2019,1 hour,1 day,English,1 order in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,€391.70,€647.99,€909.12,5 days,10 days,14 days,1,3,6,5.0,34,United Kingdom,Nov 2016,3 hours,about 3 hours,"English, Greek",5 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$750,"$4,000","$8,000",21 days,30 days,30 days,-1,-1,-1,5.0,14,India,May 2020,1 hour,1 day,"English, Hindi, Gujarati",3 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,€411.04,"€1,485","€4,885",7 days,14 days,30 days,1,2,2,5.0,201,Pakistan,Oct 2017,2 hours,2 days,English,N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$35,$80,$150,1 day,2 days,2 days,0,0,0,5.0,258,Pakistan,May 2023,1 hour,about 15 hours,English,1 order in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,"$1,000","$2,500","$4,000",30 days,30 days,30 days,Unlimited,Unlimited,Unlimited,4.9,75,Pakistan,Feb 2016,2 hours,1 day,"Urdu, English",3 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$120,$220,$320,2 days,4 days,6 days,-1,-1,-1,5.0,53,Serbia,Jul 2018,4 hours,about 19 minutes,"English, Serbian",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$200,$225,$250,2 days,2 days,2 days,0,0,0,5.0,825,Israel,Feb 2019,1 hour,1 day,English,1 order in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,"$1,495","$2,895","$4,495",21 days,30 days,45 days,2,4,6,5.0,1,Pakistan,May 2017,1 hour,2 days,"Urdu, English, Punjabi",N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$25,$30,$35,1 day,1 day,1 day,-1,-1,-1,5.0,19,Algeria,Oct 2020,2 hours,about 3 hours,"English, Arabic, French",1 order in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$200,$500,"$1,000",7 days,7 days,7 days,1,3,5,4.9,336,Bangladesh,May 2017,1 hour,2 days,"Bengali, English",5 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,€531.93,"€1,016","€2,467",30 days,30 days,30 days,2,2,2,5.0,301,Philippines,Aug 2017,9 hours,2 days,"English, Tagalog",6 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$100,$200,$500,21 days,45 days,60 days,Unlimited,Unlimited,Unlimited,5.0,593,India,Jul 2016,5 hours,about 8 hours,"English, Gujarati, Hindi",5 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$125Save up to 15% with Subscribe to Save,$125Save up to 15% with Subscribe to Save,$125Save up to 15% with Subscribe to Save,10-day delivery,10-day delivery,10-day delivery,4 Revisions,4 Revisions,4 Revisions,5.0,187,Pakistan,Feb 2018,1 hour,1 week,"English, German",N/A,True
+Programming & Tech,game-development,top rated seller,155 Results,$100,$200,$500,21 days,45 days,60 days,Unlimited,Unlimited,Unlimited,5.0,593,India,Jul 2016,5 hours,about 8 hours,"English, Gujarati, Hindi",5 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$50,$450,$850,6 days,21 days,30 days,0,1,1,4.9,260,Pakistan,Sep 2018,2 hours,3 days,"Urdu, Punjabi, English",4 orders in queue,False
+Programming & Tech,game-development,top rated seller,155 Results,$15,$50,$160,2 days,2 days,2 days,-1,-1,-1,5.0,247,Bangladesh,Jan 2017,4 hours,5 days,English,N/A,False
+Programming & Tech,game-development,top rated seller,155 Results,$50,$100,$190,5 days,7 days,14 days,-1,-1,-1,5.0,"1,178",United States,Mar 2012,1 hour,about 15 hours,"English, Spanish",N/A,False

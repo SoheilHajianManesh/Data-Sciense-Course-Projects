@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,product-photographers,level 1,328 Results,$145,$475,$900,2 days,6 days,10 days,1,1,Unlimited,5.0,7,Portugal,Feb 2023,1 hour,3 days,"English, Portuguese",N/A,False
+Photography,product-photographers,level 1,328 Results,$200,$450,"$1,000",7 days,21 days,60 days,0,0,0,5.0,19,United Kingdom,Sep 2020,1 hour,1 week,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$180,$950,5 days,7 days,14 days,0,1,1,5.0,61,United States,May 2020,3 hours,2 days,"English, Spanish",2 orders in queue,False
+Photography,product-photographers,level 1,328 Results,$100,$350,$550,3 days,7 days,10 days,0,1,2,5.0,4,Germany,Apr 2023,4 hours,1 month,"English, Ukrainian, Russian, German",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$450,$900,2 days,3 days,4 days,1,1,3,5.0,10,Portugal,Feb 2023,1 hour,3 days,"English, Portuguese",1 order in queue,False
+Photography,product-photographers,level 1,328 Results,$125,$230,$315,14 days,14 days,21 days,1,2,2,5.0,271,Bulgaria,Dec 2016,7 hours,about 12 hours,"English, German, Russian",6 orders in queue,False
+Photography,product-photographers,level 1,328 Results,$250,$500,$700,7 days,10 days,14 days,0,0,0,5.0,9,United States,Oct 2018,2 hours,2 weeks,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$250,$500,5 days,10 days,14 days,2,2,Unlimited,4.9,7,China,Apr 2020,4 hours,3 weeks,"English, Chinese, Japanese",1 order in queue,False
+Photography,product-photographers,level 1,328 Results,$100,$160,$230,2 days,3 days,4 days,1,1,1,5.0,5,Canada,Sep 2022,1 hour,about 15 hours,English,1 order in queue,False
+Photography,product-photographers,level 1,328 Results,$225,$750,"$1,500",7 days,14 days,21 days,0,0,0,5.0,8,United States,Apr 2022,15 hours,5 days,"English, Vietnamese",N/A,False
+Photography,product-photographers,level 1,328 Results,$115,$225,$325,7 days,7 days,7 days,-1,-1,-1,5.0,4,United States,Apr 2021,2 hours,1 day,English,1 order in queue,False
+Photography,product-photographers,level 1,328 Results,$100,$250,$450,3 days,5 days,10 days,1,1,2,4.8,10,Germany,May 2021,2 hours,1 month,"English, Ukrainian, German",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$360,$580,3 days,7 days,10 days,2,Unlimited,Unlimited,5.0,114,China,Apr 2020,4 hours,3 weeks,"English, Chinese, Japanese",N/A,False
+Photography,product-photographers,level 1,328 Results,$250,$400,$600,4 days,4 days,4 days,1,1,1,5.0,3,United States,May 2023,1 hour,4 months,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$215,$415,7 days,7 days,7 days,6,6,6,4.8,33,China,Jun 2022,9 hours,1 week,"English, Chinese",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$160,$350,4 days,6 days,10 days,1,1,1,5.0,9,Netherlands,Nov 2018,1 hour,1 month,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$145,$190,5 days,10 days,10 days,1,1,1,5.0,107,Greece,Jul 2018,3 hours,3 weeks,"English, Greek",1 order in queue,False
+Photography,product-photographers,level 1,328 Results,$150,$250,$255,14 days,14 days,14 days,2,2,2,4.9,132,United States,Dec 2020,2 hours,5 months,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$150,$250,3 days,3 days,3 days,1,1,1,5.0,20,Australia,Jan 2018,4 hours,7 months,English,N/A,False
+Photography,product-photographers,level 1,328 Results,"$1,495","$1,795","$2,295",14 days,14 days,14 days,Unlimited,Unlimited,Unlimited,5.0,7,Thailand,Aug 2021,5 hours,4 months,"English, German",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$240,$350,7 days,10 days,14 days,1,3,5,4.9,7,Pakistan,Aug 2019,1 hour,2 months,"English, Urdu, Spanish, Arabic",N/A,False
+Photography,product-photographers,level 1,328 Results,$120,$280,$450,2 days,5 days,7 days,1,1,1,5.0,115,United States,Sep 2014,2 hours,2 weeks,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$145,$195,$495,7 days,7 days,10 days,1,1,1,4.8,11,Germany,May 2022,N/A,2 months,"English, German",N/A,False
+Photography,product-photographers,level 1,328 Results,$150,$350,$450,3 days,7 days,14 days,2,4,Unlimited,4.7,54,Germany,Aug 2020,3 hours,2 weeks,"English, German",N/A,False
+Photography,product-photographers,level 1,328 Results,$190,$340,$450,7 days,7 days,7 days,1,1,1,5.0,7,Australia,Jun 2018,2 hours,3 days,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$25,$200,$300,2 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.9,160,United States,Jul 2021,1 hour,1 day,English,4 orders in queue,False
+Photography,product-photographers,level 1,328 Results,$150,$300,$450,5 days,7 days,7 days,0,0,0,5.0,6,United States,Oct 2015,3 hours,1 month,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$190,$330,$420,10 days,10 days,7 days,-1,-1,-1,5.0,58,United Kingdom,Oct 2016,4 hours,2 months,"English, Lithuanian",N/A,False
+Photography,product-photographers,level 1,328 Results,$200,$450,"$1,000",7 days,21 days,60 days,0,0,0,5.0,19,United Kingdom,Sep 2020,1 hour,1 week,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$120,$165,$220,10 days,10 days,14 days,1,1,1,4.9,26,Canada,Sep 2018,2 hours,1 month,"English, Persian",1 order in queue,False
+Photography,product-photographers,level 1,328 Results,$100,$250,$350,5 days,10 days,14 days,0,0,1,5.0,5,Pakistan,Feb 2023,1 hour,2 weeks,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$350,$550,3 days,7 days,10 days,0,1,2,5.0,4,Germany,Apr 2023,4 hours,1 month,"English, Ukrainian, Russian, German",N/A,False
+Photography,product-photographers,level 1,328 Results,$190,$330,$420,10 days,10 days,7 days,-1,-1,-1,5.0,58,United Kingdom,Oct 2016,4 hours,2 months,"English, Lithuanian",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$150,$595,3 days,3 days,3 days,0,0,1,5.0,2,United States,Jun 2015,4 hours,6 months,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$180,$520,6 days,10 days,14 days,1,2,2,5.0,10,Portugal,Feb 2023,1 hour,3 days,"English, Portuguese",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$530,$850,3 days,10 days,14 days,0,0,1,5.0,3,Pakistan,Aug 2022,1 hour,6 months,"Urdu, English",N/A,False
+Photography,product-photographers,level 1,328 Results,€145.07,€290.15,€425.55,14 days,14 days,14 days,-1,-1,-1,4.8,79,United States,Mar 2016,5 hours,1 month,"English, Chinese",N/A,False
+Photography,product-photographers,level 1,328 Results,€29.01,€58.03,€87.04,2 days,3 days,3 days,3,3,3,5.0,29,China,Feb 2023,2 hours,2 weeks,"Chinese, English",N/A,False
+Photography,product-photographers,level 1,328 Results,€145.07,€217.61,€386.86,7 days,7 days,7 days,1,2,2,5.0,10,Thailand,Jul 2023,3 hours,1 week,"English, Russian, Chinese",1 order in queue,False
+Photography,product-photographers,level 1,328 Results,$30,$40,$190,6 days,6 days,6 days,-1,-1,-1,5.0,162,United States,Jun 2020,11 hours,2 weeks,"Russian, Ukrainian, English",N/A,False
+Photography,product-photographers,level 1,328 Results,£131.81,£181.24,£243.02,5 days,6 days,7 days,-1,-1,-1,5.0,2,Bangladesh,Jul 2021,1 hour,about 7 hours,"English, German, Western Frisian",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$200,$300,7 days,7 days,7 days,3,3,3,5.0,13,China,Jul 2023,1 hour,1 week,"Chinese, English",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$150,$200,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,2,Sri Lanka,Jun 2020,1 hour,2 months,"English, Spanish, German, French",N/A,False
+Photography,product-photographers,level 1,328 Results,$190,$340,$450,7 days,7 days,7 days,1,1,1,5.0,7,Australia,Jun 2018,2 hours,3 days,English,N/A,False
+Photography,product-photographers,level 1,328 Results,$200,$320,$550,10 days,14 days,21 days,0,1,2,5.0,8,United Kingdom,Jan 2023,4 hours,1 month,N/A,N/A,False
+Photography,product-photographers,level 1,328 Results,$160,$220,$295,5 days,6 days,7 days,-1,-1,-1,5.0,2,Bangladesh,Jul 2021,1 hour,about 7 hours,"English, German, Western Frisian",N/A,False
+Photography,product-photographers,level 1,328 Results,$100,$145,$190,5 days,10 days,10 days,1,1,1,5.0,107,Greece,Jul 2018,3 hours,3 weeks,"English, Greek",1 order in queue,False
+Photography,product-photographers,level 1,328 Results,$50,$50,$50,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,1,Sweden,Jul 2023,1 hour,1 week,"English, Swedish",N/A,True

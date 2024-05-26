@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,producers,level 2,"2,200+ Results",$15,$30,$80,3 days,7 days,7 days,1,2,3,5.0,25,Italy,Jan 2020,1 hour,about 8 hours,"English, Italian",1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$200,"$1,700","$10,000",3 days,21 days,30 days,2,5,8,5.0,43,Germany,Apr 2020,5 hours,2 weeks,"English, German",2 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$40,$50,$60,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,5.0,44,Algeria,Sep 2022,1 hour,about 44 minutes,"English, French",1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$45,$75,$100,3 days,3 days,3 days,2,3,5,4.9,11,Indonesia,Oct 2020,1 hour,about 4 hours,"English, German, French, Thai",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$100,$140,$185,7 days,7 days,7 days,1,2,3,5.0,182,Georgia,Jul 2019,1 hour,1 week,"English, Russian",3 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$15,$35,$85,2 days,2 days,4 days,1,2,2,4.9,"1,205",Indonesia,Aug 2021,4 hours,about 10 hours,"Indonesian, English",1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",€9.67,€14.51,€24.18,2 days,2 days,3 days,1,1,2,5.0,594,Kenya,May 2020,5 hours,1 day,English,2 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$15,$30,$100,1 day,2 days,2 days,1,1,1,5.0,50,Turkey,Jul 2023,1 hour,1 day,English,N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$150,$200,$500,4 days,6 days,10 days,2,2,2,4.9,334,Italy,May 2020,1 hour,1 day,"English, Italian, French",5 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$25,$60,$75,2 days,4 days,5 days,1,1,1,5.0,108,United Kingdom,May 2020,1 hour,1 day,"English, Italian, Spanish",2 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$60,$120,$170,4 days,4 days,4 days,2,3,Unlimited,5.0,300,Ukraine,Nov 2019,2 hours,about 19 hours,"English, Ukrainian, Russian, Polish",4 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$25,$40,$70,3 days,5 days,5 days,Unlimited,Unlimited,Unlimited,5.0,509,Macedonia [FYROM],Feb 2021,1 hour,about 22 hours,English,1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$50,$90,$120,3 days,5 days,7 days,2,2,2,5.0,59,United Kingdom,Jul 2020,8 hours,about 11 hours,English,1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$45,$70,$100,3 days,3 days,3 days,2,3,5,4.9,153,Indonesia,Sep 2021,1 hour,about 49 minutes,"English, German, Spanish, French",6 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$80,$290,$390,3 days,5 days,7 days,0,0,0,5.0,106,Turkey,Jul 2020,1 hour,6 days,"English, Turkish",1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$250,$350,$500,10 days,10 days,21 days,2,2,2,5.0,36,Spain,Oct 2020,1 hour,about 5 hours,"English, Spanish",2 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$30,$50,$80,3 days,4 days,5 days,1,2,3,5.0,106,Ukraine,Nov 2021,1 hour,about 21 hours,"Ukrainian, Russian, English",1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$25,$50,$75,3 days,3 days,3 days,1,3,5,4.9,135,Indonesia,Feb 2022,1 hour,about 2 minutes,"English, German, French, Spanish",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$45,$70,$100,3 days,3 days,3 days,2,3,5,4.9,153,Indonesia,Sep 2021,1 hour,about 50 minutes,"English, German, Spanish, French",6 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$25,$70,$100,3 days,3 days,3 days,2,4,6,4.9,478,Indonesia,Mar 2021,1 hour,about 3 hours,"English, German, Swedish, French",3 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$25,$45,$60,3 days,3 days,3 days,1,2,3,5.0,399,Indonesia,Nov 2021,1 hour,about 13 hours,"English, French, German, Spanish",4 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",£28.83,£53.55,£78.26,3 days,3 days,3 days,2,4,Unlimited,4.9,338,Indonesia,Mar 2022,1 hour,about 4 hours,"English, German, French, Spanish",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$45,$225,$390,2 days,7 days,10 days,Unlimited,Unlimited,Unlimited,5.0,187,Ukraine,Jan 2020,2 hours,1 week,"English, Russian, Ukrainian",2 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",US$70,US$75,US$85,14 days,14 days,14 days,1,2,3,5.0,135,Indonesia,Apr 2021,3 hours,about 7 hours,"Indonesian, English",2 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$220,$550,"$1,250",3 days,10 days,21 days,5,8,Unlimited,5.0,4,Spain,Feb 2021,1 hour,1 day,"English, Spanish, Russian, Armenian",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$350,$500,$750,7 days,7 days,14 days,5,5,5,5.0,129,Spain,Aug 2015,2 hours,about 9 hours,"English, Spanish, French, Italian",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$100Save up to 20% with Subscribe to Save,$100Save up to 20% with Subscribe to Save,$100Save up to 20% with Subscribe to Save,14-day delivery,14-day delivery,14-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,16,Canada,May 2021,2 hours,4 weeks,English,2 orders in queue,True
+Music & Audio,producers,level 2,"2,200+ Results",$75,$155,$235,6 days,10 days,14 days,2,2,3,5.0,28,United Kingdom,Oct 2021,3 hours,1 day,English,1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$15,$25,$40,2 days,3 days,3 days,1,1,1,5.0,247,Sri Lanka,Dec 2020,2 hours,4 days,English,N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$15,$35,$50,2 days,2 days,3 days,1,1,2,5.0,507,Nigeria,Feb 2020,1 hour,1 day,"English, Yoruba",3 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$55,$85,$110,3 days,3 days,3 days,2,3,5,4.9,394,Indonesia,Feb 2021,1 hour,about 7 hours,"English, Spanish, German, French",3 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$20,$30,$40,3 days,3 days,2 days,9,9,9,5.0,644,Azerbaijan,Jul 2020,3 hours,2 days,"English, Azerbaijani, Turkish, Russian",1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$15,$20,$30,3 days,5 days,7 days,2,2,3,5.0,240,Brazil,Apr 2020,1 hour,3 days,"Spanish, Portuguese",2 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$45,$75,$100,3 days,3 days,3 days,2,3,5,4.9,75,Indonesia,Oct 2020,1 hour,about 4 hours,"English, German, French, Thai",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$30,$130,$250,3 days,4 days,7 days,1,1,1,5.0,89,Italy,Dec 2019,9 hours,about 4 hours,"English, Italian, French, Spanish",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$40,$50,$60,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,4.9,51,Algeria,Sep 2022,1 hour,about 55 minutes,"English, French",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$50,$100,$150,2 days,2 days,4 days,1,1,4,5.0,294,Turkey,May 2021,3 hours,about 6 hours,"English, Turkish",1 order in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$250Save up to 15% with Subscribe to Save,$250Save up to 15% with Subscribe to Save,$250Save up to 15% with Subscribe to Save,14-day delivery,14-day delivery,14-day delivery,1 Revision,1 Revision,1 Revision,5.0,53,Venezuela,Jul 2017,1 hour,4 days,"Spanish, English",1 order in queue,True
+Music & Audio,producers,level 2,"2,200+ Results",$210,$360,$490,7 days,10 days,14 days,1,1,1,4.9,62,Italy,Dec 2019,9 hours,about 4 hours,"English, Italian, French, Spanish",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",€96.72,€241.79,€338.50,7 days,7 days,7 days,2,4,Unlimited,5.0,83,Argentina,Aug 2019,1 hour,4 days,"English, Spanish",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",€290.15,€290.15,€290.15,7-day delivery,7-day delivery,7-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,5.0,387,United Kingdom,Mar 2021,2 hours,1 day,"English, Spanish, Catalan",5 orders in queue,True
+Music & Audio,producers,level 2,"2,200+ Results",$40,$50,$60,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,5.0,76,Algeria,Sep 2022,1 hour,about 57 minutes,"English, French",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$15,$25,$50,2 days,2 days,4 days,1,2,3,4.9,46,Algeria,Aug 2020,2 hours,5 days,"English, Arabic, French",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$45,$75,$100,3 days,3 days,3 days,2,3,5,4.9,11,Indonesia,Oct 2020,1 hour,about 4 hours,"English, German, French, Thai",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$25,$50,$70,3 days,3 days,3 days,1,2,3,5.0,261,Indonesia,Aug 2020,1 hour,about 5 hours,"English, German, French",4 orders in queue,False
+Music & Audio,producers,level 2,"2,200+ Results",$130,$190,$260,3 days,5 days,7 days,5,5,6,5.0,40,Brazil,Aug 2019,4 hours,2 days,"English, Portuguese, Spanish",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$50,$60,$110,5 days,2 days,10 days,0,0,Unlimited,5.0,82,Norway,Aug 2020,1 hour,4 days,"English, Norwegian Bokmål, Spanish",N/A,False
+Music & Audio,producers,level 2,"2,200+ Results",$55,$85,$110,3 days,3 days,3 days,2,3,5,5.0,18,Indonesia,Feb 2021,1 hour,about 7 hours,"English, Spanish, German, French",N/A,False

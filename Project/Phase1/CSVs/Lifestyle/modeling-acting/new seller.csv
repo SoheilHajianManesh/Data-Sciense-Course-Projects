@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,modeling-acting,new seller,"2,200+ Results",₪57.62,₪96.03,₪172.85,2 days,3 days,4 days,-1,-1,-1,4.9,56,Pakistan,May 2023,1 hour,6 days,English,1 order in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$15,$25,1 day,2 days,2 days,-1,-1,-1,5.0,20,Venezuela,Mar 2024,1 hour,1 day,"Spanish, English",2 orders in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$5,$10,$25,1 day,1 day,1 day,-1,-1,-1,5.0,15,Chile,Nov 2023,17 hours,5 days,Spanish,N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$15,$20,2 days,2 days,2 days,-1,-1,-1,4.8,11,Austria,Apr 2020,6 hours,4 weeks,"English, German",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$40,$80,$125,1 day,1 day,2 days,-1,-1,-1,4.9,25,United States,Apr 2022,13 hours,4 days,English,1 order in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$25,$50,$85,2 days,3 days,4 days,-1,-1,-1,5.0,25,Thailand,Oct 2022,2 hours,1 week,"English, Kazakh, Turkish",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$45,$50,$80,3 days,3 days,4 days,-1,-1,-1,4.9,93,United States,Apr 2022,1 day,2 weeks,English,1 order in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$75,$95,$135,3 days,4 days,5 days,-1,-1,-1,5.0,47,United Kingdom,Jan 2023,1 hour,1 week,"English, Portuguese, Spanish",2 orders in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$65,$95,$125,7 days,7 days,7 days,-1,-1,-1,5.0,18,United States,Mar 2023,2 hours,about 3 hours,"English, Spanish",2 orders in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$15,$20,3 days,3 days,3 days,-1,-1,-1,4.9,193,Bulgaria,Apr 2019,2 days,1 day,English,1 order in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$15,$15,$15,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,73,Venezuela,Jun 2022,2 hours,1 week,"Spanish, English",1 order in queue,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$20,$30,$50,5 days,7 days,10 days,-1,-1,-1,4.8,49,Morocco,Apr 2020,6 hours,1 month,"English, Arabic, French, Japanese",2 orders in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$30,$50,2 days,2 days,2 days,-1,-1,-1,5.0,11,Ukraine,Apr 2024,1 hour,about 4 hours,"English, Ukrainian, Russian",3 orders in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$15,$20,2 days,2 days,3 days,-1,-1,-1,5.0,40,Uruguay,Aug 2020,2 days,1 day,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$30,$80,3 days,4 days,6 days,-1,-1,-1,5.0,26,Turkey,Jan 2022,1 hour,3 days,"English, Russian",1 order in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$25,$50,$75,4 days,4 days,4 days,-1,-1,-1,4.9,11,Pakistan,Feb 2023,1 hour,2 weeks,"English, Urdu",1 order in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$55,$85,$225,3 days,4 days,5 days,-1,-1,-1,4.9,24,United States,Jun 2021,1 day,1 month,English,1 order in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$15,$110,$370,1 day,3 days,7 days,-1,-1,-1,5.0,13,United Kingdom,Aug 2023,3 hours,about 22 hours,English,N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$5,$15,$25,2 days,3 days,5 days,-1,-1,-1,5.0,11,Russia,Jan 2024,7 hours,2 weeks,"Russian, English",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$20,$35,3 days,3 days,3 days,-1,-1,-1,4.9,15,Turkey,Jan 2024,8 hours,3 weeks,"English, Russian",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$100,$150,$200,6 days,6 days,6 days,-1,-1,-1,5.0,16,United Kingdom,Nov 2022,4 hours,1 week,English,1 order in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",£45.31,£61.79,£144.17,10 days,14 days,14 days,-1,-1,-1,5.0,75,United States,Jan 2021,16 hours,2 months,English,N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$25,$115,$215,3 days,4 days,4 days,-1,-1,-1,5.0,73,Sweden,Mar 2020,3 days,5 months,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$100,$200,$400,5 days,4 days,3 days,-1,-1,-1,5.0,44,United States,Sep 2019,3 hours,10 months,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$100,$125,$175,7 days,7 days,7 days,-1,-1,-1,5.0,95,United States,Oct 2020,21 hours,about 19 hours,English,N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$100,$400,$800,3 days,6 days,10 days,-1,-1,-1,5.0,59,United States,Aug 2021,20 hours,1 week,English,2 orders in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$15,$25,4 days,6 days,10 days,-1,-1,-1,5.0,2,United States,Apr 2024,21 hours,3 weeks,"English, Spanish",2 orders in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$100,$290,$310,2 days,3 days,3 days,-1,-1,-1,5.0,7,United States,May 2023,1 day,1 week,English,N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$100,$100,$100,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,16,Slovakia,Jan 2022,10 hours,1 month,"English, Slovak, Czech",N/A,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$20,$50,$85,7 days,7 days,7 days,-1,-1,-1,5.0,30,United States,Oct 2020,21 hours,about 19 hours,English,N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$20,$50,$100,1 day,2 days,4 days,-1,-1,-1,5.0,60,Mexico,Jul 2022,2 hours,1 month,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$20,$35,$60,3 days,3 days,4 days,-1,-1,-1,5.0,4,United Kingdom,Jun 2019,2 hours,1 day,"English, Arabic, Spanish",3 orders in queue,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",£24.71,£24.71,£24.71,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,26,Belarus,Aug 2021,1 hour,4 months,"Russian, Belarusian, English, French",N/A,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",£74.14,£74.14,£74.14,14-day delivery,14-day delivery,14-day delivery,-1,-1,-1,5.0,164,United States,Feb 2021,10 hours,1 week,"English, Lithuanian",N/A,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",£82.38,£82.38,£82.38,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,46,United States,Feb 2022,4 hours,2 weeks,English,N/A,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$5,$35,$95,3 days,4 days,5 days,-1,-1,-1,5.0,8,Ukraine,Mar 2024,1 hour,about 21 hours,"English, Ukrainian, Russian",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$25,$80,$150,3 days,3 days,3 days,-1,-1,-1,5.0,21,Spain,Dec 2022,1 hour,about 3 hours,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$35,$60,$90,3 days,4 days,5 days,-1,-1,-1,4.9,7,India,Jan 2020,1 hour,1 month,"Hindi, English",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$20,$40,2 days,3 days,5 days,-1,-1,-1,4.9,17,Netherlands,May 2022,2 hours,1 month,"English, Dutch, German",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$70,$250,$440,3 days,5 days,10 days,-1,-1,-1,5.0,80,Romania,Oct 2020,N/A,4 months,"English, French",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$10,$30,$100,7 days,7 days,7 days,-1,-1,-1,5.0,1,Italy,Mar 2024,1 hour,2 weeks,"English, Spanish, French, Italian",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",€9.67,€9.67,€9.67,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,4.9,50,Venezuela,Oct 2022,2 days,1 month,"English, Spanish",N/A,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",€9.67,€9.67,€9.67,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,3,Venezuela,Mar 2024,4 hours,1 day,"Spanish, English",1 order in queue,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",€9.67,€9.67,€9.67,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,2,Venezuela,May 2024,1 hour,4 days,"English, Spanish",1 order in queue,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",€38.69,€67.70,€135.40,2 days,3 days,4 days,-1,-1,-1,5.0,24,Canada,Feb 2022,22 hours,3 months,English,N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$15,$15,$15,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,4.8,10,India,May 2021,7 hours,1 year,"Hindi, English",N/A,True
+Lifestyle,modeling-acting,new seller,"2,200+ Results",$15,$30,$50,3 days,4 days,5 days,-1,-1,-1,5.0,10,Pakistan,Jun 2021,1 hour,6 months,"Urdu, English, Punjabi",N/A,False
+Lifestyle,modeling-acting,new seller,"2,200+ Results",€4.84,€9.67,€14.51,1 day,1 day,2 days,-1,-1,-1,4.8,3,India,Mar 2021,1 hour,2 weeks,"Hindi, English",N/A,False

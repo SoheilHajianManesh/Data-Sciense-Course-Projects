@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,songwriters,level 1,606 Results,$50,$90,$150,2 days,4 days,7 days,1,2,3,5.0,12,United Kingdom,Jul 2016,1 hour,2 months,English,N/A,False
+Music & Audio,songwriters,level 1,606 Results,$100,$350,$600,1 day,3 days,7 days,Unlimited,Unlimited,Unlimited,4.9,63,Venezuela,May 2019,1 hour,2 weeks,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$60,$90,$120,3 days,5 days,7 days,1,1,2,5.0,52,Colombia,May 2020,1 hour,3 weeks,"Spanish, English",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$30,$70,$100,2 days,3 days,4 days,2,2,2,5.0,2,Nigeria,Dec 2023,1 hour,1 day,English,N/A,False
+Music & Audio,songwriters,level 1,606 Results,$100,$180,$460,2 days,3 days,5 days,2,2,2,5.0,38,Canada,Jun 2022,7 hours,3 weeks,"English, Korean",1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$15,$15,$15,2-day delivery,2-day delivery,2-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,79,Sri Lanka,Apr 2020,1 hour,4 days,"Tamil, English",1 order in queue,True
+Music & Audio,songwriters,level 1,606 Results,$15,$25,$35,1 day,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,293,Argentina,Jun 2019,1 hour,1 day,"English, Spanish",2 orders in queue,False
+Music & Audio,songwriters,level 1,606 Results,€9.67,€19.34,€38.69,2 days,3 days,4 days,2,2,3,5.0,73,France,Dec 2021,1 hour,1 week,"English, French, Chinese",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$300,$300,$300,10-day delivery,10-day delivery,10-day delivery,-1,-1,-1,5.0,197,United States,Feb 2019,11 hours,3 weeks,English,1 order in queue,True
+Music & Audio,songwriters,level 1,606 Results,$85,$105,$125,1 day,2 days,2 days,-1,-1,-1,5.0,21,Germany,Aug 2023,1 hour,2 weeks,"English, German",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$50,$80,$100,3 days,3 days,3 days,2,2,2,4.9,501,Nigeria,Feb 2020,1 hour,2 days,English,1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,€24.18,€48.36,€77.37,2 days,3 days,5 days,2,2,2,5.0,48,Argentina,Aug 2023,1 hour,1 day,"English, Spanish",3 orders in queue,False
+Music & Audio,songwriters,level 1,606 Results,$35,$60,$75,7 days,6 days,5 days,0,1,2,4.9,77,United States,Nov 2019,8 hours,1 day,"English, Armenian, German, Russian",1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$125,$155,$195,7 days,7 days,7 days,1,1,2,5.0,5,United States,Jan 2024,1 hour,1 week,English,2 orders in queue,False
+Music & Audio,songwriters,level 1,606 Results,$80,$100,$140,1 day,2 days,2 days,2,2,2,4.5,2,Venezuela,Jul 2021,1 hour,2 weeks,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,€14.51,€24.18,€33.85,6 days,5 days,4 days,1,3,Unlimited,4.8,26,Venezuela,Aug 2015,1 hour,1 week,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$15,$20,$25,7 days,7 days,7 days,3,4,5,4.9,33,Mexico,May 2023,1 hour,2 weeks,"English, Spanish",1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$40,$45,$60,2 days,2 days,2 days,0,1,2,4.9,12,United States,Jan 2022,1 hour,1 month,English,N/A,False
+Music & Audio,songwriters,level 1,606 Results,$30,$75,$105,2 days,3 days,4 days,1,2,2,5.0,22,Nigeria,Dec 2023,1 hour,1 day,English,N/A,False
+Music & Audio,songwriters,level 1,606 Results,$20,$50,$200,3 days,5 days,5 days,2,2,2,4.9,33,United Kingdom,Oct 2014,1 hour,3 days,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$35,$85,$170,3 days,4 days,7 days,3,3,Unlimited,4.9,28,France,Dec 2023,9 hours,1 week,"English, French",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$10,$20,$30,3 days,3 days,3 days,0,1,1,4.9,54,United States,Nov 2019,1 hour,2 weeks,English,N/A,False
+Music & Audio,songwriters,level 1,606 Results,$10,$20,$35,3 days,2 days,1 day,1,2,3,4.8,28,Philippines,Jun 2021,3 hours,2 weeks,"English, Tagalog",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$40,$90,$200,2 days,2 days,2 days,1,1,2,5.0,29,Italy,Feb 2017,1 hour,4 days,"English, Italian",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$40,$70,$130,7 days,7 days,7 days,1,1,1,4.9,22,Venezuela,Jan 2021,4 hours,3 weeks,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$125,$250,$350,4 days,4 days,5 days,-1,-1,-1,5.0,10,Kenya,Feb 2019,8 hours,2 days,"English, Swahili, Kikuyu",1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$125,$350,$500,7 days,10 days,14 days,1,3,3,4.8,2,United States,Apr 2023,1 hour,about 11 hours,English,1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$35,$50,$90,2 days,2 days,3 days,1,2,Unlimited,5.0,10,Dominican Republic,Oct 2020,1 hour,2 weeks,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$10,$50,$80,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,19,Nigeria,Aug 2023,1 hour,about 18 hours,"English, Hausa, Igbo",1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$30,$40,$60,3 days,5 days,7 days,2,3,4,5.0,18,Pakistan,Dec 2023,1 hour,1 week,"Urdu, English, Hindi, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$25,$50,$110,3 days,5 days,7 days,0,0,0,5.0,74,India,Aug 2020,1 hour,1 week,"Hindi, English",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$15,$30,$45,2 days,3 days,4 days,-1,-1,-1,4.8,26,Nigeria,Aug 2022,7 hours,3 weeks,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$30,$45,$65,5 days,5 days,3 days,2,2,2,4.8,28,United Kingdom,Dec 2020,2 hours,2 days,English,4 orders in queue,False
+Music & Audio,songwriters,level 1,606 Results,$20,$35,$50,2 days,3 days,7 days,-1,-1,-1,5.0,18,Italy,Jun 2020,1 hour,1 month,"English, Italian",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$65,$90,$100,3 days,5 days,7 days,2,2,2,4.9,60,Argentina,Aug 2022,1 hour,1 week,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$170,$270,$385,2 days,5 days,6 days,1,2,3,4.9,21,United States,Feb 2020,1 hour,4 days,English,2 orders in queue,False
+Music & Audio,songwriters,level 1,606 Results,$30,$45,$60,4 days,2 days,2 days,1,2,3,5.0,7,United Kingdom,Dec 2020,2 hours,2 days,English,1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$20,$30,$50,1 day,2 days,3 days,2,4,Unlimited,4.9,9,Morocco,Jun 2022,1 hour,about 2 hours,"English, Arabic",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$45,$55,$70,5 days,7 days,10 days,2,2,2,4.9,12,Mexico,Sep 2020,1 hour,about 2 hours,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$75,$140,$500,5 days,10 days,14 days,2,2,2,4.9,87,Peru,Feb 2019,1 hour,2 weeks,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$45,$80,$150,2 days,3 days,4 days,1,1,2,5.0,56,Colombia,Dec 2019,9 hours,5 days,"Spanish, English",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$125,$125,$125,14-day delivery,14-day delivery,14-day delivery,2 Revisions,2 Revisions,2 Revisions,4.9,25,Jamaica,Jan 2021,1 day,1 month,English,N/A,True
+Music & Audio,songwriters,level 1,606 Results,$75,$125,$175,3 days,5 days,5 days,0,0,1,5.0,335,United States,Nov 2019,8 hours,1 day,"English, Armenian, German, Russian",1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$150,$200,$300,3 days,6 days,10 days,3,3,3,5.0,33,France,Dec 2020,1 hour,1 week,"English, French, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$30,$80,$120,4 days,6 days,6 days,-1,-1,-1,5.0,175,Colombia,Jun 2019,4 hours,about 1 hour,"English, Spanish",N/A,False
+Music & Audio,songwriters,level 1,606 Results,$10,$40,$175,2 days,5 days,7 days,1,1,1,5.0,14,Canada,Aug 2021,3 hours,3 weeks,"English, French",1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$100,$180,$460,2 days,3 days,5 days,2,2,2,5.0,38,Canada,Jun 2022,7 hours,3 weeks,"English, Korean",1 order in queue,False
+Music & Audio,songwriters,level 1,606 Results,$65,$90,$100,3 days,5 days,7 days,2,2,2,4.9,60,Argentina,Aug 2022,1 hour,1 week,"English, Spanish",N/A,False

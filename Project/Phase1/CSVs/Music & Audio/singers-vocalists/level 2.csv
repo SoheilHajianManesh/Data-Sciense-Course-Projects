@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$10,$40,$80,2 days,2 days,3 days,1,2,2,4.9,9,Moldova,Oct 2020,5 hours,1 day,"Russian, Romanian, English",N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$50,$100,$160,2 days,4 days,7 days,1,3,5,5.0,247,Kenya,Oct 2020,6 hours,4 days,"Swahili, English",N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$125,$375,$680,4 days,6 days,10 days,3,3,3,5.0,3,United States,Aug 2020,1 hour,3 days,English,1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$25,$50,$100,3 days,4 days,6 days,1,2,2,4.9,190,Chile,Aug 2022,1 hour,5 days,"English, Spanish",1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$80,$180,$250,3 days,4 days,7 days,1,2,3,5.0,511,United States,Jul 2020,4 hours,1 day,"English, Spanish, Italian",6 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$10,$45,$90,2 days,3 days,5 days,1,3,4,5.0,822,Chile,Jul 2019,1 hour,about 11 hours,"English, Spanish, German",11 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$10,$60,$120,7 days,7 days,7 days,Unlimited,Unlimited,Unlimited,5.0,165,Argentina,May 2020,3 hours,about 23 hours,"English, Spanish",4 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$15,$20,$25,2 days,3 days,3 days,1,2,2,4.9,217,Nigeria,Jul 2023,1 hour,about 1 hour,"English, French, Spanish, German",13 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",€145.07,€193.43,€290.15,5 days,5 days,7 days,1,1,1,4.8,51,United States,May 2022,1 hour,1 day,N/A,N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$35,$80,$100,10 days,10 days,10 days,-1,-1,-1,5.0,"2,157",Ukraine,May 2020,8 hours,about 15 hours,"English, Ukrainian",19 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$35,$100,$300,4 days,7 days,14 days,1,1,2,5.0,129,Egypt,Oct 2021,1 hour,about 11 hours,"English, Arabic, French",3 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$60,$180,$240,2 days,2 days,3 days,1,2,2,5.0,143,South Africa,May 2022,1 hour,2 days,English,1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",₪57.62,₪57.62,₪57.62,3-day delivery,3-day delivery,3-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,104,Venezuela,Dec 2019,1 hour,1 week,"English, Spanish",N/A,True
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",₪96.03,₪307.29,₪422.52,2 days,4 days,5 days,2,2,2,5.0,310,United Kingdom,Mar 2022,3 hours,5 days,English,2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",₪249.67,₪460.93,₪576.17,2 days,4 days,6 days,1,3,4,5.0,111,United Kingdom,Mar 2022,2 hours,about 19 hours,"English, Italian, German, Spanish",1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$60,$100,$150,3 days,3 days,5 days,2,2,2,5.0,266,United Kingdom,Apr 2019,1 hour,1 day,English,2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$60,$90,$110,3 days,4 days,6 days,-1,-1,-1,4.9,81,Nigeria,Feb 2020,1 hour,1 day,English,2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$65,$65,$65,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,82,Argentina,Aug 2023,1 hour,1 day,"English, Spanish",N/A,True
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$80,$125,$200,2 days,2 days,2 days,1,2,2,5.0,309,Nigeria,May 2021,1 hour,about 14 hours,English,1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$40,$75,$120,4 days,5 days,7 days,0,0,0,5.0,458,United Kingdom,Mar 2020,9 hours,3 days,English,1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$30,$45,$65,5 days,6 days,7 days,Unlimited,Unlimited,Unlimited,5.0,432,Argentina,Feb 2023,2 hours,1 day,"English, Spanish, Italian, French",11 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$85,$115,$150,10 days,1 day,10 days,0,0,1,5.0,192,United States,May 2014,1 hour,about 9 hours,English,N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$20,$65,$100,2 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,53,Portugal,Jan 2022,1 hour,about 5 hours,"English, Ukrainian",1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$25,$65,$100,2 days,2 days,3 days,2,5,5,5.0,127,Bosnia and Herzegovina,Nov 2022,1 hour,6 days,"English, Bosnian, Spanish, Norwegian",1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$35,$85,$165,2 days,3 days,5 days,Unlimited,Unlimited,Unlimited,4.9,40,Nigeria,Jun 2023,2 hours,about 11 hours,English,2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$15,$100,$205,3 days,7 days,7 days,1,2,3,5.0,33,South Korea,Aug 2018,1 hour,4 days,"English, Japanese, Tagalog, Korean",2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",£65.90,£102.98,£164.76,2 days,2 days,2 days,1,2,2,5.0,309,Nigeria,May 2021,1 hour,about 14 hours,English,1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$40,$75,$120,2 days,4 days,6 days,2,2,2,4.9,60,Argentina,Sep 2020,1 hour,2 days,"English, Spanish",4 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$45,$100,$180,3 days,5 days,7 days,1,1,2,4.9,102,Cameroon,Nov 2020,1 hour,4 days,"English, French",3 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$45,$75,$105,3 days,5 days,7 days,1,2,2,5.0,427,Mexico,Jul 2020,7 hours,4 days,"English, Spanish",8 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$35,$45,$85,1 day,2 days,3 days,1,2,2,5.0,56,France,Jan 2023,4 hours,1 week,"English, French, German",N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$35,$80,$120,3 days,3 days,5 days,2,2,2,5.0,851,Indonesia,Oct 2017,1 hour,1 day,"English, Indonesian",5 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$70,$120,$170,3 days,4 days,5 days,2,2,3,4.9,267,Nigeria,Nov 2016,1 hour,about 7 hours,English,N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$10,$80,$95,4 days,10 days,6 days,0,1,4,5.0,260,Ukraine,Jan 2023,2 hours,2 days,"English, Ukrainian",2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$45,$160,$220,2 days,7 days,10 days,2,3,4,5.0,92,United Kingdom,Feb 2023,1 hour,1 day,"English, Swedish",2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$10,$25,$35,5 days,5 days,5 days,1,2,2,5.0,235,Spain,Oct 2022,1 hour,about 16 hours,"English, Spanish",4 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$60,$100,$150,2 days,2 days,2 days,1,1,2,4.9,10,Nigeria,Oct 2019,1 hour,about 15 hours,English,N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",€116.06,€193.43,€270.80,7 days,7 days,10 days,2,2,2,5.0,36,Spain,Oct 2020,1 hour,about 15 hours,"English, Spanish",2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$20,$40,$50,2 days,3 days,4 days,1,1,1,5.0,114,United Kingdom,Dec 2020,1 hour,about 17 hours,"English, Spanish",N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",US$110,US$150,US$180,2 days,3 days,5 days,2,2,2,4.9,52,Slovenia,Apr 2022,N/A,1 week,English,2 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$40,$40,$40,4-day delivery,4-day delivery,4-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,170,Germany,May 2020,4 hours,1 day,"English, German, French",1 order in queue,True
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$20,$50,$60,3 days,5 days,7 days,1,1,2,4.9,168,Venezuela,Apr 2019,2 hours,1 day,"Spanish, English",6 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$25,$50,$100,3 days,4 days,6 days,1,2,2,4.9,190,Chile,Aug 2022,1 hour,5 days,"English, Spanish",1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$90,$110,$130,14 days,14 days,14 days,-1,-1,-1,4.9,99,United States,Apr 2022,1 hour,2 days,English,4 orders in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$70,$130,$160,4 days,7 days,10 days,2,2,2,4.9,33,Uzbekistan,Jul 2021,5 hours,1 week,"English, Russian",N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$15,$30,$50,3 days,3 days,3 days,3,5,Unlimited,5.0,198,Venezuela,Feb 2020,1 hour,4 days,"English, Spanish",N/A,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$80,$160,$240,3 days,4 days,7 days,Unlimited,Unlimited,Unlimited,4.9,220,Zimbabwe,Oct 2020,1 hour,about 2 hours,English,1 order in queue,False
+Music & Audio,singers-vocalists,level 2,"1,000+ Results",$45,$100,$175,4 days,7 days,10 days,2,2,2,5.0,22,United Kingdom,Jul 2020,9 hours,about 20 hours,English,N/A,False

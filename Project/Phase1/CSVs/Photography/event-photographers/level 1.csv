@@ -1,0 +1,28 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,event-photographers,level 1,27 Results,$110,$325,$490,1 day,2 days,2 days,1,2,2,4.7,8,United Kingdom,Aug 2022,2 hours,1 week,English,N/A,False
+Photography,event-photographers,level 1,27 Results,$70,$70,$70,1-day delivery,1-day delivery,1-day delivery,1 Revision,1 Revision,1 Revision,5.0,4,Spain,Nov 2020,3 hours,1 day,"English, Spanish",N/A,True
+Photography,event-photographers,level 1,27 Results,$100,$150,$200,5 days,5 days,5 days,-1,-1,-1,5.0,2,Turkey,Sep 2022,1 hour,1 month,"English, Turkish",N/A,False
+Photography,event-photographers,level 1,27 Results,$80,$120,$200,1 day,2 days,3 days,0,0,0,5.0,3,Singapore,Aug 2021,1 hour,2 months,English,N/A,False
+Photography,event-photographers,level 1,27 Results,$295,$525,$975,5 days,7 days,10 days,0,0,0,5.0,2,United Kingdom,Jun 2020,1 hour,2 weeks,"English, Russian",N/A,False
+Photography,event-photographers,level 1,27 Results,$400,$700,"$1,200",3 days,5 days,10 days,0,0,1,4.8,24,United Kingdom,Nov 2020,6 hours,2 weeks,English,N/A,False
+Photography,event-photographers,level 1,27 Results,$300,$500,$800,1 day,1 day,1 day,1,1,2,5.0,5,Germany,Nov 2019,1 hour,3 days,"English, Chinese, German",N/A,False
+Photography,event-photographers,level 1,27 Results,$500,$800,$950,7 days,7 days,7 days,1,1,1,5.0,84,Australia,Jan 2018,4 hours,7 months,English,N/A,False
+Photography,event-photographers,level 1,27 Results,$50,$100,$150,1 day,2 days,3 days,1,3,5,4.8,4,United States,Jan 2023,5 hours,3 weeks,"English, Spanish",N/A,False
+Photography,event-photographers,level 1,27 Results,$50,$180,$250,4 days,10 days,10 days,1,2,3,5.0,1,Germany,Aug 2021,1 hour,about 4 hours,"English, Japanese, German",1 order in queue,False
+Photography,event-photographers,level 1,27 Results,$150,$250,$550,7 days,7 days,7 days,1,1,1,5.0,1,Canada,Jul 2015,1 hour,1 week,English,N/A,False
+Photography,event-photographers,level 1,27 Results,$130,$390,$750,2 days,3 days,4 days,-1,-1,-1,5.0,34,United States,Oct 2022,5 hours,3 weeks,"English, Spanish",N/A,False
+Photography,event-photographers,level 1,27 Results,$110,$170,$250,4 days,3 days,2 days,-1,-1,-1,5.0,5,Italy,May 2021,1 hour,5 days,"English, Italian",6 orders in queue,False
+Photography,event-photographers,level 1,27 Results,$275,$550,$850,4 days,4 days,4 days,1,1,1,5.0,1,United States,May 2019,2 hours,1 week,"English, Spanish, French, German",N/A,False
+Photography,event-photographers,level 1,27 Results,$120,$160,$200,3 days,7 days,5 days,-1,-1,-1,4.0,1,Turkey,Jul 2023,1 hour,1 week,"English, Turkish",N/A,False
+Photography,event-photographers,level 1,27 Results,€290.15,€580.29,"€1,161",14 days,21 days,30 days,-1,-1,-1,5.0,84,Portugal,Apr 2019,1 hour,5 months,"English, Portuguese, Spanish, French",N/A,False
+Photography,event-photographers,level 1,27 Results,€290.15,€483.58,€599.64,3 days,5 days,7 days,1,1,1,5.0,5,Canada,Sep 2022,1 hour,about 15 hours,English,N/A,False
+Photography,event-photographers,level 1,27 Results,$650,"$1,050","$1,550",5 days,5 days,5 days,0,0,0,5.0,5,Italy,Oct 2022,1 hour,7 months,"English, Italian, Spanish",N/A,False
+Photography,event-photographers,level 1,27 Results,$300,$400,$550,3 days,3 days,3 days,-1,-1,-1,5.0,5,Italy,Oct 2022,1 hour,7 months,"English, Italian, Spanish",N/A,False
+Photography,event-photographers,level 1,27 Results,"$1,800","$2,500","$5,000",14 days,14 days,14 days,3,5,Unlimited,5.0,10,Hong Kong,Mar 2023,2 hours,2 months,"English, Chinese, Russian, Ukrainian",N/A,False
+Photography,event-photographers,level 1,27 Results,$345,"$1,000","$2,000",2 days,3 days,4 days,-1,-1,-1,4.8,63,United States,Aug 2017,6 hours,2 months,English,N/A,False
+Photography,event-photographers,level 1,27 Results,€145.07,€222.45,€290.15,5 days,7 days,10 days,-1,-1,-1,4.8,24,United Kingdom,Nov 2020,6 hours,2 weeks,English,N/A,False
+Photography,event-photographers,level 1,27 Results,€174.09,€677.01,"€1,355",7 days,14 days,21 days,1,1,1,4.9,4,Germany,Dec 2020,1 hour,5 days,"English, German",N/A,False
+Photography,event-photographers,level 1,27 Results,$175,$325,$480,14 days,14 days,14 days,1,1,1,4.8,3,United States,Jun 2023,1 hour,1 week,English,N/A,False
+Photography,event-photographers,level 1,27 Results,$50,$50,$50,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,4.9,69,Indonesia,Jul 2017,1 hour,1 month,"English, Indonesian",N/A,True
+Photography,event-photographers,level 1,27 Results,$50,$200,$270,3 days,5 days,7 days,1,2,3,5.0,5,Germany,Aug 2021,1 hour,about 4 hours,"English, Japanese, German",1 order in queue,False
+Photography,event-photographers,level 1,27 Results,$120,$240,$360,3 days,3 days,3 days,-1,-1,-1,5.0,11,Australia,Jan 2022,1 hour,about 20 hours,"English, Chinese",N/A,False

@@ -1,0 +1,48 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,modeling-acting,level 1,550 Results,₪960.28,"₪1,153","₪1,345",3 days,5 days,7 days,-1,-1,-1,5.0,107,United States,Dec 2021,1 hour,1 day,"English, Spanish",2 orders in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,₪134.44,₪384.11,₪883.46,7 days,7 days,7 days,-1,-1,-1,5.0,20,United States,Jun 2020,11 hours,2 weeks,"Russian, Ukrainian, English",1 order in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$40,$60,$80,3 days,3 days,3 days,-1,-1,-1,4.9,174,United States,Apr 2022,3 hours,1 day,English,2 orders in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$85,$100,$135,2 days,3 days,3 days,-1,-1,-1,5.0,3,Germany,Feb 2021,5 hours,about 9 hours,"English, Spanish, German",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$15,$20,$25,7 days,7 days,7 days,-1,-1,-1,4.9,15,Indonesia,Jan 2023,8 hours,about 4 hours,"English, Indonesian",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.9,23,Pakistan,Nov 2023,1 hour,about 11 hours,"English, Spanish, German, Chinese",1 order in queue,True
+Lifestyle,modeling-acting,level 1,550 Results,$10,$25,$50,2 days,2 days,3 days,-1,-1,-1,5.0,45,Ukraine,Jul 2023,6 hours,2 days,"Ukrainian, Russian, English",1 order in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.8,28,Ukraine,Aug 2023,2 hours,1 day,"Ukrainian, Russian, English",1 order in queue,True
+Lifestyle,modeling-acting,level 1,550 Results,$25,$70,$100,7 days,7 days,7 days,-1,-1,-1,5.0,37,Lithuania,Jul 2022,5 hours,2 days,"Russian, English",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$50,$60,$75,3 days,4 days,5 days,-1,-1,-1,4.8,13,United Kingdom,Oct 2023,9 hours,1 week,English,1 order in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$20,$40,$60,2 days,2 days,3 days,-1,-1,-1,5.0,52,United Kingdom,Apr 2022,4 hours,about 3 hours,"English, Russian, German",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.9,29,Pakistan,Nov 2023,1 hour,about 11 hours,"English, Spanish, German, Chinese",N/A,True
+Lifestyle,modeling-acting,level 1,550 Results,€145.07,€338.50,€725.37,3 days,5 days,7 days,-1,-1,-1,5.0,2,Nigeria,May 2022,1 hour,2 months,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$90,$130,$180,3 days,3 days,3 days,-1,-1,-1,5.0,12,Australia,Aug 2021,4 hours,2 months,"English, Finnish",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$20,$35,$100,1 day,1 day,1 day,-1,-1,-1,5.0,13,Germany,Dec 2020,2 hours,1 week,"English, Hungarian, German",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$150,$280,$350,7 days,7 days,14 days,-1,-1,-1,5.0,85,Netherlands,Nov 2018,1 hour,1 month,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$10,$30,$100,2 days,2 days,2 days,-1,-1,-1,5.0,37,Brazil,Aug 2022,2 hours,1 week,"Portuguese, English",2 orders in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$40,$45,$50,5 days,5 days,5 days,-1,-1,-1,4.9,98,Dominican Republic,Oct 2020,4 hours,about 18 hours,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$50,$70,$120,3 days,4 days,5 days,-1,-1,-1,5.0,153,United Kingdom,Jun 2021,3 hours,1 week,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$15,$30,$60,7 days,7 days,10 days,-1,-1,-1,5.0,63,Moldova,Jul 2018,1 hour,4 days,"English, Russian",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$75,$125,$150,3 days,5 days,10 days,-1,-1,-1,5.0,82,United States,Jul 2021,11 hours,2 weeks,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$20,$70,$95,2 days,4 days,4 days,-1,-1,-1,5.0,23,United States,Aug 2023,9 hours,about 5 hours,"English, Spanish",2 orders in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,€48.36,€116.06,€232.12,7 days,7 days,7 days,-1,-1,-1,5.0,78,Lithuania,Jul 2022,5 hours,2 days,"Russian, English",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$50,$150,$400,1 day,3 days,7 days,-1,-1,-1,5.0,13,Thailand,Sep 2023,7 hours,about 11 hours,"English, Ukrainian, Polish, Russian",1 order in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$40,$60,$80,2 days,2 days,2 days,-1,-1,-1,4.5,5,United States,Dec 2023,2 hours,3 weeks,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$95,$150,$360,21 days,21 days,21 days,-1,-1,-1,5.0,10,United States,Mar 2016,5 hours,1 month,"English, Chinese",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.9,23,Pakistan,Nov 2023,1 hour,about 11 hours,"English, Spanish, German, Chinese",1 order in queue,True
+Lifestyle,modeling-acting,level 1,550 Results,€53.19,€77.37,€116.06,4 days,4 days,6 days,-1,-1,-1,5.0,2,United Kingdom,Feb 2023,2 hours,5 days,"English, Urdu, Hindi",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$40,$90,$150,3 days,5 days,7 days,-1,-1,-1,5.0,47,Ukraine,Dec 2021,1 hour,3 weeks,"English, Russian, Ukrainian, German",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$25,$50,$85,5 days,5 days,5 days,-1,-1,-1,5.0,25,United States,Oct 2020,1 hour,3 days,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$15,$30,$50,1 day,3 days,5 days,-1,-1,-1,5.0,12,Puerto Rico,Mar 2023,1 hour,3 weeks,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$10,$15,$25,2 days,3 days,7 days,-1,-1,-1,5.0,77,Mexico,Aug 2021,7 hours,1 week,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$50,$75,$100,2 days,3 days,3 days,-1,-1,-1,5.0,28,United States,Nov 2021,4 hours,1 week,English,4 orders in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$20,$35,$55,2 days,2 days,2 days,-1,-1,-1,4.9,13,Argentina,Oct 2023,2 hours,2 days,"Spanish, English",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$25,$40,$60,2 days,5 days,7 days,-1,-1,-1,4.9,77,United States,Sep 2017,1 hour,5 days,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$200,$500,$750,5 days,5 days,5 days,-1,-1,-1,5.0,2,United States,Sep 2021,4 hours,2 months,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$30,$55,$75,3 days,3 days,3 days,-1,-1,-1,5.0,2,Venezuela,Jan 2021,1 hour,about 1 hour,"English, Spanish",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$30,$55,$90,3 days,4 days,5 days,-1,-1,-1,5.0,48,United States,Jun 2015,6 hours,1 week,English,1 order in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$50,$75,$100,2 days,3 days,3 days,-1,-1,-1,5.0,28,United States,Nov 2021,4 hours,1 week,English,4 orders in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$15,$40,$65,1 day,2 days,3 days,-1,-1,-1,4.9,66,Moldova,May 2023,3 hours,about 1 hour,"English, Romanian, Russian, Ukrainian",1 order in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$25,$35,$50,5 days,7 days,7 days,-1,-1,-1,4.8,7,United Kingdom,Jan 2024,1 hour,about 4 hours,"English, Portuguese",2 orders in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$30,$55,$90,3 days,4 days,5 days,-1,-1,-1,5.0,48,United States,Jun 2015,6 hours,1 week,English,1 order in queue,False
+Lifestyle,modeling-acting,level 1,550 Results,$25,$50,$150,4 days,7 days,7 days,-1,-1,-1,5.0,43,United States,Feb 2021,3 hours,1 week,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$50,$90,$100,3 days,3 days,3 days,-1,-1,-1,5.0,11,Kenya,Jun 2017,1 hour,1 month,"English, Swahili",N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$150,$150,$150,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,6,United States,Jan 2024,1 hour,3 days,"English, Spanish, French",N/A,True
+Lifestyle,modeling-acting,level 1,550 Results,$75,$150,$250,5 days,5 days,5 days,-1,-1,-1,5.0,2,United States,Dec 2014,8 hours,2 days,English,N/A,False
+Lifestyle,modeling-acting,level 1,550 Results,$50,$120,$240,7 days,7 days,7 days,-1,-1,-1,5.0,78,Lithuania,Jul 2022,5 hours,2 days,"Russian, English",N/A,False

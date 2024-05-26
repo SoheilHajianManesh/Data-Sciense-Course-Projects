@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,songwriters,new seller,"2,400+ Results",$150,$250,$400,5 days,7 days,10 days,0,1,2,5.0,37,Germany,Nov 2019,N/A,8 months,"English, German, Spanish, French",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$130,$200,$300,10 days,10 days,14 days,1,2,3,5.0,27,Brazil,Apr 2019,13 hours,about 8 hours,"English, Portuguese",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$10,$15,$25,2 days,3 days,4 days,2,2,3,5.0,13,Germany,Oct 2021,3 hours,5 days,German,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$15,$25,$45,2 days,2 days,4 days,1,2,3,4.9,108,Nigeria,Feb 2023,N/A,4 days,English,1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$180,$400,$690,5 days,6 days,10 days,2,2,2,5.0,29,United States,Jul 2019,12 days,5 days,"English, Serbian, Portuguese, Spanish",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$10,$25,$30,3 days,4 days,4 days,5,7,7,4.9,130,Spain,Apr 2020,12 hours,1 day,"English, Spanish",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$150,$260,$375,3 days,4 days,10 days,2,2,2,5.0,13,United States,Jul 2019,12 days,5 days,"English, Serbian, Portuguese, Spanish",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$390,$490,$590,14 days,14 days,14 days,1,2,3,5.0,91,South Korea,Jan 2021,11 hours,1 month,"English, Italian, Korean, Spanish",4 orders in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$120,$190,$415,1 day,2 days,2 days,1,3,Unlimited,4.9,501,Poland,Jan 2019,1 hour,2 months,"English, Polish",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$70,$180,$300,6 days,6 days,6 days,2,2,2,5.0,221,India,May 2016,1 hour,3 months,"English, Hindi, Marathi, Gujarati",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$40,$60,$85,3 days,4 days,5 days,2,2,2,5.0,47,United States,Sep 2020,1 hour,4 weeks,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$30,$120,$200,1 day,3 days,4 days,2,2,0,4.9,41,United Kingdom,Aug 2019,1 hour,1 day,English,1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$45,$60,$85,2 days,3 days,4 days,0,1,Unlimited,4.9,34,United States,Aug 2019,19 hours,about 16 hours,"English, French, Russian, German",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$5,$10,$20,1 day,3 days,5 days,2,3,4,4.9,16,Indonesia,Sep 2023,1 hour,1 week,"English, Indonesian",1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$20,$35,$100,2 days,2 days,6 days,1,2,2,5.0,7,United States,Jul 2021,6 hours,2 weeks,English,1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$45,$55,$85,2 days,3 days,4 days,2,3,Unlimited,4.9,133,United States,Aug 2019,19 hours,about 16 hours,"English, French, Russian, German",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$10,$25,$50,2 days,3 days,4 days,1,2,3,5.0,9,Nigeria,Sep 2023,1 hour,3 days,English,1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$15,$40,$50,1 day,3 days,2 days,1,2,3,5.0,5,Malaysia,Feb 2024,1 hour,1 week,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$20,$25,$45,4 days,4 days,5 days,Unlimited,Unlimited,Unlimited,5.0,271,Venezuela,May 2020,N/A,1 week,"English, Spanish, French, Italian",1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$150,$250,$400,5 days,7 days,10 days,0,1,2,5.0,37,Germany,Nov 2019,N/A,8 months,"English, German, Spanish, French",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$85,$170,$750,1 day,2 days,5 days,-1,-1,-1,4.8,164,United States,Apr 2014,3 days,9 months,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$50,$70,$100,3 days,4 days,5 days,1,1,1,5.0,267,United States,Aug 2019,17 hours,2 months,English,1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$15,$25,$65,2 days,4 days,6 days,3,5,Unlimited,5.0,9,United States,Jan 2021,6 hours,2 months,English,3 orders in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$30,$50,$70,5 days,7 days,10 days,2,2,2,5.0,352,Turkey,Aug 2020,1 hour,2 days,"English, Turkish",3 orders in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$20,$20,$20,3-day delivery,3-day delivery,3-day delivery,1 Revision,1 Revision,1 Revision,5.0,4,United States,Dec 2023,2 hours,3 weeks,"English, Spanish, Russian, German",N/A,True
+Music & Audio,songwriters,new seller,"2,400+ Results",$25,$50,$75,2 days,4 days,6 days,-1,-1,-1,4.7,8,United States,Sep 2023,2 hours,4 days,"English, German",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$150,$240,$300,5 days,7 days,14 days,2,2,2,5.0,11,United Kingdom,Jun 2022,2 hours,1 month,"English, Spanish, French",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$150,$275,$400,5 days,6 days,7 days,0,1,3,5.0,43,United States,Feb 2020,N/A,2 weeks,"English, Spanish",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$120,$120,$120,4-day delivery,4-day delivery,4-day delivery,1 Revision,1 Revision,1 Revision,5.0,2,Italy,Oct 2020,3 hours,1 month,"English, Italian",N/A,True
+Music & Audio,songwriters,new seller,"2,400+ Results",$40,$190,$400,2 days,3 days,7 days,1,1,1,5.0,215,Slovenia,Oct 2019,3 hours,2 months,"English, Slovenian, Croatian, German",1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",₪576.17,₪672.19,₪864.25,2 days,2 days,1 day,1,2,4,4.8,3,Jamaica,May 2020,N/A,2 months,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",₪307.29,₪768.22,"₪1,729",10 days,10 days,14 days,3,3,3,5.0,42,South Africa,Nov 2021,1 hour,3 months,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$350,$495,$695,3 days,5 days,7 days,1,2,3,5.0,5,United States,May 2013,N/A,10 months,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$100,$150,$250,3 days,4 days,5 days,1,1,2,5.0,5,Dominican Republic,Oct 2022,1 hour,1 month,"English, Spanish",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$180,$190,$350,10 days,14 days,21 days,1,1,2,5.0,31,Canada,Jun 2022,1 day,1 week,English,1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$100,$150,$200,4 days,7 days,14 days,1,1,1,5.0,11,United States,Dec 2022,1 hour,8 months,"English, Spanish",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$380,$750,"$1,180",1 day,2 days,3 days,1,1,2,5.0,1,United States,Mar 2019,1 hour,3 months,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$150,$250,$400,5 days,6 days,7 days,2,2,2,5.0,19,United States,Aug 2016,6 days,1 month,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$70,$110,$165,6 days,6 days,6 days,1,1,2,4.9,87,Netherlands,Mar 2021,3 hours,2 months,"English, Dutch",1 order in queue,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$100,$200,$300,4 days,6 days,7 days,1,2,2,5.0,38,Italy,Jun 2019,1 hour,4 months,"English, Italian, Romanian",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$130,$130,$130,7-day delivery,7-day delivery,7-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,3,Brazil,Jul 2022,1 hour,7 months,"English, Portuguese, Spanish",N/A,True
+Music & Audio,songwriters,new seller,"2,400+ Results",$80,$160,$180,7 days,7 days,7 days,1,2,3,4.7,16,Belgium,Sep 2019,1 hour,1 year,"English, Dutch, French, German",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$45,$85,$200,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,78,United States,Aug 2020,2 hours,2 weeks,English,N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$40,$120,$180,2 days,4 days,10 days,0,1,2,4.6,10,Norway,Apr 2022,1 hour,4 days,"English, Norwegian Bokmål, Norwegian Nynorsk",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$150,$400,$700,7 days,10 days,30 days,1,1,3,5.0,3,Venezuela,Sep 2017,N/A,4 months,"English, Spanish, French",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$185,$185,$185,5-day delivery,5-day delivery,5-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.5,16,Colombia,Mar 2020,8 hours,3 months,"English, Spanish",N/A,True
+Music & Audio,songwriters,new seller,"2,400+ Results",$95,$195,$300,3 days,10 days,14 days,2,2,3,5.0,45,United States,Jul 2015,10 hours,1 month,"English, Spanish",N/A,False
+Music & Audio,songwriters,new seller,"2,400+ Results",$50,$100,$150,3 days,5 days,7 days,2,3,4,5.0,5,Germany,May 2022,2 days,8 months,"English, German, Romanian",N/A,False

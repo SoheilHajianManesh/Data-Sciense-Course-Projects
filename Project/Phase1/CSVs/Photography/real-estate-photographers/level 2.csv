@@ -1,0 +1,11 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,real-estate-photographers,level 2,9 Results,$135,$175,$250,3 days,2 days,1 day,-1,-1,-1,4.9,110,United States,Aug 2013,1 hour,about 5 hours,"English, German",1 order in queue,False
+Photography,real-estate-photographers,level 2,9 Results,$120,$225,$350,3 days,4 days,5 days,-1,-1,-1,5.0,1,United States,Aug 2020,12 hours,4 days,"English, Spanish, Portuguese, German",N/A,False
+Photography,real-estate-photographers,level 2,9 Results,$150,$250,$320,3 days,4 days,5 days,5,5,5,5.0,392,United States,Aug 2020,12 hours,4 days,"English, Spanish, Portuguese, German",N/A,False
+Photography,real-estate-photographers,level 2,9 Results,$250,$350,$500,2 days,3 days,6 days,-1,-1,-1,5.0,35,United States,Sep 2018,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 2,9 Results,"$1,000","$1,875","$2,500",7 days,10 days,14 days,3,3,3,5.0,1,United States,Jun 2021,1 hour,1 month,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 2,9 Results,$160,$210,$320,2 days,4 days,6 days,-1,-1,-1,4.9,22,Spain,Apr 2022,1 hour,about 12 hours,"English, Ukrainian, Russian, Spanish",N/A,False
+Photography,real-estate-photographers,level 2,9 Results,$110,$160,$200,3 days,3 days,3 days,1,1,1,4.9,137,United Kingdom,Dec 2014,1 hour,2 months,English,N/A,False
+Photography,real-estate-photographers,level 2,9 Results,$250,$350,$675,1 day,1 day,3 days,2,2,3,5.0,41,United States,Jul 2017,2 hours,3 months,"English, Spanish",N/A,False
+Photography,real-estate-photographers,level 2,9 Results,$135,$175,$250,3 days,2 days,1 day,-1,-1,-1,4.9,110,United States,Aug 2013,1 hour,about 5 hours,"English, German",1 order in queue,False
+Photography,real-estate-photographers,level 2,9 Results,$130,$190,$250,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,5.0,1,Bangladesh,Mar 2019,1 hour,about 10 hours,"English, Spanish, Russian, German",N/A,False

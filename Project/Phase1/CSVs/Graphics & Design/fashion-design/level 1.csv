@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$25,$45,$75,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,216,Bangladesh,Dec 2020,1 hour,1 day,English,4 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",€9.67,€29.01,€38.69,5 days,5 days,5 days,Unlimited,Unlimited,Unlimited,4.9,66,Bangladesh,Apr 2019,1 hour,2 days,English,2 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$250,$450,$850,14 days,60 days,90 days,2,2,2,5.0,21,Indonesia,Jun 2019,5 hours,1 week,"English, Indonesian",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$10,$15,$30,2 days,3 days,6 days,2,3,5,4.8,107,Bangladesh,Oct 2019,1 hour,1 day,English,2 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$75,$105,$135,3 days,4 days,5 days,1,2,2,5.0,8,Germany,Sep 2021,1 hour,1 week,"English, German, Dutch",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$15,$50,$75,2 days,3 days,4 days,-1,-1,-1,4.8,22,Bangladesh,Apr 2022,1 hour,5 days,"Bengali, English",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$15,$35,$55,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,4.8,757,Pakistan,Jan 2015,1 hour,about 20 hours,"Urdu, English, Arabic, French",1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",£20.60,£37.07,£61.79,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,216,Bangladesh,Dec 2020,1 hour,1 day,English,4 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$40,$60,2 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,201,Poland,Jan 2020,4 hours,about 3 hours,English,7 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$60,$190,$260,7 days,10 days,14 days,3,3,3,4.9,34,United Kingdom,Feb 2023,5 hours,1 week,"English, Spanish, Portuguese",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$40,$75,2 days,2 days,2 days,4,Unlimited,Unlimited,4.9,561,Bangladesh,Sep 2018,1 hour,about 21 hours,English,3 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",€19.34,€33.85,€62.86,3 days,5 days,7 days,2,3,5,4.9,340,Bangladesh,Jul 2021,1 hour,1 day,"Bengali, Hindi, Urdu, English",5 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$35,$40,$50,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,4.7,12,Sri Lanka,Sep 2021,1 hour,2 days,"Sinhala, English",1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",US$20,US$50,US$95,1 day,5 days,7 days,0,4,Unlimited,4.9,29,Bangladesh,Jun 2020,1 hour,1 week,"Bengali, English, German, French",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$40,$55,$85,3 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.9,25,Pakistan,Sep 2022,1 hour,about 1 hour,"Urdu, English",2 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$10,$15,$40,2 days,3 days,5 days,1,2,2,4.9,27,Singapore,Mar 2023,1 hour,1 week,"English, Urdu, Chinese, Malay",2 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$15,$25,$80,3 days,4 days,5 days,Unlimited,Unlimited,Unlimited,4.9,39,Bangladesh,Jul 2019,1 hour,4 days,"Bengali, English, Hindi",2 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$5,$10,$15,1 day,2 days,3 days,1,2,3,5.0,209,Indonesia,Dec 2021,1 hour,about 13 hours,"English, Indonesian",5 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$15,$20,$25,4 days,7 days,10 days,2,2,2,5.0,45,Greece,Jan 2021,5 hours,1 day,"English, Spanish",2 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$60,$95,$185,3 days,5 days,7 days,1,2,3,5.0,27,Bangladesh,Nov 2021,1 hour,about 19 minutes,"Bengali, English, Hebrew, Hindi",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$10,$15,$50,2 days,2 days,5 days,5,5,Unlimited,4.9,581,Sri Lanka,Mar 2020,1 hour,about 10 hours,"Sinhala, English",2 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$15,$90,$115,1 day,3 days,6 days,-1,-1,-1,4.8,33,Ukraine,Oct 2023,2 hours,about 2 hours,"English, Ukrainian",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$40,$120,4 days,3 days,2 days,Unlimited,Unlimited,Unlimited,4.9,96,Bangladesh,Apr 2019,1 hour,2 days,English,2 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$25,$35,$50,2 days,2 days,4 days,1,1,1,4.9,53,Bangladesh,Apr 2020,1 hour,4 days,"English, Bengali, Hindi",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$25,$30,$40,2 days,4 days,5 days,2,3,4,4.8,198,Bangladesh,Oct 2018,2 hours,1 week,"Bengali, English",1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$40,$75,2 days,2 days,2 days,4,Unlimited,Unlimited,4.9,561,Bangladesh,Sep 2018,1 hour,about 21 hours,English,3 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$50,$150,$350,1 day,2 days,3 days,1,2,2,5.0,6,Ghana,Aug 2020,1 hour,1 week,English,N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$10,$40,$90,2 days,3 days,5 days,Unlimited,Unlimited,Unlimited,4.6,12,Sri Lanka,Dec 2020,2 hours,1 day,"English, Sinhala, Japanese",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$10,$30,$50,3 days,3 days,5 days,Unlimited,Unlimited,Unlimited,4.8,30,Bangladesh,May 2023,1 hour,1 week,"Bengali, English, Hindi",1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$75,$185,1 day,4 days,10 days,1,3,Unlimited,5.0,18,Poland,Aug 2021,1 hour,5 days,"English, Turkish",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$50,$80,2 days,3 days,4 days,3,Unlimited,Unlimited,5.0,61,Nigeria,Aug 2022,2 hours,1 day,English,N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$35,$65,2 days,3 days,5 days,4,4,4,4.9,126,Pakistan,Nov 2022,1 hour,about 8 hours,"Urdu, English",4 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",€4.84,€14.51,€19.34,1 day,1 day,1 day,1,2,3,4.9,91,Pakistan,Apr 2021,1 hour,about 16 hours,"English, Urdu, Spanish, Portuguese",1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$5,$10,$25,2 days,3 days,5 days,1,1,1,5.0,41,Brazil,Oct 2021,11 hours,3 days,"English, Portuguese",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$35,$85,3 days,4 days,7 days,5,5,9,4.9,247,Pakistan,Jun 2020,1 hour,about 21 hours,"Urdu, English",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",€14.51,€29.01,€43.52,2 days,2 days,3 days,2,3,5,4.9,279,India,May 2021,3 hours,2 days,"English, Hindi",4 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",€19.34,€33.85,€62.86,3 days,5 days,7 days,2,3,5,4.9,340,Bangladesh,Jul 2021,1 hour,1 day,"Bengali, Hindi, Urdu, English",5 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$40,$70,$100,5 days,5 days,5 days,0,0,0,4.9,21,Argentina,Apr 2020,3 hours,about 21 hours,"English, Spanish",1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$20,$30,$60,1 day,2 days,5 days,Unlimited,Unlimited,Unlimited,4.9,10,Bangladesh,Apr 2021,1 hour,about 3 hours,"Bengali, English, Hindi",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$60,$95,$145,1 day,5 days,7 days,2,3,4,4.8,20,Bangladesh,Nov 2021,1 hour,about 23 minutes,"Bengali, English, Hebrew, Hindi",1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$5,$10,$20,2 days,4 days,6 days,1,1,1,4.9,60,United Kingdom,Feb 2022,1 hour,1 day,"English, French",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$10,$15,$35,2 days,3 days,5 days,-1,-1,-1,5.0,46,Pakistan,Jun 2019,1 hour,1 month,English,N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$10,$15,$30,2 days,3 days,5 days,2,5,5,4.9,283,Bangladesh,Oct 2019,1 hour,1 day,English,4 orders in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$5,$25,$50,1 day,2 days,3 days,-1,-1,-1,4.9,98,Bangladesh,Jul 2020,1 hour,about 1 hour,"Bengali, English",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$95,$120,$175,3 days,5 days,7 days,3,Unlimited,Unlimited,5.0,3,Italy,May 2018,5 hours,1 day,English,1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$15,$35,$55,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,4.8,757,Pakistan,Jan 2015,1 hour,about 20 hours,"Urdu, English, Arabic, French",1 order in queue,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$60,$190,$260,7 days,10 days,14 days,3,3,3,4.9,34,United Kingdom,Feb 2023,5 hours,1 week,"English, Spanish, Portuguese",N/A,False
+Graphics & Design,fashion-design,level 1,"1,000+ Results",$10,$40,$90,1 day,3 days,4 days,1,2,3,5.0,55,Bangladesh,Jul 2021,1 hour,3 days,"Bengali, English",1 order in queue,False

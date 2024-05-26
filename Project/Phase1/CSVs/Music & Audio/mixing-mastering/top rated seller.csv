@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,mixing-mastering,top rated seller,361 Results,$150,$300,$400,3 days,5 days,7 days,1,2,3,5.0,145,United States,Oct 2017,4 hours,about 1 hour,"English, Spanish",4 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$110,$200,$280,2 days,3 days,3 days,3,3,3,5.0,61,Australia,Jan 2019,3 hours,about 5 hours,English,N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$300,$300,$300,14-day delivery,14-day delivery,14-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,35,Canada,Sep 2019,4 hours,about 47 minutes,"English, French",N/A,True
+Music & Audio,mixing-mastering,top rated seller,361 Results,$25,$45,$70,1 day,2 days,3 days,1,1,1,5.0,882,Spain,Aug 2019,2 hours,about 2 hours,"English, Spanish, Catalan",1 order in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$50,$250,$375,1 day,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,"5,260",United States,Jul 2015,6 hours,about 2 hours,English,3 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,€9.67,€48.36,€116.06,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,988,Serbia,Jan 2013,1 hour,about 48 minutes,"English, Serbian",4 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,€9.67,€19.34,€38.69,1 day,1 day,2 days,1,1,1,4.9,528,United Kingdom,Sept 2017,3 hours,about 2 hours,English,N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$10,$15,$25,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,4.9,"3,557",United States,Jun 2013,1 hour,2 days,English,2 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,€96.72,€145.07,€193.43,10 days,10 days,10 days,5,5,5,5.0,"1,475",Netherlands,Jul 2018,2 hours,about 3 hours,"English, Dutch",14 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$20,$30,$45,5 days,5 days,5 days,2,4,Unlimited,5.0,"1,230",Portugal,Jun 2021,3 hours,about 15 hours,"English, Portuguese, Spanish",10 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$35,$125,$200,1 day,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,"1,464",Netherlands,Mar 2021,1 hour,about 2 hours,"English, Dutch",2 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$20,$30,$40,5 days,5 days,5 days,1,1,1,5.0,"2,487",United Kingdom,Sep 2017,3 hours,about 2 hours,English,11 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$140,$295,$495,4 days,5 days,7 days,2,3,5,5.0,450,United Kingdom,Jan 2018,1 hour,1 day,"English, French",5 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,€9.67,€14.51,€19.34,2 days,2 days,3 days,9,9,9,5.0,"3,063",Brazil,May 2019,2 hours,about 2 hours,"English, Portuguese",N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$75,$100,$150,2 days,2 days,2 days,5,5,5,5.0,427,Nigeria,Apr 2020,1 hour,4 days,"English, Spanish, French, Italian",1 order in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$25,$50,$195,3 days,3 days,3 days,3,Unlimited,Unlimited,5.0,"10,732",United States,Oct 2015,1 hour,about 1 hour,English,N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,₪192.06,₪230.47,₪268.88,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,"2,403",Bangladesh,Dec 2018,1 hour,about 18 hours,English,4 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$40,$150,$250,2 days,2 days,2 days,1,0,1,5.0,"2,964",United States,Jun 2017,1 hour,4 days,English,N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$40,$90,$150,3 days,4 days,5 days,2,5,Unlimited,5.0,747,Croatia,Feb 2021,2 hours,2 days,"English, Croatian",7 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$40,$100,$130,7 days,7 days,7 days,3,Unlimited,Unlimited,5.0,54,Hong Kong,Apr 2019,2 hours,about 23 hours,"English, Chinese",N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$60,$90,$120,4 days,5 days,6 days,2,3,4,5.0,"3,352",Ukraine,Mar 2015,2 hours,about 7 hours,"English, Russian, Ukrainian",7 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$90,$120,$160,6 days,7 days,10 days,2,3,5,5.0,"1,116",United States,Feb 2019,4 hours,about 1 hour,English,6 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$40,$70,$100,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,"5,971",Serbia,Jan 2013,1 hour,about 52 minutes,"English, Serbian",8 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$60,$150,$170,3 days,5 days,5 days,3,4,4,5.0,410,United States,Aug 2020,1 hour,1 day,English,4 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$200,$300,$400,7 days,10 days,10 days,2,2,3,5.0,459,United Kingdom,Jan 2021,1 hour,2 days,"English, French, Spanish",3 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$100,$150,$200,4 days,5 days,6 days,Unlimited,Unlimited,Unlimited,5.0,283,Turkey,Nov 2019,2 hours,about 1 hour,"English, German, Turkish, Indonesian",1 order in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$30,$60,$90,3 days,3 days,4 days,2,4,6,4.9,546,Portugal,Jun 2020,2 hours,1 day,English,3 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$45,$95,$135,4 days,7 days,6 days,0,0,1,5.0,548,United Kingdom,Sep 2018,5 hours,2 days,"English, French, German",3 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$100,$150,$200,4 days,5 days,6 days,Unlimited,Unlimited,Unlimited,5.0,"1,726",Turkey,Nov 2019,2 hours,about 1 hour,"English, German, Turkish, Indonesian",6 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$70,$140,$180,10 days,10 days,10 days,5,5,5,5.0,799,United Kingdom,Sep 2019,1 hour,1 day,English,4 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$25,$60,$80,3 days,5 days,7 days,Unlimited,Unlimited,Unlimited,5.0,"2,060",United States,Jul 2016,3 hours,about 4 hours,English,3 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$45,$250,$500,2 days,2 days,2 days,1,1,1,5.0,317,United States,Nov 2018,1 hour,about 20 hours,"English, Spanish, French",N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$50,$65,$100,1 day,2 days,3 days,1,1,3,5.0,470,United States,Dec 2019,1 hour,about 23 hours,English,N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$25,$70,$130,3 days,5 days,7 days,1,1,1,5.0,290,Greece,Feb 2017,2 hours,1 day,English,2 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$30,$50,$75,3 days,3 days,3 days,5,Unlimited,Unlimited,4.9,"3,229",India,Jun 2018,1 hour,about 3 hours,"Hindi, English",25 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$25,$35,$50,1 day,1 day,2 days,1,2,3,5.0,570,United States,Jun 2020,1 hour,about 22 hours,English,1 order in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$140,$220,$400,2 days,3 days,5 days,Unlimited,Unlimited,Unlimited,5.0,163,United Kingdom,Jul 2019,1 hour,about 20 minutes,English,N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$145,$245,$295,3 days,5 days,7 days,2,3,5,5.0,16,Germany,Sep 2019,2 hours,1 week,"English, German",N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,£61.79,£94.74,£123.57,4 days,4 days,4 days,3,3,4,5.0,410,United Kingdom,Jun 2019,1 hour,about 6 hours,English,N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$175,$250,$325,5 days,7 days,10 days,3,3,3,5.0,62,United States,Aug 2020,1 hour,about 19 hours,English,1 order in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$45,$60,$90,7 days,7 days,7 days,2,2,3,5.0,"1,945",Macedonia [FYROM],Nov 2017,5 hours,about 8 hours,English,8 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$55,$75,$115,5 days,5 days,5 days,3,3,3,5.0,150,Ukraine,Apr 2019,1 hour,1 week,English,N/A,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$120,$195,$395,4 days,5 days,7 days,3,3,3,5.0,223,United States,Mar 2020,1 hour,2 days,"Italian, English",2 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$25,$55,$80,1 day,3 days,4 days,1,1,1,4.9,452,Spain,Aug 2019,2 hours,about 11 minutes,"English, Spanish, Catalan",6 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$295,$495,$995,3 days,7 days,14 days,3,6,9,5.0,35,South Africa,May 2020,2 hours,1 day,English,1 order in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$100,$185,$240,7 days,7 days,7 days,3,Unlimited,Unlimited,5.0,99,Brazil,Apr 2020,1 hour,4 days,"English, Portuguese",2 orders in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$155,$200,$265,5 days,5 days,5 days,5,5,5,5.0,"3,431",Poland,May 2017,1 hour,about 7 hours,"English, Polish, Russian",1 order in queue,False
+Music & Audio,mixing-mastering,top rated seller,361 Results,$60,$120,$175,2 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,"1,179",United Kingdom,Aug 2011,5 hours,1 day,English,1 order in queue,False

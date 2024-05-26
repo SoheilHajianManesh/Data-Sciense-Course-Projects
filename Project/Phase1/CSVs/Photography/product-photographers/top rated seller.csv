@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,product-photographers,top rated seller,100 Results,$100,$395,$595,14 days,14 days,14 days,3,3,3,4.9,247,Germany,Jun 2016,1 hour,about 3 hours,"English, German",5 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$950,"$1,900","$3,500",30 days,30 days,30 days,0,0,0,5.0,1,Israel,Feb 2017,5 hours,1 day,"English, Hebrew, Spanish",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$400,$925,"$1,350",10 days,10 days,10 days,4,4,7,5.0,133,Poland,Oct 2015,3 hours,about 3 hours,"English, French, German, Spanish",2 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$250,$350,3 days,5 days,7 days,1,2,3,5.0,14,Spain,Jun 2021,1 hour,1 day,"English, Spanish",N/A,False
+Photography,product-photographers,top rated seller,100 Results,₪960.28,"₪2,881","₪3,842",7 days,7 days,14 days,1,1,1,5.0,147,Canada,Feb 2018,3 hours,1 week,"English, French",1 order in queue,False
+Photography,product-photographers,top rated seller,100 Results,$225,$365,$455,10 days,14 days,14 days,2,2,5,5.0,"1,262",Poland,Oct 2015,3 hours,about 3 hours,"English, French, German, Spanish",10 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$140,$195,$360,6 days,7 days,10 days,1,2,2,4.9,367,United States,Jan 2020,1 hour,3 days,"Romanian, English",2 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$395,$595,14 days,14 days,14 days,3,3,3,4.9,247,Germany,Jun 2016,1 hour,about 3 hours,"English, German",5 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$200,$300,7 days,7 days,7 days,2,2,2,5.0,123,United States,Feb 2022,1 hour,about 21 hours,English,3 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$225,$525,"$1,000",7 days,10 days,14 days,0,1,1,5.0,152,United States,May 2020,2 hours,1 week,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$450,$750,"$1,200",14 days,14 days,14 days,2,2,2,5.0,165,United Kingdom,Mar 2018,4 hours,1 month,"English, Slovak, Czech, Polish",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$100,$500,$650,3 days,6 days,10 days,1,1,2,5.0,52,United States,Feb 2022,2 hours,2 days,"English, Polish",3 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$160,$560,$960,10 days,10 days,10 days,Unlimited,Unlimited,Unlimited,5.0,16,United States,Jun 2017,1 hour,5 days,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$200,$500,$600,10 days,14 days,14 days,0,1,1,5.0,11,Latvia,Oct 2020,3 hours,1 day,"English, Latvian, Russian",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$250,$750,"$1,000",7 days,7 days,14 days,1,1,1,5.0,147,Canada,Feb 2018,3 hours,1 week,"English, French",1 order in queue,False
+Photography,product-photographers,top rated seller,100 Results,$400,$600,"$1,100",10 days,14 days,21 days,3,4,5,5.0,45,United States,Feb 2017,4 hours,about 11 hours,"English, Urdu",1 order in queue,False
+Photography,product-photographers,top rated seller,100 Results,$200,$400,$500,14 days,14 days,14 days,-1,-1,-1,4.9,302,United States,Jul 2016,2 hours,about 2 hours,English,3 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$230,$315,4 days,4 days,5 days,1,1,1,5.0,110,United Kingdom,Feb 2019,6 hours,about 10 hours,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$100,$250,$450,5 days,10 days,14 days,1,1,1,5.0,306,United Kingdom,Jul 2019,3 hours,about 13 hours,"English, Greek",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$100,$250,$300,3 days,5 days,7 days,0,1,1,5.0,59,United Kingdom,Jan 2021,1 hour,2 days,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$125,$400,$600,14 days,14 days,14 days,1,1,1,5.0,15,United States,May 2021,1 hour,2 weeks,"English, French",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$105,$295,$420,5 days,5 days,5 days,1,1,1,5.0,342,United States,Apr 2020,1 hour,1 week,"English, Chinese",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$375,$550,"$1,100",7 days,10 days,14 days,0,0,0,5.0,8,United States,May 2020,2 hours,1 week,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$350,$850,"$1,500",7 days,14 days,21 days,2,2,2,5.0,22,Italy,May 2021,1 hour,2 weeks,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$80,$350,$450,3 days,7 days,10 days,1,1,1,5.0,251,Canada,Feb 2019,1 hour,1 week,"English, French",1 order in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$500,$650,3 days,6 days,10 days,1,1,2,5.0,52,United States,Feb 2022,2 hours,2 days,"English, Polish",3 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$200,$300,7 days,7 days,7 days,2,2,2,5.0,123,United States,Feb 2022,1 hour,about 21 hours,English,3 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$200,$400,$500,14 days,14 days,14 days,-1,-1,-1,4.9,302,United States,Jul 2016,2 hours,about 2 hours,English,3 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,₪384.11,₪403.32,₪576.17,7 days,7 days,7 days,0,0,0,5.0,73,United States,Dec 2020,9 hours,5 days,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$125,$450,$600,10 days,10 days,10 days,1,1,1,5.0,4,Italy,Nov 2016,1 hour,about 15 hours,"English, Italian, Spanish",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$125,$245,$370,5 days,5 days,5 days,1,1,1,5.0,23,United States,Oct 2020,2 hours,1 day,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$190,$270,$350,10 days,10 days,14 days,-1,-1,-1,5.0,115,Lithuania,Nov 2020,2 hours,about 5 hours,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$200,$600,$950,14 days,21 days,30 days,1,2,2,4.9,6,Spain,Dec 2017,1 hour,1 week,"English, Spanish, Catalan, Portuguese",N/A,False
+Photography,product-photographers,top rated seller,100 Results,€130.57,€386.86,€556.11,7 days,14 days,14 days,3,3,7,5.0,47,Poland,Oct 2015,3 hours,about 3 hours,"English, French, German, Spanish",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$100,$250,$350,2 days,7 days,10 days,2,2,3,5.0,328,United States,Jun 2019,2 hours,about 23 hours,"English, Spanish",2 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$150,$240,10 days,10 days,14 days,0,0,0,5.0,97,Lithuania,Nov 2020,2 hours,about 5 hours,English,2 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$105,$295,$420,5 days,5 days,5 days,1,1,1,5.0,342,United States,Apr 2020,1 hour,1 week,"English, Chinese",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$120,$365,$670,5 days,7 days,10 days,0,0,0,5.0,66,United Kingdom,Jan 2020,4 hours,3 days,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$140,$195,$360,6 days,7 days,10 days,1,2,2,4.9,367,United States,Jan 2020,1 hour,3 days,"Romanian, English",2 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$45,$135,$270,4 days,5 days,7 days,-1,-1,-1,4.9,763,United States,Jul 2017,1 hour,2 days,English,1 order in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$130,$150,3 days,3 days,6 days,1,1,1,5.0,65,Venezuela,Aug 2016,1 hour,2 days,"English, Spanish, Italian",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$105,$230,$350,7 days,10 days,14 days,1,1,1,4.9,53,United States,May 2019,3 hours,2 days,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$500,$500,$500,7-day delivery,7-day delivery,7-day delivery,1 Revision,1 Revision,1 Revision,5.0,93,Italy,Feb 2020,2 hours,1 month,"English, German, Italian",1 order in queue,True
+Photography,product-photographers,top rated seller,100 Results,$300,$645,$995,14 days,14 days,14 days,-1,-1,-1,5.0,"1,601",United States,Apr 2015,8 hours,1 month,"English, Spanish",N/A,False
+Photography,product-photographers,top rated seller,100 Results,$100,$100,$100,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,842,United States,Mar 2018,4 hours,4 days,English,N/A,True
+Photography,product-photographers,top rated seller,100 Results,$100,$160,$220,4 days,6 days,7 days,3,5,7,4.9,218,Bangladesh,Jul 2018,1 hour,about 5 hours,English,2 orders in queue,False
+Photography,product-photographers,top rated seller,100 Results,$100,$250,$300,3 days,3 days,5 days,1,1,1,4.9,37,United Kingdom,Jan 2021,1 hour,2 days,English,N/A,False
+Photography,product-photographers,top rated seller,100 Results,$150,$150,$150,7-day delivery,7-day delivery,7-day delivery,1 Revision,1 Revision,1 Revision,5.0,6,Italy,Nov 2016,1 hour,about 15 hours,"English, Italian, Spanish",N/A,True

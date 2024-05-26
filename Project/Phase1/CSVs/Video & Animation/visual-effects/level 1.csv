@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Video & Animation,visual-effects,level 1,524,$5,$75,$110,3 days,4 days,5 days,1,2,3,5.0,22,Kazakhstan,Feb 2022,1 hour,1 day,"Russian, English, German",1 order in queue,False
+Video & Animation,visual-effects,level 1,524,$150,$300,$500,2 days,4 days,7 days,1,2,3,4.9,65,Pakistan,Jul 2020,1 hour,1 week,"English, German, Arabic, French",3 orders in queue,False
+Video & Animation,visual-effects,level 1,524,€9.67,€19.34,€29.01,2 days,2 days,2 days,1,1,1,5.0,56,Poland,Apr 2022,1 hour,1 week,"English, Polish",N/A,False
+Video & Animation,visual-effects,level 1,524,$10Save up to 10% with Subscribe to Save,$10Save up to 10% with Subscribe to Save,$10Save up to 10% with Subscribe to Save,1-day delivery,1-day delivery,1-day delivery,1 Revision,1 Revision,1 Revision,4.8,42,Australia,Feb 2019,1 hour,1 day,"English, Sindhi, Urdu, Hindi",N/A,True
+Video & Animation,visual-effects,level 1,524,$50,$80,$180,4 days,5 days,7 days,1,1,1,4.9,107,Bangladesh,Apr 2019,1 hour,1 day,"Bengali, English, Hindi, Urdu",N/A,False
+Video & Animation,visual-effects,level 1,524,$30,$150,$500,2 days,4 days,5 days,3,5,9,4.9,284,India,Dec 2019,1 hour,1 day,"English, Hindi",3 orders in queue,False
+Video & Animation,visual-effects,level 1,524,$250,$500,"$1,000",3 days,6 days,14 days,-1,-1,-1,5.0,2,India,Jul 2019,2 hours,2 months,English,N/A,False
+Video & Animation,visual-effects,level 1,524,$5,$10,$20,1 day,1 day,2 days,Unlimited,Unlimited,Unlimited,5.0,2,Pakistan,May 2023,1 hour,about 14 hours,English,N/A,False
+Video & Animation,visual-effects,level 1,524,$10,$20,$50,3 days,3 days,3 days,2,2,2,4.8,12,Pakistan,Aug 2020,1 hour,3 days,"English, German, Spanish, French",3 orders in queue,False
+Video & Animation,visual-effects,level 1,524,$30,$60,$90,2 days,3 days,5 days,Unlimited,Unlimited,Unlimited,4.9,14,India,Feb 2024,1 hour,1 week,"Hindi, English",1 order in queue,False
+Video & Animation,visual-effects,level 1,524,$25,$100,$200,7 days,7 days,7 days,1,2,3,4.8,20,Bangladesh,Mar 2019,1 hour,1 week,"Bengali, English",N/A,False
+Video & Animation,visual-effects,level 1,524,$40,$40,$40,2-day delivery,2-day delivery,2-day delivery,1 Revision,1 Revision,1 Revision,4.9,74,Bangladesh,May 2020,1 hour,5 days,English,2 orders in queue,True
+Video & Animation,visual-effects,level 1,524,$15,$50,$120,2 days,3 days,5 days,2,Unlimited,Unlimited,5.0,26,Bangladesh,Nov 2022,1 hour,6 days,"English, Hebrew, Spanish, German",N/A,False
+Video & Animation,visual-effects,level 1,524,$5,$15,$25,1 day,1 day,2 days,Unlimited,Unlimited,Unlimited,4.8,13,Nigeria,Aug 2021,1 hour,about 19 hours,English,N/A,False
+Video & Animation,visual-effects,level 1,524,$10,$70,$300,3 days,5 days,7 days,2,3,5,4.9,22,Pakistan,Nov 2022,1 hour,1 week,"Urdu, English, French, Chinese",N/A,False
+Video & Animation,visual-effects,level 1,524,$10,$25,$50,4 days,5 days,7 days,2,2,2,4.9,201,Canada,Mar 2016,1 hour,4 weeks,English,N/A,False
+Video & Animation,visual-effects,level 1,524,$35,$200,$400,3 days,5 days,7 days,1,2,3,4.9,6,India,May 2019,1 hour,1 week,"Bengali, Hindi, English",N/A,False
+Video & Animation,visual-effects,level 1,524,$15,$15,$15,2-day delivery,2-day delivery,2-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,4,Pakistan,May 2019,1 hour,2 days,"English, German, Spanish, French",N/A,True
+Video & Animation,visual-effects,level 1,524,€4.84,€4.84,€4.84,3-day delivery,3-day delivery,3-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.8,39,India,Sep 2017,1 hour,1 month,"Hindi, English",N/A,True
+Video & Animation,visual-effects,level 1,524,€9.67,€19.34,€48.36,3 days,3 days,3 days,2,2,2,4.8,12,Pakistan,Aug 2020,1 hour,3 days,"English, German, Spanish, French",3 orders in queue,False
+Video & Animation,visual-effects,level 1,524,€4.84,€38.69,€96.72,1 day,3 days,5 days,1,2,3,5.0,16,Sri Lanka,Aug 2020,1 hour,2 days,"Sinhala, English",1 order in queue,False
+Video & Animation,visual-effects,level 1,524,€29.01,€145.07,€483.58,2 days,4 days,5 days,3,5,9,4.9,284,India,Dec 2019,1 hour,1 day,"English, Hindi",3 orders in queue,False
+Video & Animation,visual-effects,level 1,524,$20,$100,$200,3 days,5 days,10 days,1,2,3,4.9,72,Pakistan,Oct 2020,2 hours,1 month,"Urdu, Hindi, English, Punjabi",1 order in queue,False
+Video & Animation,visual-effects,level 1,524,€19.34,€188.59,€382.03,2 days,3 days,14 days,1,2,3,5.0,5,Poland,Apr 2022,1 hour,11 months,"Russian, English, Polish",N/A,False
+Video & Animation,visual-effects,level 1,524,€19.34,€96.72,€193.43,3 days,5 days,10 days,1,2,3,4.9,72,Pakistan,Oct 2020,2 hours,1 month,"Urdu, Hindi, English, Punjabi",1 order in queue,False
+Video & Animation,visual-effects,level 1,524,$40,$70,$130,2 days,3 days,4 days,1,2,4,5.0,30,Germany,Jun 2021,3 hours,1 week,"English, German",N/A,False
+Video & Animation,visual-effects,level 1,524,$30,$200,$400,3 days,4 days,7 days,1,2,3,5.0,1,India,May 2019,1 hour,1 week,"Bengali, Hindi, English",N/A,False
+Video & Animation,visual-effects,level 1,524,$70,$250,$600,3 days,4 days,6 days,5,7,Unlimited,4.8,21,India,Jul 2021,1 hour,5 days,"Hindi, English",1 order in queue,False
+Video & Animation,visual-effects,level 1,524,$35,$60,$140,1 day,2 days,3 days,1,1,2,4.9,8,Turkey,Sep 2022,1 hour,2 weeks,English,N/A,False
+Video & Animation,visual-effects,level 1,524,$10,$30,$50,2 days,4 days,5 days,-1,-1,-1,5.0,8,Pakistan,Apr 2019,1 hour,1 day,"Urdu, English",N/A,False
+Video & Animation,visual-effects,level 1,524,$5,$10,$25,1 day,2 days,3 days,0,1,Unlimited,4.7,16,India,Jan 2020,2 hours,3 weeks,"Marathi, English, Hindi",N/A,False
+Video & Animation,visual-effects,level 1,524,$40,$70,$130,2 days,3 days,4 days,1,2,4,5.0,30,Germany,Jun 2021,3 hours,1 week,"English, German",N/A,False
+Video & Animation,visual-effects,level 1,524,$70,$180,$300,2 days,3 days,5 days,2,4,6,4.9,20,Serbia,Sep 2022,2 hours,4 weeks,"English, Serbian",N/A,False
+Video & Animation,visual-effects,level 1,524,$20,$100,$400,2 days,3 days,5 days,1,2,3,4.8,68,India,May 2019,1 hour,1 week,"Bengali, Hindi, English",N/A,False
+Video & Animation,visual-effects,level 1,524,$10,$25,$45,1 day,2 days,2 days,1,2,3,5.0,7,Bangladesh,Sep 2020,1 hour,2 months,"English, Bengali",N/A,False
+Video & Animation,visual-effects,level 1,524,$20,$20,$20,4-day delivery,4-day delivery,4-day delivery,3 Revisions,3 Revisions,3 Revisions,4.9,10,India,Mar 2021,1 hour,1 month,"Hindi, Marathi, English",N/A,True
+Video & Animation,visual-effects,level 1,524,$10,$25,$50,2 days,3 days,5 days,2,3,4,4.5,2,Sri Lanka,Apr 2017,1 hour,3 days,"English, French",1 order in queue,False
+Video & Animation,visual-effects,level 1,524,$55,$95,$165,2 days,3 days,4 days,3,3,3,4.9,12,Ukraine,Aug 2022,3 hours,about 6 hours,"English, Russian, Ukrainian, German",N/A,False
+Video & Animation,visual-effects,level 1,524,$50,$100,$200,3 days,7 days,10 days,Unlimited,Unlimited,Unlimited,4.9,10,Pakistan,Oct 2020,2 hours,1 month,"Urdu, Hindi, English, Punjabi",N/A,False
+Video & Animation,visual-effects,level 1,524,$20,$40,$60,1 day,2 days,2 days,2,3,3,4.9,7,Ukraine,Jun 2022,1 hour,3 weeks,"English, Ukrainian",N/A,False
+Video & Animation,visual-effects,level 1,524,$25,$35,$45,1 day,2 days,3 days,-1,-1,-1,4.9,32,Pakistan,Dec 2017,1 hour,2 weeks,English,N/A,False
+Video & Animation,visual-effects,level 1,524,$40,$80,$150,2 days,2 days,4 days,2,3,Unlimited,4.9,29,Pakistan,Aug 2020,1 hour,1 month,"Urdu, English, Hindi",N/A,False
+Video & Animation,visual-effects,level 1,524,$15,$150,$350,2 days,14 days,30 days,1,2,3,4.7,2,Brazil,Jun 2019,1 hour,1 day,"English, Portuguese, Spanish, French",4 orders in queue,False
+Video & Animation,visual-effects,level 1,524,$200,$600,"$1,200",4 days,7 days,10 days,2,3,5,5.0,30,United States,Jan 2016,1 day,2 months,"English, Hebrew",N/A,False
+Video & Animation,visual-effects,level 1,524,$10,$20,$30,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,82,Sri Lanka,Jun 2023,1 hour,1 day,English,2 orders in queue,False
+Video & Animation,visual-effects,level 1,524,$25Save up to 15% with Subscribe to Save,$25Save up to 15% with Subscribe to Save,$25Save up to 15% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,2 Revisions,2 Revisions,2 Revisions,4.9,26,Pakistan,Jan 2022,1 hour,about 4 hours,English,1 order in queue,True
+Video & Animation,visual-effects,level 1,524,$40,$80,$150,2 days,2 days,4 days,2,3,Unlimited,4.9,29,Pakistan,Aug 2020,1 hour,1 month,"Urdu, English, Hindi",N/A,False
+Video & Animation,visual-effects,level 1,524,"$1,200","$2,400","$3,600",7 days,14 days,21 days,1,2,3,5.0,15,United States,Jun 2020,5 hours,1 month,English,N/A,False

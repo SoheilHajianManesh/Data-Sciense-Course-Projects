@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,singers-vocalists,top rated seller,315 Results,$140,$140,$140,10-day delivery,10-day delivery,10-day delivery,2 Revisions,2 Revisions,2 Revisions,4.9,59,United Kingdom,Dec 2019,1 hour,about 5 hours,English,1 order in queue,True
+Music & Audio,singers-vocalists,top rated seller,315 Results,$45,$150,$180,14 days,21 days,21 days,1,2,2,5.0,411,United Kingdom,Dec 2018,5 hours,1 week,English,N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$75,$155,$230,2 days,2 days,3 days,-1,-1,-1,5.0,893,United Kingdom,Mar 2012,6 hours,about 15 hours,"English, German",1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$70,$200,$300,2 days,3 days,4 days,1,2,3,5.0,688,United Kingdom,May 2018,1 hour,about 13 hours,English,2 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$70,$100,$190,2 days,3 days,3 days,1,1,2,5.0,135,United States,Sep 2017,1 hour,1 day,English,N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$10,$25,$30,4 days,4 days,4 days,1,1,2,5.0,743,Philippines,May 2020,4 hours,2 days,English,N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$10,$150,$200,2 days,6 days,7 days,1,3,3,5.0,434,Poland,Oct 2022,2 hours,1 day,English,3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$15,$30,$45,7 days,7 days,7 days,1,2,3,5.0,348,Ukraine,Feb 2021,3 hours,1 day,"English, Ukrainian",3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$170,$220,$390,5 days,7 days,10 days,3,3,5,5.0,421,Germany,Nov 2021,6 hours,about 17 hours,English,1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$75,$100,$125,5 days,5 days,6 days,2,2,2,5.0,275,United States,Jul 2020,4 hours,5 days,English,3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$30,$195,$320,5 days,10 days,14 days,2,2,3,5.0,155,Argentina,Sep 2020,1 hour,about 5 hours,"English, Spanish",3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$100,$150,$250,3 days,5 days,7 days,2,2,2,5.0,629,Madagascar,Dec 2020,1 hour,about 9 hours,"English, French",2 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$80,$120,$180,4 days,4 days,4 days,2,2,2,5.0,577,Nigeria,Feb 2019,5 hours,1 day,English,2 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$90,$180,$360,4 days,4 days,4 days,1,1,1,5.0,306,United States,Jun 2018,1 hour,5 days,"English, Spanish",N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$35,$100,$150,5 days,14 days,14 days,-1,-1,-1,5.0,883,United Kingdom,Dec 2020,1 hour,1 day,English,15 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$140,$295,$445,5 days,7 days,10 days,2,2,2,5.0,39,United States,Aug 2013,16 hours,3 weeks,English,N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,€67.70,€135.40,€193.43,3 days,4 days,6 days,1,1,2,5.0,504,United States,Jun 2019,2 hours,2 days,English,2 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$80,$120,$180,4 days,4 days,4 days,2,2,2,5.0,577,Nigeria,Feb 2019,5 hours,1 day,English,2 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$100,$140,$200,5 days,7 days,10 days,5,7,Unlimited,5.0,804,Canada,Apr 2016,8 hours,about 3 hours,English,7 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$65,$125,$220,3 days,4 days,6 days,1,2,2,5.0,102,Germany,May 2022,1 hour,3 days,"English, German",3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$40,$150,$250,1 day,2 days,4 days,-1,-1,-1,5.0,"1,912",Canada,Dec 2016,1 hour,about 4 hours,English,4 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$20,$55,$65,2 days,4 days,4 days,2,2,2,5.0,463,Ukraine,Jun 2020,3 hours,about 17 hours,"English, Ukrainian",3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$70,$100,$200,2 days,2 days,2 days,1,1,2,5.0,348,Spain,Mar 2019,7 hours,1 day,English,1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$100,$150,$250,4 days,5 days,7 days,1,1,2,5.0,162,Ecuador,May 2021,4 hours,4 days,"English, Spanish",1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$100,$150,$300,3 days,5 days,10 days,1,2,3,5.0,25,Kenya,Sep 2019,3 hours,1 day,"English, Dutch, Swahili, French",N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$65,$130,$180,4 days,7 days,10 days,3,4,6,5.0,62,United Kingdom,Sep 2018,1 hour,4 days,English,N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$100,$350,$700,7 days,7 days,10 days,1,1,2,5.0,515,United States,Sep 2015,5 hours,3 days,English,N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$10,$50,$150,2 days,2 days,4 days,1,3,5,4.8,6,Canada,Aug 2022,1 hour,about 9 hours,English,1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$35,$100,$150,5 days,14 days,14 days,-1,-1,-1,5.0,883,United Kingdom,Dec 2020,1 hour,1 day,English,15 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$50,$150,$200,3 days,7 days,7 days,2,2,2,5.0,"1,197",Canada,Mar 2020,1 hour,2 days,English,3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$140,$140,$140,10-day delivery,10-day delivery,10-day delivery,2 Revisions,2 Revisions,2 Revisions,4.9,59,United Kingdom,Dec 2019,1 hour,about 5 hours,English,1 order in queue,True
+Music & Audio,singers-vocalists,top rated seller,315 Results,$60,$130,$160,3 days,7 days,7 days,1,1,1,5.0,195,United Kingdom,Feb 2020,1 hour,2 weeks,English,1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$60,$100,$160,7 days,10 days,14 days,2,2,Unlimited,5.0,232,United Kingdom,May 2021,3 hours,5 days,"English, Polish",N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$30,$60,$90,4 days,5 days,7 days,-1,-1,-1,5.0,130,Germany,Sep 2021,2 hours,1 day,"English, German",2 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$45,$140,$190,4 days,5 days,7 days,1,1,2,5.0,459,United States,Dec 2020,1 hour,about 9 hours,English,1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$75,$150,$200,3 days,5 days,7 days,2,3,5,5.0,239,United States,May 2020,4 hours,5 days,English,3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$50,$50,$50,10-day delivery,10-day delivery,10-day delivery,1 Revision,1 Revision,1 Revision,5.0,451,United Kingdom,Mar 2017,3 hours,1 day,English,2 orders in queue,True
+Music & Audio,singers-vocalists,top rated seller,315 Results,$100,$140,$200,5 days,7 days,10 days,5,7,Unlimited,5.0,804,Canada,Apr 2016,8 hours,about 3 hours,English,7 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$110,$250,$630,7 days,10 days,14 days,1,1,1,5.0,303,United Kingdom,Aug 2018,5 hours,3 days,English,3 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$60,$100,$160,7 days,10 days,14 days,2,2,Unlimited,5.0,232,United Kingdom,May 2021,3 hours,5 days,"English, Polish",N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$60,$100,$180,2 days,2 days,2 days,1,1,2,4.9,528,Spain,Mar 2019,7 hours,1 day,English,1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$20,$50,$70,7 days,7 days,7 days,-1,-1,-1,5.0,21,United Kingdom,May 2021,3 hours,5 days,"English, Polish",N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$20,$75,$125,5 days,7 days,14 days,2,4,6,5.0,932,United States,Sep 2013,6 hours,1 day,"English, Japanese",6 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$140,$180,$260,4 days,6 days,7 days,1,1,2,5.0,450,United States,May 2020,1 hour,3 days,"English, Spanish",N/A,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$55,$185,$285,6 days,7 days,7 days,2,2,2,5.0,858,United States,Mar 2020,1 hour,1 day,"English, Russian, Ukrainian",8 orders in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$100,$200,$300,7 days,7 days,7 days,1,1,1,5.0,25,United States,Oct 2016,1 hour,1 week,English,1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$60,$130,$160,3 days,7 days,7 days,1,1,1,5.0,195,United Kingdom,Feb 2020,1 hour,2 weeks,English,1 order in queue,False
+Music & Audio,singers-vocalists,top rated seller,315 Results,$35,$70,$200,2 days,2 days,4 days,1,1,1,5.0,185,United Kingdom,Oct 2019,2 hours,4 days,English,N/A,False

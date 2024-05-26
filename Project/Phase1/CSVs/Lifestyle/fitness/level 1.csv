@@ -1,0 +1,48 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,fitness,level 1,292 Results,$150,$150,$150,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,7,Bulgaria,Dec 2020,1 hour,about 9 hours,"English, Spanish, Portuguese, Turkish",N/A,True
+Lifestyle,fitness,level 1,292 Results,$15,$85,$90,2 days,3 days,3 days,-1,-1,-1,5.0,620,Egypt,Jun 2018,1 hour,about 2 hours,"English, Arabic",4 orders in queue,False
+Lifestyle,fitness,level 1,292 Results,$150,$350,$450,3 days,10 days,14 days,-1,-1,-1,5.0,5,South Africa,Apr 2021,1 hour,1 week,"English, Afrikaans",N/A,False
+Lifestyle,fitness,level 1,292 Results,$30,$50,$75,2 days,2 days,3 days,-1,-1,-1,5.0,8,United Kingdom,Jan 2017,2 hours,1 day,"English, Spanish",N/A,False
+Lifestyle,fitness,level 1,292 Results,$25,$75,$150,1 day,7 days,14 days,-1,-1,-1,5.0,40,Turkey,Aug 2022,2 days,5 days,"English, French, German",1 order in queue,False
+Lifestyle,fitness,level 1,292 Results,$15,$85,$90,2 days,3 days,3 days,-1,-1,-1,5.0,620,Egypt,Jun 2018,1 hour,about 2 hours,"English, Arabic",4 orders in queue,False
+Lifestyle,fitness,level 1,292 Results,£4.12,£12.36,£20.60,1 day,1 day,1 day,-1,-1,-1,4.8,129,Pakistan,Jul 2020,1 hour,about 2 hours,English,1 order in queue,False
+Lifestyle,fitness,level 1,292 Results,$10,$20,$30,1 day,1 day,2 days,-1,-1,-1,5.0,29,India,Jun 2019,4 hours,1 day,"Hindi, English",1 order in queue,False
+Lifestyle,fitness,level 1,292 Results,$35,$60,$70,1 day,1 day,1 day,-1,-1,-1,4.9,148,Bulgaria,Dec 2020,1 hour,about 9 hours,"English, Spanish, Portuguese, Turkish",1 order in queue,False
+Lifestyle,fitness,level 1,292 Results,$20,$40,$75,1 day,2 days,2 days,-1,-1,-1,5.0,477,Portugal,Apr 2022,1 hour,about 5 hours,"English, Portuguese",2 orders in queue,False
+Lifestyle,fitness,level 1,292 Results,$15,$30,$40,3 days,3 days,3 days,-1,-1,-1,5.0,182,Canada,Jun 2022,2 hours,1 week,"English, German",N/A,False
+Lifestyle,fitness,level 1,292 Results,$35,$60,$70,1 day,1 day,1 day,-1,-1,-1,5.0,525,Bulgaria,Dec 2020,1 hour,about 9 hours,"English, Spanish, Portuguese, Turkish",1 order in queue,False
+Lifestyle,fitness,level 1,292 Results,$20,$40,$75,1 day,2 days,2 days,-1,-1,-1,5.0,477,Portugal,Apr 2022,1 hour,about 5 hours,"English, Portuguese",2 orders in queue,False
+Lifestyle,fitness,level 1,292 Results,$15,$30,$45,2 days,3 days,4 days,-1,-1,-1,5.0,7,Philippines,Dec 2022,1 hour,2 days,"Tagalog, English, Spanish",N/A,False
+Lifestyle,fitness,level 1,292 Results,$25,$45,$55,2 days,2 days,2 days,-1,-1,-1,4.9,292,Pakistan,Apr 2020,1 hour,2 days,"English, Urdu, Hindi",1 order in queue,False
+Lifestyle,fitness,level 1,292 Results,$25,$45,$85,3 days,3 days,6 days,-1,-1,-1,5.0,6,Austria,May 2021,1 hour,2 weeks,"English, German, Spanish",N/A,False
+Lifestyle,fitness,level 1,292 Results,$25,$45,$55,2 days,2 days,2 days,-1,-1,-1,4.9,292,Pakistan,Apr 2020,1 hour,2 days,"English, Urdu, Hindi",1 order in queue,False
+Lifestyle,fitness,level 1,292 Results,$35,$60,$75,1 day,2 days,2 days,-1,-1,-1,5.0,43,Portugal,Apr 2022,1 hour,about 5 hours,"English, Portuguese",N/A,False
+Lifestyle,fitness,level 1,292 Results,$15,$25,$35,1 day,1 day,1 day,-1,-1,-1,5.0,12,Indonesia,Dec 2023,11 hours,1 month,"English, Indonesian, Italian",N/A,False
+Lifestyle,fitness,level 1,292 Results,$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,27,Lithuania,Mar 2019,1 hour,1 week,"English, Lithuanian, Russian, Ukrainian",N/A,True
+Lifestyle,fitness,level 1,292 Results,$25,$40,$60,7 days,7 days,7 days,-1,-1,-1,5.0,147,United States,Jan 2013,1 hour,2 days,English,1 order in queue,False
+Lifestyle,fitness,level 1,292 Results,$15,$25,$40,2 days,2 days,2 days,-1,-1,-1,4.9,101,Romania,May 2020,4 hours,about 21 hours,English,N/A,False
+Lifestyle,fitness,level 1,292 Results,€14.51,€29.01,€43.52,2 days,2 days,2 days,-1,-1,-1,4.9,29,India,Oct 2020,2 hours,1 week,English,N/A,False
+Lifestyle,fitness,level 1,292 Results,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.9,48,Algeria,May 2020,4 hours,2 weeks,"English, Arabic, French",N/A,True
+Lifestyle,fitness,level 1,292 Results,$45,$55,$75,2 days,3 days,4 days,-1,-1,-1,4.9,5,Australia,Jan 2020,4 hours,1 day,English,N/A,False
+Lifestyle,fitness,level 1,292 Results,€24.18,€33.85,€43.52,2 days,2 days,2 days,-1,-1,-1,5.0,43,Serbia,Sep 2020,4 hours,3 weeks,"English, Serbian",N/A,False
+Lifestyle,fitness,level 1,292 Results,$65,$120,$250,3 days,5 days,7 days,-1,-1,-1,5.0,66,Germany,Feb 2021,5 hours,about 8 hours,"English, Spanish, German",N/A,False
+Lifestyle,fitness,level 1,292 Results,$175,$225,$350,10 days,10 days,14 days,-1,-1,-1,5.0,10,United States,Jul 2023,7 hours,1 day,"English, French",2 orders in queue,False
+Lifestyle,fitness,level 1,292 Results,£28.83,£49.43,£98.86,3 days,5 days,5 days,-1,-1,-1,4.9,9,India,Dec 2019,8 hours,1 month,"Hindi, English",N/A,False
+Lifestyle,fitness,level 1,292 Results,$10,$20,$30,1 day,2 days,3 days,-1,-1,-1,5.0,44,Pakistan,Nov 2021,1 hour,1 month,Urdu,2 orders in queue,False
+Lifestyle,fitness,level 1,292 Results,$65,$120,$250,3 days,5 days,7 days,-1,-1,-1,5.0,66,Germany,Feb 2021,5 hours,about 8 hours,"English, Spanish, German",N/A,False
+Lifestyle,fitness,level 1,292 Results,$50,$60,$90,2 days,2 days,2 days,-1,-1,-1,4.6,24,Barbados,Mar 2021,1 hour,1 month,English,N/A,False
+Lifestyle,fitness,level 1,292 Results,$30,$45,$60,2 days,2 days,2 days,-1,-1,-1,4.9,24,Serbia,Sep 2020,4 hours,3 weeks,"English, Serbian",N/A,False
+Lifestyle,fitness,level 1,292 Results,$15,$30,$45,4 days,7 days,7 days,-1,-1,-1,5.0,33,Morocco,Feb 2022,2 hours,3 months,"English, Arabic, French",N/A,False
+Lifestyle,fitness,level 1,292 Results,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.9,10,Portugal,Apr 2022,1 hour,about 5 hours,"English, Portuguese",N/A,True
+Lifestyle,fitness,level 1,292 Results,US$15,US$60,US$300,1 day,1 day,1 day,-1,-1,-1,5.0,3,Moldova,Dec 2019,6 hours,2 weeks,"English, Romanian, Russian, French",N/A,False
+Lifestyle,fitness,level 1,292 Results,$10,$30,$60,2 days,4 days,6 days,-1,-1,-1,5.0,9,Serbia,Sep 2017,5 hours,1 week,"English, Serbian, Croatian, German",N/A,False
+Lifestyle,fitness,level 1,292 Results,$15,$30,$40,3 days,3 days,3 days,-1,-1,-1,5.0,182,Canada,Jun 2022,2 hours,1 week,"English, German",N/A,False
+Lifestyle,fitness,level 1,292 Results,$20,$35,$65,1 day,1 day,2 days,-1,-1,-1,5.0,3,India,Sep 2019,1 hour,4 days,"English, Hindi",N/A,False
+Lifestyle,fitness,level 1,292 Results,$20,$100,$200,3 days,3 days,3 days,-1,-1,-1,5.0,23,Turkey,Sep 2020,5 hours,4 days,"English, Turkish",N/A,False
+Lifestyle,fitness,level 1,292 Results,$30,$50,$100,7 days,14 days,21 days,-1,-1,-1,4.9,62,South Africa,Sep 2019,16 hours,6 days,"English, Afrikaans",2 orders in queue,False
+Lifestyle,fitness,level 1,292 Results,€87.04,€145.07,€212.77,4 days,7 days,10 days,-1,-1,-1,5.0,27,Canada,Jun 2022,2 hours,1 week,"English, German",N/A,False
+Lifestyle,fitness,level 1,292 Results,$30,$50,$75,2 days,2 days,3 days,-1,-1,-1,5.0,8,United Kingdom,Jan 2017,2 hours,1 day,"English, Spanish",N/A,False
+Lifestyle,fitness,level 1,292 Results,$15,$30,$45,2 days,2 days,2 days,-1,-1,-1,4.9,29,India,Oct 2020,2 hours,1 week,English,N/A,False
+Lifestyle,fitness,level 1,292 Results,$25,$50,$100,3 days,5 days,7 days,-1,-1,-1,5.0,7,New Zealand,Aug 2021,4 hours,1 month,"English, Marathi, Hindi, German",N/A,False
+Lifestyle,fitness,level 1,292 Results,$5,$15,$30,1 day,1 day,2 days,-1,-1,-1,4.8,4,Italy,Mar 2021,1 hour,1 day,"English, Italian",N/A,False
+Lifestyle,fitness,level 1,292 Results,$20,$60,$85,3 days,6 days,10 days,-1,-1,-1,5.0,24,Italy,May 2023,1 hour,5 days,"English, Italian, German, Spanish",N/A,False

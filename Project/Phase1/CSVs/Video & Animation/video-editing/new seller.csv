@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Video & Animation,video-editing,new seller,50472,$500,"$5,000","$8,000",3 days,4 days,5 days,0,1,2,5.0,1,United States,Jun 2021,1 hour,7 months,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$10,$25,$45,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,4.8,69,Pakistan,Apr 2023,1 hour,1 week,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$5,$15,$25,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,4.7,30,India,Oct 2022,1 hour,2 days,"Hindi, Urdu, English",6 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$15,$30,$60,3 days,3 days,5 days,Unlimited,Unlimited,Unlimited,4.9,289,Sri Lanka,Aug 2020,1 hour,5 days,English,3 orders in queue,False
+Video & Animation,video-editing,new seller,50472,"$2,000","$4,000","$8,000",5 days,4 days,3 days,1,2,3,5.0,13,United States,Jun 2021,1 hour,7 months,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$30,$80,$150,2 days,5 days,7 days,3,6,8,5.0,2,Bangladesh,Jul 2021,1 hour,2 months,"Bengali, English, Hindi",N/A,False
+Video & Animation,video-editing,new seller,50472,$10,$25,$40,2 days,2 days,3 days,3,2,2,4.7,58,Pakistan,Dec 2023,1 hour,1 day,"English, French, Danish",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,$10,$20,$40,2 days,4 days,6 days,1,2,3,4.9,72,Argentina,Mar 2023,8 hours,about 15 hours,"English, Spanish",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,$15,$45,$90,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,4.9,195,Pakistan,Jan 2023,1 hour,about 23 hours,"Urdu, English, Hindi",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,£4.12,£12.36,£16.48,1 day,2 days,2 days,5,7,9,4.6,31,Pakistan,Aug 2022,1 hour,about 5 hours,"English, French",N/A,False
+Video & Animation,video-editing,new seller,50472,$15,$25,$40,4 days,5 days,6 days,Unlimited,Unlimited,Unlimited,4.8,97,Pakistan,Jul 2022,1 hour,5 days,"Urdu, English",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,"$2,000","$4,000","$8,000",5 days,4 days,3 days,1,2,3,5.0,2,United States,Jun 2021,1 hour,7 months,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$10,$20,$30,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,4.8,246,Pakistan,Mar 2020,N/A,about 9 hours,"Urdu, English, Punjabi",2 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$15,$20,$30,3 days,4 days,5 days,2,4,6,4.9,143,Egypt,Jun 2019,1 hour,1 day,"English, Arabic, French",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,$10,$20,$30,1 day,1 day,2 days,1,2,3,5.0,400,Mexico,Jul 2021,N/A,4 days,"English, Spanish",N/A,False
+Video & Animation,video-editing,new seller,50472,$5,$25,$50,2 days,2 days,3 days,1,2,2,4.9,53,Indonesia,Mar 2018,2 days,1 day,"English, Indonesian",N/A,False
+Video & Animation,video-editing,new seller,50472,$10,$15,$20,2 days,3 days,4 days,0,0,0,5.0,28,Turkey,Oct 2023,3 hours,3 weeks,"English, Turkish",N/A,False
+Video & Animation,video-editing,new seller,50472,$15,$20,$40,1 day,1 day,3 days,1,2,Unlimited,4.9,199,Indonesia,Oct 2019,2 hours,1 day,"English, Indonesian",N/A,False
+Video & Animation,video-editing,new seller,50472,€9.67,€43.52,€91.88,1 day,3 days,5 days,Unlimited,Unlimited,Unlimited,4.7,29,Pakistan,Nov 2023,1 hour,1 day,"Urdu, English",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,€4.84,€9.67,€19.34,2 days,3 days,4 days,1,2,2,4.9,27,India,Mar 2023,2 hours,1 week,"Hindi, English",2 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$10,$25,$45,2 days,3 days,3 days,2,2,2,4.7,26,Pakistan,Dec 2023,1 hour,1 day,"English, French, Danish",N/A,False
+Video & Animation,video-editing,new seller,50472,$10,$10,$10,2-day delivery,2-day delivery,2-day delivery,1 Revision,1 Revision,1 Revision,4.9,85,United States,May 2018,13 hours,1 day,English,1 order in queue,True
+Video & Animation,video-editing,new seller,50472,"$2,000","$4,000","$8,000",5 days,4 days,3 days,1,2,3,5.0,5,United States,Jun 2021,1 hour,7 months,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$30,$60,$100,2 days,2 days,3 days,2,3,4,4.8,79,Pakistan,Apr 2023,1 hour,about 23 hours,English,1 order in queue,False
+Video & Animation,video-editing,new seller,50472,$10,$25,$70,2 days,2 days,3 days,2,5,9,4.9,40,Pakistan,Mar 2024,1 hour,1 day,"English, Spanish, Dutch, Italian",N/A,False
+Video & Animation,video-editing,new seller,50472,$40,$85,$145,3 days,7 days,10 days,-1,-1,-1,5.0,22,Malaysia,Oct 2023,1 hour,5 days,English,1 order in queue,False
+Video & Animation,video-editing,new seller,50472,$30,$50,$65,2 days,2 days,3 days,2,2,3,5.0,106,Bangladesh,Apr 2022,1 hour,1 month,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$20,$25,$40,3 days,3 days,4 days,3,3,3,4.9,13,Georgia,Dec 2023,1 hour,about 2 hours,English,2 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$10,$35,$70,2 days,5 days,7 days,1,2,2,5.0,218,United States,May 2018,13 hours,1 day,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$15,$35,$45,4 days,6 days,10 days,3,5,7,4.9,23,Mexico,Dec 2020,1 hour,1 week,"Spanish, English",N/A,False
+Video & Animation,video-editing,new seller,50472,$30,$50,$60,10 days,3 days,3 days,1,1,1,5.0,253,Egypt,May 2021,1 hour,1 day,"English, Arabic",N/A,False
+Video & Animation,video-editing,new seller,50472,$10,$15,$20,2 days,3 days,4 days,-1,-1,-1,4.9,44,Brazil,Aug 2021,1 hour,1 week,"English, Portuguese",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,$20,$30,$40,4 days,3 days,3 days,Unlimited,Unlimited,Unlimited,4.9,16,Pakistan,Dec 2023,1 hour,1 week,"Urdu, English",N/A,False
+Video & Animation,video-editing,new seller,50472,"$2,500","$4,000","$8,000",3 days,3 days,3 days,1,2,2,5.0,1,United States,Jun 2021,1 hour,7 months,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$30,$70,$120,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.8,142,Pakistan,Oct 2021,1 hour,1 week,"English, Spanish, Italian, German",3 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$5,$60,$125,2 days,5 days,10 days,0,1,2,4.8,19,India,Oct 2023,2 hours,2 months,English,N/A,False
+Video & Animation,video-editing,new seller,50472,$10,$15,$20,2 days,2 days,3 days,1,1,1,4.9,24,United Arab Emirates,Sep 2023,5 hours,1 week,"English, French",N/A,False
+Video & Animation,video-editing,new seller,50472,$10,$20,$90,1 day,2 days,5 days,Unlimited,Unlimited,Unlimited,5.0,21,Pakistan,Mar 2024,1 hour,about 14 hours,"English, French, Italian, German",5 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$45,$70,$90,4 days,6 days,10 days,3,3,3,5.0,75,Indonesia,Mar 2018,2 days,1 day,"English, Indonesian",5 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$5,$20,$155,2 days,3 days,3 days,1,2,5,5.0,26,India,Sep 2023,1 hour,1 week,"Gujarati, English, Hindi",N/A,False
+Video & Animation,video-editing,new seller,50472,$15,$30,$50,2 days,3 days,7 days,3,3,3,4.9,279,India,May 2018,1 hour,2 days,"Hindi, English",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,$10,$20,$30,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,21,United Kingdom,Dec 2023,2 hours,3 weeks,"English, Albanian, Spanish, Chinese",N/A,False
+Video & Animation,video-editing,new seller,50472,$25,$75,$200,2 days,4 days,6 days,2,4,Unlimited,4.9,57,Bangladesh,Jan 2023,1 hour,2 days,"English, Bengali",N/A,False
+Video & Animation,video-editing,new seller,50472,$15,$75,$250,3 days,4 days,5 days,3,6,Unlimited,4.9,197,Pakistan,Jun 2022,1 hour,about 5 hours,"English, German, French, Spanish",2 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$15,$15,$15,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,207,Morocco,Feb 2022,1 hour,1 day,"English, Arabic, French",1 order in queue,True
+Video & Animation,video-editing,new seller,50472,€14.51,€24.18,€43.52,3 days,3 days,2 days,3,Unlimited,Unlimited,4.9,127,Spain,Feb 2021,N/A,1 week,"Spanish, Galician, Portuguese, English",11 orders in queue,False
+Video & Animation,video-editing,new seller,50472,$30,$60,$100,1 day,2 days,3 days,1,2,3,4.8,118,Mexico,Nov 2020,1 hour,1 day,"English, Spanish",1 order in queue,False
+Video & Animation,video-editing,new seller,50472,$300,$600,$900,5 days,7 days,10 days,1,1,1,5.0,4,United States,Jul 2018,3 hours,5 months,"English, German",N/A,False
