@@ -1,6 +1,7 @@
 # Data Sciense Course
 
-- [Data Sciense Projects:](#projects)
+- [Computer Assignments:](#cas)
+
   - [_CA0. Web Scraping and Introductory Data Analysis_](#ca0)
   - [_CA1. Statistical Analysis Tools and Techniques_](#ca1)
   - [_CA2. Exploratory Data Analysis and Data Cleaning_](#ca2)
@@ -10,7 +11,12 @@
   - [_CA6. Dimensionality Reduction and Unsupervised Learning_](#ca6)
   - [_CA7. IMDb Review Sentiment Analysis_](#ca7)
 
-## Projects <a name="projects"></a>
+- [Project:](#project)
+  - [_Phase0. Selecting a Dataset for Data Science Project_](#p0)
+  - [_Phase1. Data Scraping , EDA and Visualization_](#p1)
+  - [_Phase2. Model Training and Evaluation_](#p2)
+
+## Computer Assignements <a name="cas"></a>
 
 ### CA0: Web Scraping and Introductory Data Analysis <a name="ca0"></a>
 
@@ -61,3 +67,25 @@ This assignment focuses on dimensionality reduction and unsupervised learning ta
 This assignment focuses on training a model to classify IMDb review comments automatically. The tasks involve exploring the dataset, performing feature engineering, and implementing semi-supervised learning techniques.
 
 **Dataset:** The dataset comprises movie reviews submitted by users on IMDb for sentiment analysis tasks. Each entry in the dataset includes the text of a review, its corresponding sentiment label (1 for positive, 0 for negative), and a feature vector (embedding) for each comment.
+
+## Project <a name="project"></a>
+
+### Phase0: Selecting a Dataset for Data Science Project <a name="p0"></a>
+
+In this phase we just choose Fiverr.com to mining data from it. **Fiverr.com** is an online marketplace that connects freelancers with clients who need various services.
+
+### Phase1: Data Scraping , EDA and Visualization <a name="p1"></a>
+
+In Phase 1 of our project,first we collect our dataset from `Fiverr.com`.our dataset contains about 6200 record from freelancers services.Then we conduct Exploratory Data Analysis (EDA) and visualization to gain insights into our dataset. By analyzing the variables and their relationships, we aim to understand the underlying patterns, trends, and characteristics of the data. This phase will provide a solid foundation for further analysis and modeling in subsequent phases.
+
+### Phase2: Model Training and Evaluation <a name="p2"></a>
+
+In this phase of the project, our main objective is to train machine learning models to predict the target variable using the dataset analyzed in previous phases. We will follow a structured approach consisting of several parts:
+
+1. Preprocessing
+2. Feature Engineering and Selection
+3. Dimensionality Reduction
+4. Evaluation Metric
+5. Model Training
+6. Feature Analysis
+7. Overall Report and Discussions
