@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,dj-mixing,level 2,116,$5,$10,$15,1 day,2 days,2 days,1,2,3,5.0,24,Venezuela,Jun 2022,2 hours,about 23 hours,"English, Spanish, French",N/A,False
+Music & Audio,dj-mixing,level 2,116,$10,$20,$30,2 days,2 days,2 days,1,2,2,5.0,160,Venezuela,Jun 2022,2 hours,about 23 hours,"English, Spanish, French",1 order in queue,False
+Music & Audio,dj-mixing,level 2,116,$30,$50,$70,5 days,7 days,7 days,2,2,2,5.0,215,United Kingdom,Feb 2018,1 hour,about 8 hours,"English, French",1 order in queue,False
+Music & Audio,dj-mixing,level 2,116,$15,$25,$45,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,"1,270",Sri Lanka,Dec 2020,1 hour,1 day,"English, Sinhala, Tamil",N/A,False
+Music & Audio,dj-mixing,level 2,116,$25,$125,$500,1 day,2 days,7 days,-1,-1,-1,4.9,109,Turkey,Feb 2017,1 hour,3 days,"English, Turkish, Russian, Czech",N/A,False
+Music & Audio,dj-mixing,level 2,116,$20,$35,$60,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,57,Greece,Mar 2016,1 hour,about 8 hours,"English, Greek",N/A,False
+Music & Audio,dj-mixing,level 2,116,$15,$30,$45,1 day,2 days,3 days,3,3,5,5.0,10,Sri Lanka,Jan 2020,1 hour,3 days,"Tamil, English, Sinhala",N/A,False
+Music & Audio,dj-mixing,level 2,116,$20,$110,$180,2 days,5 days,7 days,0,0,0,5.0,65,Croatia,Jul 2018,1 hour,1 day,English,N/A,False
+Music & Audio,dj-mixing,level 2,116,$30,$50,$70,5 days,5 days,5 days,-1,-1,-1,5.0,128,Argentina,May 2022,1 hour,4 days,"English, Spanish",N/A,False
+Music & Audio,dj-mixing,level 2,116,$25,$35,$65,3 days,4 days,5 days,-1,-1,-1,5.0,222,Turkey,Jan 2022,5 hours,4 days,"English, Turkish, German",N/A,False
+Music & Audio,dj-mixing,level 2,116,$10,$10,$10,7-day delivery,7-day delivery,7-day delivery,1 Revision,1 Revision,1 Revision,5.0,243,Canada,Mar 2013,3 hours,2 days,English,3 orders in queue,True
+Music & Audio,dj-mixing,level 2,116,$15,$15,$15,3-day delivery,3-day delivery,3-day delivery,1 Revision,1 Revision,1 Revision,4.7,69,Venezuela,Feb 2018,1 hour,2 weeks,"English, Spanish",N/A,True
+Music & Audio,dj-mixing,level 2,116,$25,$50,$100,7 days,7 days,7 days,1,1,1,5.0,161,Canada,Mar 2013,3 hours,2 days,English,4 orders in queue,False
+Music & Audio,dj-mixing,level 2,116,$15,$20,$170,1 day,1 day,6 days,Unlimited,Unlimited,Unlimited,5.0,377,Mexico,Jul 2021,1 hour,1 day,"English, Spanish",1 order in queue,False
+Music & Audio,dj-mixing,level 2,116,$10,$20,$40,4 days,4 days,4 days,-1,-1,-1,4.9,74,Italy,Sep 2021,1 hour,about 11 hours,"English, Italian, Romanian",1 order in queue,False
+Music & Audio,dj-mixing,level 2,116,$35,$70,$150,4 days,4 days,5 days,2,3,3,5.0,166,United States,Dec 2013,4 hours,5 days,English,1 order in queue,False
+Music & Audio,dj-mixing,level 2,116,$5,$10,$15,1 day,2 days,2 days,1,2,3,4.9,292,Venezuela,Jun 2022,2 hours,about 23 hours,"English, Spanish, French",2 orders in queue,False
+Music & Audio,dj-mixing,level 2,116,$20,$50,$80,3 days,3 days,5 days,Unlimited,Unlimited,Unlimited,5.0,117,Israel,May 2016,1 hour,5 days,"English, Hebrew",N/A,False
+Music & Audio,dj-mixing,level 2,116,$25,$50,$100,7 days,7 days,7 days,1,1,1,5.0,161,Canada,Mar 2013,3 hours,2 days,English,4 orders in queue,False
+Music & Audio,dj-mixing,level 2,116,$35,$65,$95,3 days,5 days,7 days,1,2,2,4.9,419,India,Oct 2015,5 hours,1 day,"Hindi, English",6 orders in queue,False
+Music & Audio,dj-mixing,level 2,116,$10,$20,$40,4 days,4 days,4 days,-1,-1,-1,4.9,74,Italy,Sep 2021,1 hour,about 11 hours,"English, Italian, Romanian",1 order in queue,False
+Music & Audio,dj-mixing,level 2,116,$30,$60,$120,2 days,2 days,3 days,0,0,0,5.0,86,Kenya,Sep 2020,2 hours,6 days,English,N/A,False
+Music & Audio,dj-mixing,level 2,116,$20,$40,$70,2 days,3 days,4 days,1,1,1,5.0,10,Ukraine,Jun 2022,2 hours,about 11 hours,"English, Ukrainian",N/A,False
+Music & Audio,dj-mixing,level 2,116,$15,$25,$60,2 days,2 days,3 days,1,2,2,4.9,39,Germany,Mar 2021,1 hour,4 days,"English, German",N/A,False
+Music & Audio,dj-mixing,level 2,116,$5,$10,$25,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,752,Sri Lanka,Jan 2019,1 hour,about 17 hours,"Sinhala, English",11 orders in queue,False
+Music & Audio,dj-mixing,level 2,116,$25,$40,$70,2 days,2 days,4 days,3,3,5,5.0,139,Sri Lanka,Jan 2020,1 hour,3 days,"Tamil, English, Sinhala",1 order in queue,False
+Music & Audio,dj-mixing,level 2,116,$80,$160,$320,3 days,3 days,3 days,1,1,1,5.0,141,Sweden,Nov 2014,1 hour,2 days,"English, Swedish",N/A,False
+Music & Audio,dj-mixing,level 2,116,$45,$55,$90,4 days,4 days,4 days,-1,-1,-1,4.8,40,United States,Oct 2020,1 hour,3 weeks,English,N/A,False
+Music & Audio,dj-mixing,level 2,116,$5,$10,$20,1 day,1 day,2 days,Unlimited,Unlimited,Unlimited,5.0,63,Mexico,Jul 2021,1 hour,1 day,"English, Spanish",N/A,False
+Music & Audio,dj-mixing,level 2,116,$30,$50,$80,1 day,1 day,1 day,0,0,0,5.0,15,Sri Lanka,Dec 2020,1 hour,about 8 hours,"English, Sinhala",N/A,False
+Music & Audio,dj-mixing,level 2,116,$20,$35,$55,1 day,2 days,2 days,1,2,3,4.8,35,Turkey,Mar 2022,1 hour,1 day,"English, Turkish, Russian, Azerbaijani",N/A,False
+Music & Audio,dj-mixing,level 2,116,$15,$25,$40,1 day,1 day,1 day,1,2,3,4.9,59,Lesotho,Feb 2023,2 hours,2 days,English,N/A,False
+Music & Audio,dj-mixing,level 2,116,$15,$20,$40,2 days,3 days,3 days,1,1,1,4.8,51,Zimbabwe,Jan 2021,1 hour,2 weeks,"Shona, English",N/A,False
+Music & Audio,dj-mixing,level 2,116,$30,$60,$120,2 days,2 days,3 days,0,0,0,5.0,86,Kenya,Sep 2020,2 hours,6 days,English,N/A,False
+Music & Audio,dj-mixing,level 2,116,$15,$30,$60,1 day,2 days,3 days,3,6,Unlimited,4.9,36,India,Jan 2019,1 hour,about 16 hours,"English, Hindi, Punjabi",N/A,False
+Music & Audio,dj-mixing,level 2,116,$15,$15,$15,3-day delivery,3-day delivery,3-day delivery,1 Revision,1 Revision,1 Revision,4.7,69,Venezuela,Feb 2018,1 hour,2 weeks,"English, Spanish",N/A,True
+Music & Audio,dj-mixing,level 2,116,$10,$15,$20,1 day,2 days,3 days,2,4,6,5.0,76,Sri Lanka,Aug 2021,2 hours,1 day,English,N/A,False
+Music & Audio,dj-mixing,level 2,116,$20,$35,$70,2 days,3 days,4 days,1,2,2,5.0,23,Turkey,Mar 2022,1 hour,1 day,"English, Turkish, Russian, Azerbaijani",N/A,False
+Music & Audio,dj-mixing,level 2,116,$15,$25,$40,1 day,1 day,1 day,1,2,3,4.9,59,Lesotho,Feb 2023,2 hours,2 days,English,N/A,False
+Music & Audio,dj-mixing,level 2,116,$30,$50,$70,5 days,5 days,5 days,-1,-1,-1,5.0,128,Argentina,May 2022,1 hour,4 days,"English, Spanish",N/A,False
+Music & Audio,dj-mixing,level 2,116,$20,$35,$55,2 days,2 days,2 days,3,3,3,4.8,76,Nigeria,May 2020,1 hour,about 23 hours,"English, Hausa",2 orders in queue,False
+Music & Audio,dj-mixing,level 2,116,$35,$60,$100,2 days,3 days,4 days,0,0,0,4.9,183,Argentina,Aug 2019,2 hours,2 days,"English, Spanish",N/A,False
+Music & Audio,dj-mixing,level 2,116,$5,$10,$15,3 days,3 days,3 days,0,1,2,5.0,8,Indonesia,Mar 2021,1 hour,1 day,"English, Indonesian",N/A,False
+Music & Audio,dj-mixing,level 2,116,$30,$50,$70,1 day,3 days,3 days,2,3,Unlimited,4.9,151,Italy,Jul 2023,1 hour,about 9 hours,"English, Italian",3 orders in queue,False
+Music & Audio,dj-mixing,level 2,116,$10,$20,$40,2 days,3 days,7 days,-1,-1,-1,5.0,372,Morocco,Mar 2020,1 hour,about 22 hours,"English, Arabic, French",1 order in queue,False
+Music & Audio,dj-mixing,level 2,116,$20,$35,$60,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,57,Greece,Mar 2016,1 hour,about 8 hours,"English, Greek",N/A,False
+Music & Audio,dj-mixing,level 2,116,$20,$35,$55,2 days,2 days,2 days,3,3,3,4.8,76,Nigeria,May 2020,1 hour,about 23 hours,"English, Hausa",2 orders in queue,False
+Music & Audio,dj-mixing,level 2,116,$35,$65,$95,3 days,5 days,7 days,1,2,2,4.9,419,India,Oct 2015,5 hours,1 day,"Hindi, English",6 orders in queue,False

@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Digital Marketing,influencer-marketing,level 1,767,$35,$45,$55,2 days,3 days,5 days,-1,-1,-1,4.9,10,Italy,Feb 2023,3 hours,2 days,"English, Italian",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$80,$115,$150,4 days,5 days,5 days,1,1,1,5.0,38,United States,Sep 2022,2 hours,1 day,English,N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$35,$100,3 days,4 days,5 days,-1,-1,-1,4.7,42,Bangladesh,Nov 2023,1 hour,1 day,"Bengali, English",3 orders in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$10,$20,2 days,3 days,4 days,-1,-1,-1,4.9,61,India,Apr 2022,4 hours,6 days,"Hindi, English",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$20,$30,$60,3 days,4 days,5 days,-1,-1,-1,5.0,2,Germany,Nov 2022,1 hour,2 weeks,"English, German, Russian",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$25,$50,2 days,3 days,5 days,-1,-1,-1,4.9,24,Pakistan,Aug 2021,2 hours,3 days,"Urdu, English",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$30,$50,$100,1 day,3 days,7 days,-1,-1,-1,4.9,24,Albania,Apr 2019,1 hour,2 weeks,"English, Albanian, Turkish, Italian",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$10,$20,1 day,2 days,3 days,-1,-1,-1,5.0,11,Pakistan,Dec 2019,1 hour,1 week,"Urdu, English",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$40,$80,2 days,3 days,5 days,-1,-1,-1,4.5,68,Bangladesh,Nov 2020,1 hour,2 days,"Bengali, English, Spanish",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$25,$50,1 day,3 days,5 days,-1,-1,-1,4.9,34,Pakistan,Dec 2023,1 hour,4 days,"German, French, Spanish, English",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$20,$50,1 day,3 days,7 days,-1,-1,-1,4.8,39,Bangladesh,Mar 2020,2 hours,1 month,English,N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$20,$25,1 day,1 day,2 days,0,0,0,4.2,215,Singapore,N/A,1 hour,1 day,"English, German, Spanish, Arabic",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$15,$30,1 day,2 days,3 days,-1,-1,-1,4.8,22,Bangladesh,Oct 2022,1 hour,1 week,"English, Hindi, Spanish",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$15,$25,1 day,1 day,1 day,-1,-1,-1,4.9,56,Pakistan,Mar 2023,1 hour,1 day,"English, Urdu",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$20,$30,1 day,2 days,4 days,-1,-1,-1,4.8,22,Bangladesh,Oct 2022,1 hour,about 22 hours,"English, German, Spanish, Italian",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$30,$60,3 days,4 days,6 days,-1,-1,-1,4.9,311,Sri Lanka,Sep 2015,10 hours,4 days,English,N/A,False
+Digital Marketing,influencer-marketing,level 1,767,€9.78,€14.67,€24.44,1 day,1 day,1 day,-1,-1,-1,4.8,19,Pakistan,Feb 2024,1 hour,1 day,English,1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,€9.78,€19.55,€39.11,1 day,3 days,4 days,-1,-1,-1,4.7,17,Bangladesh,Jan 2023,1 hour,1 week,"English, Hindi, Russian, German",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,€9.78,€19.55,€29.33,5 days,6 days,7 days,-1,-1,-1,5.0,4,Pakistan,Aug 2020,1 hour,4 days,"Urdu, English",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$25,$45,$60,2 days,3 days,3 days,-1,-1,-1,5.0,53,Germany,Apr 2019,6 hours,1 week,"English, German, Serbian",2 orders in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$35,$70,$100,2 days,3 days,4 days,0,0,0,4.9,12,Bangladesh,Aug 2022,1 hour,1 week,"English, Bengali",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$15,$50,$100,2 days,7 days,10 days,-1,-1,-1,4.9,23,Bangladesh,Dec 2022,1 hour,1 day,"English, Bengali, Hindi",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$15,$25,$60,1 day,2 days,4 days,-1,-1,-1,4.9,61,Bangladesh,Mar 2019,2 hours,5 months,"English, Spanish, French, German",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$20,$40,1 day,3 days,4 days,-1,-1,-1,4.7,17,Bangladesh,Jan 2023,1 hour,1 week,"English, Hindi, Russian, German",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$10,$15,6 days,7 days,10 days,0,0,0,4.5,101,Malaysia,Jul 2019,1 hour,2 days,"Malay, English, Arabic",2 orders in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$25,$50,2 days,4 days,6 days,-1,-1,-1,4.9,34,Pakistan,Dec 2023,1 hour,1 day,"English, Spanish, French",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$25,$50,1 day,3 days,5 days,-1,-1,-1,4.9,36,Pakistan,Dec 2023,1 hour,4 days,English,1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$20,$40,2 days,4 days,6 days,-1,-1,-1,5.0,12,India,Sep 2022,3 hours,3 days,"French, English, Dutch",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$20,$40,1 day,2 days,4 days,-1,-1,-1,4.9,45,Pakistan,Mar 2022,1 hour,5 days,English,2 orders in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$10,$25,1 day,2 days,5 days,-1,-1,-1,4.7,64,Pakistan,Nov 2021,1 hour,1 week,"Urdu, English, Pashto",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$30,$55,$100,3 days,5 days,7 days,-1,-1,-1,5.0,3,Pakistan,Mar 2024,1 hour,1 week,"English, Arabic, Dutch",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$15,$25,$45,2 days,2 days,7 days,-1,-1,-1,4.9,80,Pakistan,Nov 2018,9 hours,1 week,"English, Spanish, French, Russian",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$10,$30,1 day,2 days,3 days,-1,-1,-1,4.9,13,Pakistan,Dec 2021,1 hour,3 days,"English, French, German, Chinese",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$25,$50,1 day,3 days,5 days,-1,-1,-1,4.9,34,Pakistan,Dec 2023,1 hour,4 days,"German, French, Spanish, English",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$20,$25,2 days,2 days,3 days,-1,-1,-1,4.0,42,Dominican Republic,Nov 2018,1 hour,3 months,"English, Spanish",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$10,$25,2 days,4 days,7 days,-1,-1,-1,4.8,62,Pakistan,Jul 2021,1 hour,2 days,"Urdu, English",1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$5,$15,$30,2 days,2 days,2 days,-1,-1,-1,4.8,33,United States,Aug 2016,3 hours,2 weeks,English,N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$10,$15,$30,2 days,2 days,2 days,-1,-1,-1,4.6,67,Egypt,Jul 2020,1 hour,1 week,"English, Arabic",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,€4.89,€19.55,€48.88,3 days,3 days,4 days,1,1,1,4.6,100,Bangladesh,Mar 2022,1 hour,1 day,"Bengali, English",6 orders in queue,False
+Digital Marketing,influencer-marketing,level 1,767,€29.33,€58.66,€97.77,2 days,3 days,5 days,-1,-1,-1,2.3,3,Tanzania,Mar 2021,1 hour,2 weeks,"English, Swahili",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,€48.88,€87.99,€156.43,30 days,30 days,30 days,-1,-1,-1,4.9,30,United States,N/A,3 hours,1 week,English,1 order in queue,False
+Digital Marketing,influencer-marketing,level 1,767,€9.78,€14.67,€39.11,2 days,3 days,5 days,-1,-1,-1,4.9,51,United States,May 2021,4 hours,4 months,"English, French, Spanish",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,€9.78,€19.55,€39.11,4 days,7 days,10 days,-1,-1,-1,4.9,61,Bangladesh,Jan 2021,3 hours,1 month,"Bengali, Hindi, English, Hebrew",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,$100,$200,$300,3 days,4 days,5 days,-1,-1,-1,5.0,36,United States,Aug 2022,2 hours,2 days,English,N/A,False
+Digital Marketing,influencer-marketing,level 1,767,₪58.35,₪77.80,₪97.25,2 days,2 days,2 days,-1,-1,-1,4.8,36,Morocco,Oct 2019,1 hour,6 days,"English, French, Spanish",N/A,False
+Digital Marketing,influencer-marketing,level 1,767,₪97.25,₪194.50,₪291.75,3 days,3 days,4 days,-1,-1,-1,5.0,14,United Kingdom,Feb 2023,1 hour,2 days,"English, French, Spanish, German",2 orders in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$40,$60,$150,14 days,14 days,14 days,-1,-1,-1,5.0,24,United States,Jul 2023,2 hours,5 days,English,3 orders in queue,False
+Digital Marketing,influencer-marketing,level 1,767,$70,$120,$200,7 days,10 days,14 days,-1,-1,-1,4.9,33,United Kingdom,Feb 2023,1 hour,2 days,"English, French, Spanish, German",1 order in queue,False

@@ -1,0 +1,15 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,food-photographers,top rated seller,12,€97.77,€474.17,€928.79,7 days,10 days,14 days,0,0,0,5.0,203,Venezuela,Apr 2018,1 hour,about 16 hours,"English, Spanish",N/A,False
+Photography,food-photographers,top rated seller,12,$85,$95,$105,5 days,5 days,5 days,1,1,1,5.0,1,Romania,Jan 2021,1 hour,about 23 hours,"English, Romanian",N/A,False
+Photography,food-photographers,top rated seller,12,$100,$485,$950,7 days,10 days,14 days,0,0,0,5.0,29,Venezuela,Apr 2018,1 hour,about 16 hours,"English, Spanish",N/A,False
+Photography,food-photographers,top rated seller,12,$120,$120,$120,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,2,Venezuela,Apr 2018,1 hour,about 16 hours,"English, Spanish",N/A,True
+Photography,food-photographers,top rated seller,12,$85,$95,$105,5 days,5 days,5 days,1,1,1,5.0,142,Romania,Jan 2021,1 hour,about 23 hours,"English, Romanian",N/A,False
+Photography,food-photographers,top rated seller,12,$350,$500,$800,5 days,7 days,7 days,-1,-1,-1,4.9,239,Spain,Jun 2021,1 hour,1 day,"English, Spanish",N/A,False
+Photography,food-photographers,top rated seller,12,$150,$735,"$1,450",10 days,10 days,14 days,0,0,0,4.9,11,Venezuela,Apr 2018,1 hour,about 16 hours,"English, Spanish",N/A,False
+Photography,food-photographers,top rated seller,12,$150,$735,"$1,450",10 days,10 days,14 days,0,0,0,4.9,11,Venezuela,Apr 2018,1 hour,about 16 hours,"English, Spanish",N/A,False
+Photography,food-photographers,top rated seller,12,$85,$95,$105,5 days,5 days,5 days,1,1,1,5.0,1,Romania,Jan 2021,1 hour,about 23 hours,"English, Romanian",N/A,False
+Photography,food-photographers,top rated seller,12,$250,$750,"$1,000",7 days,7 days,14 days,1,1,1,5.0,35,Canada,Feb 2018,3 hours,1 week,"English, French",N/A,False
+Photography,food-photographers,top rated seller,12,$100,$485,$950,7 days,10 days,14 days,0,0,0,5.0,203,Venezuela,Apr 2018,1 hour,about 16 hours,"English, Spanish",N/A,False
+Photography,food-photographers,top rated seller,12,$45,$90,$180,3 days,3 days,5 days,-1,-1,-1,5.0,8,Poland,Apr 2020,1 hour,about 17 hours,"English, Polish, German",N/A,False
+Photography,food-photographers,top rated seller,12,$50,$75,$90,5 days,5 days,5 days,1,1,1,5.0,192,Ukraine,Nov 2018,2 hours,3 weeks,"English, Ukrainian, Russian",N/A,False
+Photography,food-photographers,top rated seller,12,$150,$250,$750,14 days,14 days,14 days,1,1,2,5.0,30,Spain,Dec 2017,2 hours,1 month,"English, Spanish, Catalan, Portuguese",N/A,False

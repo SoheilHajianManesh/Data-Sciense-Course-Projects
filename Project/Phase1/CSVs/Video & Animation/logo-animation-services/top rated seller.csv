@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Video & Animation,logo-animation-services,top rated seller,140,$155,$255,$335,3 days,3 days,3 days,1,2,3,4.8,"2,360",Spain,Jan 2016,1 hour,3 days,"English, Spanish",7 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$65,$130,$195,3 days,3 days,4 days,2,2,3,5.0,"6,449",Barbados,Feb 2014,5 hours,about 16 hours,English,5 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$30,$50,$100,5 days,5 days,5 days,1,3,Unlimited,4.9,466,Egypt,Sep 2018,1 hour,about 7 hours,"English, Arabic",6 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$55,$80,$100,5 days,6 days,7 days,1,2,3,4.9,"1,516",Vietnam,Apr 2015,1 hour,about 6 hours,"English, Vietnamese",3 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$90,$160,$250,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,"1,283",Italy,Mar 2017,1 hour,1 day,"English, Italian, Russian",2 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$60,$170,$380,3 days,7 days,14 days,1,2,4,5.0,174,India,May 2019,1 hour,5 days,"Hindi, English",1 order in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$60,$90,$130,2 days,2 days,1 day,Unlimited,Unlimited,Unlimited,4.9,184,Georgia,May 2019,1 hour,about 6 hours,"English, Georgian, Russian",N/A,False
+Video & Animation,logo-animation-services,top rated seller,140,$80,$100,$120,7 days,7 days,7 days,2,2,3,5.0,"1,232",Ukraine,Jan 2016,2 hours,1 day,English,2 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$30,$50,$65,1 day,1 day,1 day,2,3,4,4.9,465,Pakistan,Feb 2017,1 hour,about 22 hours,"Urdu, English, Punjabi, Hindi",3 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$70,$85,$95,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,4.9,"2,063",Bangladesh,Sep 2015,1 hour,about 18 hours,"English, German, Spanish, French",12 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$80,$100,$120,7 days,7 days,7 days,2,2,3,5.0,"1,232",Ukraine,Jan 2016,2 hours,1 day,English,2 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$200,$350,$500,14 days,14 days,14 days,2,2,2,4.9,77,Armenia,Nov 2020,3 hours,2 days,"English, Armenian, Russian",1 order in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$60,$80,$100,7 days,7 days,7 days,1,2,2,4.9,"1,554",Mexico,Apr 2020,2 hours,1 day,"English, Spanish",3 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$25,$50,$90,3 days,3 days,3 days,2,5,Unlimited,4.9,777,Pakistan,Jan 2015,1 hour,about 9 hours,"Urdu, Punjabi, Hindi, English",7 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$45,$75,$155,2 days,3 days,4 days,1,2,3,4.9,"2,337",Romania,May 2015,2 hours,about 8 hours,English,2 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,€38.68,€72.52,€91.85,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,4.9,"4,524",India,Jun 2015,1 hour,1 day,"Hindi, English",9 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$55,$90,$140,7 days,5 days,4 days,1,2,Unlimited,4.9,729,India,Feb 2018,1 hour,1 day,"Hindi, English",2 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,€77.35,€96.69,€116.03,5 days,4 days,3 days,2,2,3,4.9,939,Azerbaijan,Oct 2020,1 hour,about 7 hours,"English, Turkish, Russian",8 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$30,$90,$145,2 days,3 days,5 days,Unlimited,Unlimited,Unlimited,5.0,"1,589",India,Dec 2015,1 hour,1 day,English,7 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,€145.03,€290.07,€435.10,2 days,3 days,5 days,1,1,2,5.0,44,Pakistan,Sept 2015,1 hour,4 weeks,"Urdu, Hindi, English",N/A,False
+Video & Animation,logo-animation-services,top rated seller,140,$65,$130,$195,3 days,3 days,4 days,2,2,3,5.0,"6,449",Barbados,Feb 2014,5 hours,about 16 hours,English,5 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$35,$70,$90,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,4.8,84,India,Jun 2015,1 hour,1 day,"Hindi, English",5 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$350,$450,$550,5 days,6 days,7 days,2,4,4,4.9,230,Armenia,Jun 2017,3 hours,2 days,"English, Armenian, Russian, Spanish",1 order in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$90,$160,$250,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,"1,283",Italy,Mar 2017,1 hour,1 day,"English, Italian, Russian",2 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$80,$100,$120,5 days,4 days,3 days,2,2,3,4.9,939,Azerbaijan,Oct 2020,1 hour,about 7 hours,"English, Turkish, Russian",8 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$150,$195,$290,7 days,10 days,10 days,1,2,3,5.0,192,France,Sep 2019,5 hours,2 days,"English, French, Spanish, Italian",1 order in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$260,$360,$460,7 days,10 days,14 days,1,2,3,4.9,281,Mexico,May 2017,9 hours,1 week,"English, Spanish",6 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$470,$660,$820,3 days,5 days,6 days,2,3,5,4.9,655,Armenia,Nov 2017,4 hours,1 day,"English, Armenian, Russian",4 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$20,$40,$70,2 days,3 days,3 days,Unlimited,Unlimited,Unlimited,4.9,43,India,Dec 2015,1 hour,1 day,English,2 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$30,$90,$145,2 days,3 days,5 days,Unlimited,Unlimited,Unlimited,5.0,"1,589",India,Dec 2015,1 hour,1 day,English,7 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$40,$70,$150,1 day,2 days,3 days,2,2,2,4.8,31,Ukraine,Feb 2020,1 hour,3 days,"English, Ukrainian, Russian",N/A,False
+Video & Animation,logo-animation-services,top rated seller,140,$30,$50,$100,5 days,5 days,5 days,1,3,Unlimited,4.9,466,Egypt,Sep 2018,1 hour,about 6 hours,"English, Arabic",6 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$60,$80,$100,7 days,7 days,7 days,1,2,2,4.9,"1,554",Mexico,Apr 2020,2 hours,1 day,"English, Spanish",3 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$345,$795,$985,6 days,6 days,6 days,1,2,3,4.9,888,Germany,Feb 2017,1 hour,about 9 hours,"English, German",4 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$35,$95,$155,3 days,3 days,3 days,2,5,9,4.8,755,United Arab Emirates,May 2015,1 hour,about 20 hours,"English, Urdu",6 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$145,$145,$145,10-day delivery,10-day delivery,10-day delivery,3 Revisions,3 Revisions,3 Revisions,4.9,43,India,Apr 2021,1 hour,1 day,"Hindi, English",5 orders in queue,True
+Video & Animation,logo-animation-services,top rated seller,140,$35,$75,$145,2 days,3 days,3 days,1,2,3,4.9,"1,508",Romania,Oct 2013,4 hours,3 days,"English, Romanian, German, French",1 order in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$80,$145,$175,4 days,3 days,2 days,1,2,3,4.9,443,Azerbaijan,Apr 2020,5 hours,3 days,"English, Russian, Turkish",1 order in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$35,$95,$155,3 days,3 days,3 days,2,5,9,4.8,755,United Arab Emirates,May 2015,1 hour,about 20 hours,"English, Urdu",6 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$60,$100,$150,4 days,4 days,4 days,2,4,6,4.9,137,Turkey,May 2020,1 hour,about 23 hours,English,1 order in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$25,$60,$100,3 days,3 days,2 days,2,9,Unlimited,4.9,"2,381",United Kingdom,Aug 2017,6 hours,about 19 hours,"English, Tamil",15 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$45,$75,$155,2 days,3 days,4 days,1,2,3,4.9,"2,337",Romania,May 2015,2 hours,about 8 hours,English,2 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$100,$225,$350,5 days,10 days,14 days,1,2,3,5.0,75,Greece,Mar 2013,1 hour,3 days,English,N/A,False
+Video & Animation,logo-animation-services,top rated seller,140,$25,$60,$100,3 days,3 days,2 days,2,9,Unlimited,4.9,"2,381",United Kingdom,Aug 2017,6 hours,about 19 hours,"English, Tamil",15 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$10,$30,$50,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,4.9,"7,811",United Arab Emirates,May 2015,1 hour,about 20 hours,"English, Urdu",8 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$10,$20,$35,2 days,2 days,2 days,1,1,2,4.9,"1,381",Romania,Jan 2014,1 hour,about 14 hours,"Romanian, English",N/A,False
+Video & Animation,logo-animation-services,top rated seller,140,$20,$40,$60,5 days,5 days,4 days,2,5,Unlimited,4.9,"4,207",Pakistan,Jul 2019,2 hours,1 day,"English, Spanish, French",58 orders in queue,False
+Video & Animation,logo-animation-services,top rated seller,140,$180,$260,$400,3 days,5 days,6 days,1,2,5,4.9,117,Ukraine,Dec 2019,4 hours,2 days,"English, Ukrainian",1 order in queue,False

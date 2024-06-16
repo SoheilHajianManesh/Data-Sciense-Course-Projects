@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Writing & Translation,ux-writing,new seller,147,$65,$65,$65,2-day delivery,2-day delivery,2-day delivery,3 Revisions,3 Revisions,3 Revisions,5.0,10,United States,N/A,N/A,N/A,"I speak English, French, Czech, Spanish",N/A,True
+Writing & Translation,ux-writing,new seller,147,$5,$30,$50,2 days,4 days,6 days,Unlimited,Unlimited,Unlimited,5.0,6,India,N/A,N/A,N/A,"I speak English, Hindi, Bengali",N/A,False
+Writing & Translation,ux-writing,new seller,147,$5,$10,$20,2 days,2 days,3 days,2,2,4,N/A,N/A,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$40,$90,$150,2 days,2 days,3 days,1,1,2,4.9,15,India,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$15,$25,$35,2 days,3 days,4 days,1,2,3,N/A,N/A,Morocco,N/A,N/A,N/A,"I speak English, French, Arabic",N/A,False
+Writing & Translation,ux-writing,new seller,147,$5,$140,"$1,100",2 days,3 days,5 days,0,1,5,N/A,N/A,United States,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$15,$30,$50,2 days,4 days,5 days,1,2,3,N/A,N/A,Croatia,N/A,N/A,N/A,"I speak English, Croatian, Slovenian, German",N/A,False
+Writing & Translation,ux-writing,new seller,147,$65,$190,$350,2 days,4 days,10 days,3,2,2,5.0,3,India,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$50,$100,$500,5 days,14 days,30 days,3,5,Unlimited,N/A,N/A,Philippines,N/A,N/A,N/A,"I speak English, Tagalog",N/A,False
+Writing & Translation,ux-writing,new seller,147,€9.78,€97.77,€293.30,3 days,5 days,7 days,1,2,2,4.9,3,United Kingdom,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$15,$35,$60,3 days,5 days,7 days,1,1,2,N/A,N/A,Austria,N/A,N/A,N/A,"I speak English, German, French, Japanese",N/A,False
+Writing & Translation,ux-writing,new seller,147,$15,$25,$45,3 days,4 days,7 days,2,3,4,4.9,13,South Africa,N/A,N/A,N/A,"I speak English, Afrikaans",N/A,False
+Writing & Translation,ux-writing,new seller,147,$300,$550,$750,6 days,6 days,6 days,2,2,3,5.0,1,United States,N/A,N/A,N/A,"I speak English, Chinese",N/A,False
+Writing & Translation,ux-writing,new seller,147,$15,$50,$100,2 days,4 days,6 days,2,3,Unlimited,N/A,N/A,Nigeria,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$25,$300,$700,3 days,7 days,14 days,1,2,4,N/A,N/A,Canada,N/A,N/A,N/A,"I speak English, Chinese",N/A,False
+Writing & Translation,ux-writing,new seller,147,$180,$180,$180,5-day delivery,5-day delivery,5-day delivery,3 Revisions,3 Revisions,3 Revisions,N/A,N/A,United Kingdom,N/A,N/A,N/A,I speak English,N/A,True
+Writing & Translation,ux-writing,new seller,147,$90,$90,$90,7-day delivery,7-day delivery,7-day delivery,1 Revision,1 Revision,1 Revision,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, Sindhi",N/A,True
+Writing & Translation,ux-writing,new seller,147,$5,$15,$30,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Writing & Translation,ux-writing,new seller,147,$5,$10,$20,2 days,3 days,4 days,3,Unlimited,Unlimited,N/A,N/A,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$5,$10,$35,1 day,2 days,4 days,2,3,5,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Writing & Translation,ux-writing,new seller,147,$5,$20,$30,1 day,2 days,3 days,2,2,2,N/A,N/A,Algeria,N/A,N/A,N/A,"I speak English, Arabic",N/A,False
+Writing & Translation,ux-writing,new seller,147,$50,$80,$100,2 days,4 days,5 days,-1,-1,-1,N/A,N/A,Mexico,N/A,N/A,N/A,"I speak English, Spanish, German",N/A,False
+Writing & Translation,ux-writing,new seller,147,$10,$45,$60,5 days,7 days,10 days,2,2,2,4.7,3,Pakistan,N/A,N/A,N/A,"I speak Urdu, Hindi, English",N/A,False
+Writing & Translation,ux-writing,new seller,147,$150,$750,"$1,500",2 days,5 days,7 days,0,3,3,N/A,N/A,United States,N/A,N/A,N/A,"I speak English, Dutch, French, Swedish",N/A,False
+Writing & Translation,ux-writing,new seller,147,$5,$10,$15,3 days,4 days,5 days,0,1,2,N/A,N/A,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$50,$150,$350,3 days,5 days,7 days,Unlimited,Unlimited,Unlimited,N/A,N/A,Nigeria,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$20,$35,$50,5 days,10 days,14 days,1,2,2,N/A,N/A,Argentina,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Writing & Translation,ux-writing,new seller,147,$20,$30,$45,2 days,3 days,5 days,2,3,3,N/A,N/A,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$80,$120,$240,3 days,5 days,7 days,-1,-1,-1,N/A,N/A,Nigeria,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$50,$200,$400,2 days,14 days,30 days,2,2,2,N/A,N/A,United States,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$15,$25,$40,4 days,10 days,21 days,2,3,Unlimited,N/A,N/A,Indonesia,N/A,N/A,N/A,"I speak English, Indonesian",N/A,False
+Writing & Translation,ux-writing,new seller,147,$100,$100,$100,5-day delivery,5-day delivery,5-day delivery,4 Revisions,4 Revisions,4 Revisions,N/A,N/A,Rwanda,N/A,N/A,N/A,"I speak English, Kinyarwanda, French",N/A,True
+Writing & Translation,ux-writing,new seller,147,$20,$20,$20,2-day delivery,2-day delivery,2-day delivery,2 Revisions,2 Revisions,2 Revisions,N/A,N/A,United States,N/A,N/A,N/A,"I speak English, French, German",N/A,True
+Writing & Translation,ux-writing,new seller,147,$50,$50,$50,7-day delivery,7-day delivery,7-day delivery,1 Revision,1 Revision,1 Revision,4.3,1,Egypt,N/A,N/A,N/A,I speak English,N/A,True
+Writing & Translation,ux-writing,new seller,147,$15,$15,$15,2-day delivery,2-day delivery,2-day delivery,1 Revision,1 Revision,1 Revision,N/A,N/A,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Writing & Translation,ux-writing,new seller,147,$15,$15,$15,1-day delivery,1-day delivery,1-day delivery,1 Revision,1 Revision,1 Revision,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,True
+Writing & Translation,ux-writing,new seller,147,$50,$50,$50,2-day delivery,2-day delivery,2-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,N/A,N/A,United Kingdom,N/A,N/A,N/A,I speak English,N/A,True
+Writing & Translation,ux-writing,new seller,147,$10,$25,$55,3 days,3 days,3 days,1,2,3,N/A,N/A,Taiwan,N/A,N/A,N/A,I speak English,N/A,False
+Writing & Translation,ux-writing,new seller,147,$25,$50,$75,1 day,2 days,3 days,2,3,5,N/A,N/A,Bangladesh,N/A,N/A,N/A,"I speak Bengali, English",N/A,False
+Writing & Translation,ux-writing,new seller,147,$150,$350,$570,3 days,6 days,10 days,2,2,3,N/A,N/A,Chile,N/A,N/A,N/A,I speak Spanish,N/A,False
+Writing & Translation,ux-writing,new seller,147,$5,$10,$15,1 day,2 days,3 days,1,2,3,N/A,N/A,Pakistan,N/A,N/A,N/A,Writing,N/A,False
+Writing & Translation,ux-writing,new seller,147,$20,$50,$210,3 days,5 days,6 days,1,1,1,N/A,N/A,Vietnam,N/A,N/A,N/A,"I speak English, Vietnamese",N/A,False
+Writing & Translation,ux-writing,new seller,147,$5,$20,$40,1 day,2 days,4 days,2,2,2,N/A,N/A,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, Hindi, Japanese",N/A,False
+Writing & Translation,ux-writing,new seller,147,"$1,200","$1,200","$1,200",14-day delivery,14-day delivery,14-day delivery,-1,-1,-1,5.0,1,Thailand,N/A,N/A,N/A,I speak English,N/A,True
+Writing & Translation,ux-writing,new seller,147,$5,$20,$35,3 days,6 days,10 days,-1,-1,-1,5.0,2,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Writing & Translation,ux-writing,new seller,147,$25,$25,$25,7-day delivery,7-day delivery,7-day delivery,1 Revision,1 Revision,1 Revision,4.5,10,United Kingdom,N/A,N/A,N/A,I speak English,N/A,True
+Writing & Translation,ux-writing,new seller,147,$5,$10,$15,2 days,3 days,4 days,-1,-1,-1,5.0,1,Pakistan,N/A,N/A,N/A,"I speak Urdu, Punjabi, English",N/A,False
+Writing & Translation,ux-writing,new seller,147,$10,$10,$10,3-day delivery,3-day delivery,3-day delivery,9 Revisions,9 Revisions,9 Revisions,N/A,N/A,United States,N/A,N/A,N/A,I speak English,N/A,True

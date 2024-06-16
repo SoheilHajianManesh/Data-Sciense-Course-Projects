@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Graphics & Design,digital-illustration,level 2,11000,$25,$45,$75,1 day,2 days,3 days,3,5,Unlimited,4.9,69,Ukraine,Aug 2021,3 hours,1 day,"English, Ukrainian, Polish",4 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$50,$80,$120,3 days,3 days,5 days,3,3,3,5.0,113,Spain,Dec 2020,1 hour,2 days,"English, Russian, Spanish",2 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$40,$80,1 day,3 days,5 days,4,4,4,5.0,513,Indonesia,May 2019,2 hours,1 day,"Indonesian, Javanese, English",3 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$20,$50,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,103,Sri Lanka,Oct 2019,1 hour,3 days,English,1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$30,$50,$80,3 days,5 days,10 days,2,3,5,4.9,234,Pakistan,May 2018,1 hour,about 22 hours,English,1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$20,$30,3 days,4 days,5 days,Unlimited,Unlimited,Unlimited,5.0,447,India,Sep 2020,1 hour,1 day,"English, Spanish, French, German",N/A,False
+Graphics & Design,digital-illustration,level 2,11000,$20,$25,$35,2 days,3 days,5 days,1,2,3,5.0,37,Poland,Jul 2023,1 hour,1 week,"English, Belarusian, Russian",1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$20,$35,$60,2 days,2 days,2 days,-1,-1,-1,4.8,291,Pakistan,Oct 2018,1 hour,1 day,"English, Spanish, French, German",1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$20,$30,1 day,2 days,3 days,2,3,6,5.0,"1,553",Pakistan,Sep 2017,2 hours,1 day,"Urdu, English, Chinese",1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$20,$30,3 days,3 days,3 days,3,3,3,5.0,"1,615",Malaysia,Sep 2015,3 hours,2 days,English,2 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$50,$120,$240,6 days,6 days,6 days,2,2,3,5.0,20,Argentina,Jul 2020,3 hours,1 day,"English, Spanish",1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$20,$35,$50,7 days,7 days,7 days,2,3,4,4.9,146,Indonesia,Jan 2020,1 hour,about 9 hours,"English, Indonesian",4 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$5,$10,$545,1 day,2 days,21 days,1,1,2,4.9,392,India,Nov 2018,1 hour,2 days,"Hindi, English, Japanese",N/A,False
+Graphics & Design,digital-illustration,level 2,11000,$25,$75,$125,6 days,5 days,4 days,Unlimited,Unlimited,Unlimited,4.9,472,Indonesia,Oct 2019,1 hour,1 day,English,3 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$25,$40,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,722,Indonesia,May 2017,1 hour,about 11 hours,"English, Indonesian",2 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$5,$15,$20,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,383,Indonesia,Jul 2019,4 hours,about 6 hours,"English, Indonesian",8 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$20,$40,2 days,3 days,5 days,Unlimited,Unlimited,Unlimited,4.9,"1,241",Sri Lanka,Aug 2020,1 hour,about 2 hours,"English, Sinhala",19 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$15,$25,3 days,4 days,5 days,5,5,Unlimited,4.9,721,India,Dec 2017,1 hour,1 day,"Malayalam, English, Hindi",5 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$60,$550,"$1,100",3 days,21 days,30 days,Unlimited,Unlimited,Unlimited,5.0,269,Indonesia,Oct 2019,3 hours,1 day,"English, Indonesian",3 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$25,$40,$50,2 days,3 days,3 days,0,1,2,4.9,507,Peru,Oct 2019,1 hour,about 18 hours,"English, Spanish",N/A,False
+Graphics & Design,digital-illustration,level 2,11000,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.9,475,Indonesia,Sep 2018,1 hour,about 10 hours,"Indonesian, English",1 order in queue,True
+Graphics & Design,digital-illustration,level 2,11000,US$15,US$25,US$30,1 day,2 days,3 days,0,1,1,4.9,110,Italy,Jul 2022,1 hour,about 5 hours,"Italian, Spanish, English",N/A,False
+Graphics & Design,digital-illustration,level 2,11000,$5,$45,$60,1 day,4 days,7 days,Unlimited,Unlimited,Unlimited,4.6,28,Pakistan,Jul 2022,1 hour,1 day,"English, Italian, French, German",5 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$30,$30,$30,2-day delivery,2-day delivery,2-day delivery,2 Revisions,2 Revisions,2 Revisions,4.9,161,Serbia,Oct 2019,2 hours,3 days,"English, Serbian, German",N/A,True
+Graphics & Design,digital-illustration,level 2,11000,$30,$50,$80,3 days,5 days,10 days,2,3,5,4.9,234,Pakistan,May 2018,1 hour,about 22 hours,English,1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.9,491,Indonesia,Nov 2021,2 hours,about 2 hours,English,3 orders in queue,True
+Graphics & Design,digital-illustration,level 2,11000,$5,$15,$20,1 day,2 days,3 days,1,2,2,5.0,211,Mexico,Jan 2018,3 hours,2 days,"English, Spanish",1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$15,$45,$120,2 days,2 days,3 days,1,2,4,5.0,163,Bangladesh,Nov 2020,1 hour,about 19 hours,English,1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$30,$50,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,4.9,247,Indonesia,Aug 2020,3 hours,1 day,"English, Indonesian",2 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$25,$30,$40,5 days,5 days,5 days,2,3,5,4.9,228,Bangladesh,Sep 2017,1 hour,1 day,English,5 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$20,$30,1 day,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,380,Pakistan,Dec 2020,1 hour,1 day,"English, German, Spanish",N/A,False
+Graphics & Design,digital-illustration,level 2,11000,$20Save up to 15% with Subscribe to Save,$20Save up to 15% with Subscribe to Save,$20Save up to 15% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,4 Revisions,4 Revisions,4 Revisions,4.9,65,Indonesia,Feb 2022,1 hour,about 11 hours,"English, French, Spanish, Portuguese",3 orders in queue,True
+Graphics & Design,digital-illustration,level 2,11000,$20,$45,$135,2 days,4 days,7 days,1,3,4,4.9,232,Poland,Apr 2020,1 hour,about 2 hours,"English, Russian, Polish",7 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$5,$10,$15,2 days,4 days,6 days,1,1,1,4.9,674,Australia,Mar 2019,8 hours,1 day,English,1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$15,$20,$30,2 days,2 days,2 days,5,5,5,5.0,947,Georgia,Mar 2017,2 hours,about 1 hour,English,3 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$15,$25,$35,3 days,3 days,4 days,3,3,5,5.0,32,Indonesia,Aug 2019,1 hour,about 6 hours,"English, Indonesian",1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$20,$35,$60,2 days,2 days,2 days,-1,-1,-1,4.8,291,Pakistan,Oct 2018,1 hour,1 day,"English, Spanish, French, German",1 order in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$20,$25,$65,3 days,3 days,3 days,1,1,1,5.0,61,Indonesia,Feb 2020,1 hour,about 7 hours,English,4 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$15,$20,4 days,5 days,7 days,1,1,1,5.0,304,Brazil,Sep 2021,5 hours,1 day,English,4 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$20,$25,$80,3 days,4 days,5 days,3,3,3,4.9,28,Indonesia,Mar 2023,1 hour,1 week,English,N/A,False
+Graphics & Design,digital-illustration,level 2,11000,$50,$80,$120,14 days,14 days,14 days,5,5,5,5.0,22,Indonesia,Apr 2019,1 hour,about 4 hours,"English, Spanish, French, German",2 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$40,$50,$80,4 days,5 days,6 days,3,4,5,5.0,173,Ukraine,Feb 2020,4 hours,3 days,"English, Russian, Ukrainian, Spanish",3 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$5,$10,$25,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,4.9,615,Indonesia,May 2019,2 hours,1 day,"English, Indonesian",2 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$15,$30,$50,2 days,3 days,4 days,1,2,3,5.0,87,Ukraine,Dec 2020,2 hours,4 days,"Ukrainian, English",3 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$20,$50,$70,3 days,5 days,7 days,2,3,4,4.8,74,Bosnia and Herzegovina,Mar 2021,1 hour,about 22 hours,"English, Serbian",2 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$20,$30,$50,7 days,7 days,7 days,-1,-1,-1,4.9,699,Malaysia,Jan 2016,7 hours,about 4 hours,"English, Malay",7 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$10,$20,$40,3 days,3 days,4 days,3,5,5,4.9,556,Pakistan,Jun 2017,2 hours,about 22 hours,English,7 orders in queue,False
+Graphics & Design,digital-illustration,level 2,11000,$100,$250,$500,4 days,7 days,14 days,-1,-1,-1,5.0,36,Morocco,Feb 2021,5 hours,1 day,"English, French",6 orders in queue,False

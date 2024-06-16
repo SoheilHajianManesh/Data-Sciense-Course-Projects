@@ -1,0 +1,45 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Programming & Tech,chatbots,top rated seller,39,$30,$45,$55,1 day,2 days,2 days,3,4,9,4.9,989,Pakistan,Sep 2020,1 hour,about 20 hours,"English, Urdu, Hindi",4 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$45,$80,$145,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,744,Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",2 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$30,$40,$60,1 day,2 days,2 days,Unlimited,Unlimited,Unlimited,4.9,"2,316",Pakistan,Jul 2021,1 hour,about 19 hours,"Urdu, Punjabi, English, Hindi",8 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$45,$75,$135,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,1,Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$300,$900,"$3,000",3 days,14 days,30 days,4,4,4,5.0,6,Germany,Nov 2021,1 hour,3 days,"English, German",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$30,$45,$55,1 day,2 days,2 days,3,4,9,4.9,989,Pakistan,Sep 2020,1 hour,about 20 hours,"English, Urdu, Hindi",4 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$30,$50,$70,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,"2,301",France,Jul 2019,4 hours,about 4 hours,"English, French",1 order in queue,False
+Programming & Tech,chatbots,top rated seller,39,$45,$80,$145,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,744,Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",2 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$30,$40,$55,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,4.9,731,Pakistan,Apr 2020,1 hour,about 8 hours,"English, Urdu, Hindi",2 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$235,$285,$295,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,4.9,578,United Kingdom,Aug 2019,1 hour,2 days,English,1 order in queue,False
+Programming & Tech,chatbots,top rated seller,39,$190,$205,$290,5 days,3 days,3 days,4,8,Unlimited,5.0,239,United States,Sep 2020,1 hour,5 days,English,N/A,False
+Programming & Tech,chatbots,top rated seller,39,$30,$45,$60,1 day,2 days,2 days,-1,-1,-1,4.7,26,Pakistan,Sep 2020,1 hour,about 20 hours,"English, Urdu, Hindi",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$30,$45,$60,1 day,2 days,2 days,-1,-1,-1,4.7,26,Pakistan,Sep 2020,1 hour,about 20 hours,"English, Urdu, Hindi",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$65,$95,$125,1 day,4 days,4 days,0,3,9,4.9,"1,158",Lithuania,Mar 2019,1 hour,about 5 hours,"English, Lithuanian",7 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$30,$40,$55,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,4.9,731,Pakistan,Apr 2020,1 hour,about 8 hours,"English, Urdu, Hindi",2 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$235,$285,$295,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,4.9,578,United Kingdom,Aug 2019,1 hour,2 days,English,1 order in queue,False
+Programming & Tech,chatbots,top rated seller,39,$150,$200,$250,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,1,France,Jul 2019,4 hours,about 4 hours,"English, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$150,$200,$250,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,1,France,Jul 2019,4 hours,about 4 hours,"English, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$45,$75,$135,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,1,Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$30,$40,$60,2 days,2 days,3 days,2,2,3,4.9,467,Pakistan,Sep 2020,1 hour,about 20 hours,"English, Urdu, Hindi",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$30,$45,$60,4 days,4 days,4 days,1,2,5,5.0,140,India,Feb 2019,6 hours,6 days,"Marathi, English, Hindi",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$350,$600,"$1,200",10 days,14 days,30 days,1,2,3,5.0,2,Indonesia,Apr 2022,1 hour,1 month,"English, Indonesian",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$190,$205,$290,5 days,3 days,3 days,4,8,Unlimited,5.0,239,United States,Sep 2020,1 hour,5 days,English,N/A,False
+Programming & Tech,chatbots,top rated seller,39,$80,$110,$170,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,"1,413",Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$115,$145,$205,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,"1,413",Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",1 order in queue,False
+Programming & Tech,chatbots,top rated seller,39,$45,$75,$135,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,"1,413",Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,€29.01,€38.68,€48.34,2 days,2 days,2 days,3,5,9,4.9,"1,044",Pakistan,Jun 2021,1 hour,about 6 hours,"Urdu, English, Spanish, French",2 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$350,$600,"$1,200",10 days,14 days,30 days,1,2,3,5.0,2,Indonesia,Apr 2022,1 hour,1 month,"English, Indonesian",N/A,False
+Programming & Tech,chatbots,top rated seller,39,€96.69Save up to 20% with Subscribe to Save,€96.69Save up to 20% with Subscribe to Save,€96.69Save up to 20% with Subscribe to Save,30-day delivery,30-day delivery,30-day delivery,-1,-1,-1,5.0,2,Lithuania,Mar 2019,1 hour,about 5 hours,"English, Lithuanian",N/A,True
+Programming & Tech,chatbots,top rated seller,39,$30,$45,$60,4 days,4 days,4 days,1,2,5,5.0,140,India,Feb 2019,6 hours,6 days,"Marathi, English, Hindi",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$100,$250,$350,5 days,7 days,10 days,-1,-1,-1,5.0,25,United Kingdom,Aug 2012,2 hours,2 days,English,N/A,False
+Programming & Tech,chatbots,top rated seller,39,$80,$150,$300,3 days,5 days,7 days,0,1,3,5.0,5,India,Jul 2019,1 hour,2 days,"Gujarati, English, Hindi",1 order in queue,False
+Programming & Tech,chatbots,top rated seller,39,$80,$110,$170,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,3,Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$500,$750,"$1,150",5 days,7 days,10 days,-1,-1,-1,4.9,94,Canada,Aug 2022,1 hour,6 days,"English, Arabic, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$35,$70,$120,3 days,5 days,7 days,-1,-1,-1,5.0,13,Bangladesh,May 2019,4 hours,1 week,English,N/A,False
+Programming & Tech,chatbots,top rated seller,39,$30,$50,$70,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,"2,301",France,Jul 2019,4 hours,about 4 hours,"English, French",1 order in queue,False
+Programming & Tech,chatbots,top rated seller,39,$30,$40,$60,2 days,2 days,3 days,2,2,3,4.9,467,Pakistan,Sep 2020,1 hour,about 20 hours,"English, Urdu, Hindi",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$80,$110,$170,3 days,4 days,4 days,Unlimited,Unlimited,Unlimited,5.0,3,Pakistan,May 2017,1 hour,about 18 hours,"Urdu, English, Spanish, French",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$75,$125,$180,3 days,5 days,7 days,0,0,0,4.8,6,India,Jul 2019,1 hour,2 days,"Gujarati, English, Hindi",N/A,False
+Programming & Tech,chatbots,top rated seller,39,$65,$95,$125,1 day,4 days,4 days,0,3,9,4.9,"1,158",Lithuania,Mar 2019,1 hour,about 5 hours,"English, Lithuanian",7 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$30,$40,$60,1 day,2 days,2 days,Unlimited,Unlimited,Unlimited,4.9,"2,316",Pakistan,Jul 2021,1 hour,about 19 hours,"Urdu, Punjabi, English, Hindi",8 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$30,$40,$50,2 days,2 days,2 days,3,5,9,4.9,"1,044",Pakistan,Jun 2021,1 hour,about 6 hours,"Urdu, English, Spanish, French",2 orders in queue,False
+Programming & Tech,chatbots,top rated seller,39,$35,$100,$150,1 day,1 day,1 day,0,1,2,5.0,639,Pakistan,Oct 2017,2 hours,1 day,English,1 order in queue,False
+Programming & Tech,chatbots,top rated seller,39,$300,$900,"$3,000",3 days,14 days,30 days,4,4,4,5.0,6,Germany,Nov 2021,1 hour,3 days,"English, German",N/A,False

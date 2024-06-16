@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,lifestyle-fashion-photographers,level 2,54,$105,$365,$575,7 days,7 days,10 days,1,1,2,5.0,15,United States,Dec 2014,1 hour,2 days,English,6 orders in queue,False
+Photography,lifestyle-fashion-photographers,level 2,54,$50,$90,$150,3 days,5 days,7 days,0,1,1,5.0,41,Venezuela,Apr 2019,1 hour,3 months,"English, Spanish",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$120,$175,$350,3 days,3 days,7 days,1,1,2,5.0,8,Spain,Jun 2017,1 hour,2 weeks,"English, Spanish, Chinese",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,"€1,174","€2,445","€4,889",30 days,30 days,30 days,1,2,3,5.0,1,Colombia,May 2020,1 hour,2 weeks,"English, German, Spanish",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$80,$160,$300,3 days,4 days,5 days,0,1,1,4.9,41,United Kingdom,Apr 2020,1 hour,1 day,"English, French, Spanish",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,€391.07,€782.14,"€1,565",7 days,10 days,14 days,1,1,1,4.7,31,Lithuania,Mar 2020,1 hour,1 month,"English, Lithuanian, Russian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,€635.49,€831.02,"€1,418",7 days,7 days,10 days,-1,-1,-1,5.0,1,Turkey,Dec 2020,1 hour,1 day,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$600,$850,"$1,100",10 days,10 days,10 days,0,0,0,5.0,2,Turkey,Dec 2020,1 hour,1 day,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$500,$900,"$1,500",10 days,10 days,10 days,1,1,1,5.0,8,United States,May 2021,2 hours,3 months,"English, Russian, Ukrainian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,"€1,760","€2,738","€3,520",14 days,14 days,14 days,3,3,3,4.9,4,United States,Mar 2014,3 hours,1 week,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,"$1,000","$1,875","$2,500",7 days,10 days,14 days,3,3,3,5.0,6,United States,Jun 2021,1 hour,1 month,"English, Spanish",1 order in queue,False
+Photography,lifestyle-fashion-photographers,level 2,54,$60,$250,$400,14 days,14 days,14 days,0,0,0,4.9,119,United Kingdom,Apr 2022,2 hours,1 day,English,14 orders in queue,False
+Photography,lifestyle-fashion-photographers,level 2,54,$250,$400,$750,30 days,30 days,30 days,-1,-1,-1,5.0,15,United States,Oct 2019,1 hour,1 day,"English, Russian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$100,$150,$250,3 days,3 days,3 days,3,3,3,5.0,149,United Kingdom,Oct 2018,1 hour,2 weeks,"English, French, German, Spanish",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$50,$420,$490,3 days,6 days,7 days,1,1,1,4.8,4,United States,May 2018,2 hours,about 20 hours,"English, Russian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$100,$140,$180,4 days,5 days,7 days,0,0,0,4.3,4,Spain,Sep 2017,1 hour,6 days,"English, Spanish",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$250,$400,$550,30 days,30 days,30 days,-1,-1,-1,5.0,1,United States,Oct 2019,1 hour,1 day,"English, Russian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$250,$250,$250,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,1,United Arab Emirates,Sep 2021,1 hour,1 week,"Urdu, Hindi, Punjabi, English",N/A,True
+Photography,lifestyle-fashion-photographers,level 2,54,$200,$200,$200,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,30,United Arab Emirates,Sep 2021,1 hour,1 week,"Urdu, Hindi, Punjabi, English",N/A,True
+Photography,lifestyle-fashion-photographers,level 2,54,$400,$750,"$1,400",14 days,21 days,30 days,1,1,1,5.0,2,Canada,Jan 2014,4 hours,1 month,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$485,$675,$890,10 days,10 days,10 days,1,1,1,5.0,4,France,Nov 2022,3 hours,1 week,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$400,$800,"$1,600",7 days,10 days,14 days,1,1,1,4.7,31,Lithuania,Mar 2020,1 hour,1 month,"English, Lithuanian, Russian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$500,$750,$810,7 days,7 days,7 days,1,1,1,5.0,3,Ukraine,Mar 2021,2 hours,2 days,"English, Polish, French, German",1 order in queue,False
+Photography,lifestyle-fashion-photographers,level 2,54,€293.30,€537.72,€733.25,30 days,30 days,30 days,-1,-1,-1,5.0,39,United States,Oct 2019,1 hour,1 day,"English, Russian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$875,"$1,125","$2,525",7 days,10 days,21 days,0,0,0,4.8,52,Thailand,Sep 2017,1 hour,4 weeks,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$650,$850,"$1,450",7 days,7 days,10 days,-1,-1,-1,5.0,1,Turkey,Dec 2020,1 hour,1 day,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$100,$200,$300,5 days,5 days,7 days,-1,-1,-1,5.0,15,United Kingdom,Mar 2022,1 hour,4 weeks,"English, Japanese",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,US$500,US$750,US$810,7 days,7 days,7 days,1,1,1,5.0,3,Ukraine,Mar 2021,2 hours,2 days,"English, Polish, French, German",1 order in queue,False
+Photography,lifestyle-fashion-photographers,level 2,54,$100,$150,$220,7 days,7 days,7 days,1,1,1,5.0,27,United States,Mar 2019,8 hours,1 day,"English, Spanish",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$50,$150,$350,2 days,3 days,5 days,1,1,1,5.0,2,China,Mar 2021,2 hours,3 weeks,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,"$1,075","$2,050","$3,850",21 days,21 days,21 days,0,0,0,5.0,12,Thailand,Sep 2017,1 hour,4 weeks,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$150,$250,$350,7 days,5 days,5 days,-1,-1,-1,5.0,1,United States,Oct 2020,1 hour,2 days,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$150,$200,$250,3 days,5 days,5 days,1,1,1,5.0,6,Hungary,Jan 2018,3 hours,2 months,"English, Hungarian, Romanian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$200,$300,$420,6 days,6 days,6 days,1,1,1,5.0,28,Turkey,Dec 2020,1 hour,1 day,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$600,$850,"$1,100",10 days,10 days,10 days,0,0,0,5.0,2,Turkey,Dec 2020,1 hour,1 day,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$100,$120,$400,5 days,5 days,5 days,1,1,2,5.0,6,United States,Oct 2021,2 hours,4 days,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$200,$300,$420,6 days,6 days,6 days,1,1,1,5.0,28,Turkey,Dec 2020,1 hour,1 day,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$105,$365,$575,7 days,7 days,10 days,1,1,2,5.0,15,United States,Dec 2014,1 hour,2 days,English,6 orders in queue,False
+Photography,lifestyle-fashion-photographers,level 2,54,$140,$260,$360,4 days,4 days,4 days,-1,-1,-1,4.8,3,Spain,Jun 2017,1 hour,2 weeks,"English, Spanish, Chinese",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$400,$600,$800,5 days,7 days,10 days,2,2,2,5.0,1,United Kingdom,Mar 2022,1 hour,4 weeks,"English, Japanese",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$150,$150,$150,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,30,United Arab Emirates,Sep 2021,1 hour,1 week,"Urdu, Hindi, Punjabi, English",N/A,True
+Photography,lifestyle-fashion-photographers,level 2,54,$60,$125,$250,14 days,14 days,21 days,0,0,0,5.0,19,United Kingdom,Apr 2022,2 hours,1 day,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$50Save up to 15% with Subscribe to Save,$50Save up to 15% with Subscribe to Save,$50Save up to 15% with Subscribe to Save,3-day delivery,3-day delivery,3-day delivery,1 Revision,1 Revision,1 Revision,5.0,21,Romania,Feb 2023,2 hours,about 18 hours,"English, Romanian",N/A,True
+Photography,lifestyle-fashion-photographers,level 2,54,$950,"$1,425","$1,900",21 days,21 days,21 days,1,1,1,4.9,30,Thailand,Sep 2017,1 hour,4 weeks,English,N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$60,$250,$400,14 days,14 days,14 days,0,0,0,4.9,119,United Kingdom,Apr 2022,2 hours,1 day,English,14 orders in queue,False
+Photography,lifestyle-fashion-photographers,level 2,54,$50,$55,$60,10 days,7 days,7 days,0,1,1,4.9,22,Argentina,Feb 2016,8 hours,1 week,"English, Spanish",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$50,$100,$200,2 days,2 days,2 days,1,1,1,5.0,2,United States,May 2021,2 hours,3 months,"English, Russian, Ukrainian",N/A,False
+Photography,lifestyle-fashion-photographers,level 2,54,$130,$300,$600,4 days,5 days,7 days,1,1,1,5.0,4,United States,Jul 2022,4 hours,1 week,English,N/A,False

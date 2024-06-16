@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Data,data-analactics,level 2,461,$30,$30,$30,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,15,Pakistan,N/A,N/A,N/A,"I speak English, Hindi, Urdu",N/A,True
+Data,data-analactics,level 2,461,$30,$150,$250,1 day,2 days,4 days,1,3,Unlimited,4.9,74,Bangladesh,N/A,N/A,N/A,"I speak Bengali, English, Hindi, Urdu",N/A,False
+Data,data-analactics,level 2,461,$35,$600,"$1,200",4 days,4 days,6 days,1,2,2,4.9,39,India,N/A,N/A,N/A,"I speak Hindi, Gujarati, English",N/A,False
+Data,data-analactics,level 2,461,$85,$165,$295,2 days,4 days,7 days,1,2,3,5.0,44,Italy,N/A,N/A,N/A,"I speak English, Italian, French, Chinese",N/A,False
+Data,data-analactics,level 2,461,$100,$180,$300,2 days,3 days,5 days,2,3,4,5.0,5,Ghana,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$80,$125,$225,3 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.9,162,United States,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$60,$110,$145,2 days,3 days,5 days,-1,-1,-1,4.9,26,United Kingdom,N/A,N/A,N/A,"I speak English, Italian",N/A,False
+Data,data-analactics,level 2,461,$25,$40,$50,2 days,3 days,4 days,1,2,3,5.0,30,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-analactics,level 2,461,$5,$10,$15,1 day,1 day,2 days,2,4,Unlimited,5.0,590,Bangladesh,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$30,$200,$500,1 day,3 days,14 days,0,2,Unlimited,5.0,14,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, German, Arabic",N/A,False
+Data,data-analactics,level 2,461,$100,$175,$250,3 days,3 days,2 days,-1,-1,-1,5.0,30,United Kingdom,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$200,$280,$400,4 days,5 days,7 days,Unlimited,Unlimited,Unlimited,5.0,9,Pakistan,N/A,N/A,N/A,"I speak English, French, Spanish, German",N/A,False
+Data,data-analactics,level 2,461,$50,$100,$130,1 day,1 day,1 day,-1,-1,-1,5.0,31,Pakistan,N/A,N/A,N/A,"I speak English, French, German, Spanish",N/A,False
+Data,data-analactics,level 2,461,$50,$150,$350,3 days,7 days,14 days,1,1,1,5.0,29,Germany,N/A,N/A,N/A,"I speak English, German",N/A,False
+Data,data-analactics,level 2,461,"$1,000","$1,500","$2,000",7 days,7 days,7 days,-1,-1,-1,4.9,4,Kenya,N/A,N/A,N/A,"I speak English, Swahili",N/A,False
+Data,data-analactics,level 2,461,$50,$80,$200,1 day,3 days,5 days,2,4,7,4.9,95,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Data,data-analactics,level 2,461,$15,$90,$200,1 day,1 day,4 days,-1,-1,-1,4.9,19,Morocco,N/A,N/A,N/A,"I speak English, Arabic, French, Spanish",N/A,False
+Data,data-analactics,level 2,461,$40,$80,$150,1 day,2 days,2 days,1,1,2,4.9,13,Bangladesh,N/A,N/A,N/A,"I speak Bengali, English, Hindi, Urdu",N/A,False
+Data,data-analactics,level 2,461,$100,$320,"$1,875",3 days,7 days,21 days,-1,-1,-1,5.0,2,Albania,N/A,N/A,N/A,"I speak English, Italian",N/A,False
+Data,data-analactics,level 2,461,$35,$50,$80,2 days,3 days,5 days,-1,-1,-1,N/A,N/A,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$50,$150,$200,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,21,Turkey,N/A,N/A,N/A,"I speak English, Amharic, Turkish",N/A,False
+Data,data-analactics,level 2,461,$100,$180,$300,2 days,3 days,5 days,2,3,4,5.0,5,Ghana,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$10,$45,$100,3 days,3 days,3 days,2,2,2,5.0,4,India,N/A,N/A,N/A,"I speak Hindi, Gujarati, English",N/A,False
+Data,data-analactics,level 2,461,$100,$130,$180,3 days,3 days,3 days,-1,-1,-1,4.9,81,United Kingdom,N/A,N/A,N/A,"I speak English, Persian",N/A,False
+Data,data-analactics,level 2,461,$10,$15,$30,2 days,2 days,3 days,1,1,Unlimited,4.8,47,Pakistan,N/A,N/A,N/A,"I speak Punjabi, Urdu, English",N/A,False
+Data,data-analactics,level 2,461,$75,$150,$300,3 days,5 days,7 days,-1,-1,-1,5.0,10,Italy,N/A,N/A,N/A,"I speak English, Italian, French, Chinese",N/A,False
+Data,data-analactics,level 2,461,$50,$130,$185,2 days,3 days,5 days,1,1,2,4.9,55,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, Hindi",N/A,False
+Data,data-analactics,level 2,461,$80,$150,$300,2 days,3 days,5 days,-1,-1,-1,5.0,15,Ghana,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$25,$35,$50,2 days,3 days,3 days,1,1,1,5.0,7,Bangladesh,N/A,N/A,N/A,"I speak Bengali, English, Hindi",N/A,False
+Data,data-analactics,level 2,461,$100,$150,$230,3 days,6 days,10 days,1,1,1,5.0,49,Mexico,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Data,data-analactics,level 2,461,$200,$300,$500,2 days,3 days,5 days,-1,-1,-1,4.8,136,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$60,$120,$200,1 day,1 day,2 days,1,2,Unlimited,5.0,32,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, German, Portuguese",N/A,False
+Data,data-analactics,level 2,461,$20,$150,$300,1 day,2 days,4 days,2,3,3,N/A,N/A,Morocco,N/A,N/A,N/A,"I speak English, Arabic, French, Spanish",N/A,False
+Data,data-analactics,level 2,461,$75,$150,$300,3 days,5 days,7 days,-1,-1,-1,5.0,10,Italy,N/A,N/A,N/A,"I speak English, Italian, French, Chinese",N/A,False
+Data,data-analactics,level 2,461,$50,$200,$450,1 day,7 days,10 days,-1,-1,-1,4.7,8,Pakistan,N/A,N/A,N/A,"I speak English, French, German",N/A,False
+Data,data-analactics,level 2,461,$50,$100,$130,1 day,1 day,1 day,-1,-1,-1,5.0,13,Pakistan,N/A,N/A,N/A,"I speak English, French, German, Spanish",N/A,False
+Data,data-analactics,level 2,461,$150Save up to 5% with Subscribe to Save,$150Save up to 5% with Subscribe to Save,$150Save up to 5% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,5 Revisions,5 Revisions,5 Revisions,5.0,19,Nigeria,N/A,N/A,N/A,I speak English,N/A,True
+Data,data-analactics,level 2,461,$30,$30,$30,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,15,Pakistan,N/A,N/A,N/A,"I speak English, Hindi, Urdu",N/A,True
+Data,data-analactics,level 2,461,$50,$125,$250,2 days,4 days,6 days,-1,-1,-1,5.0,24,Ghana,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$150Save up to 5% with Subscribe to Save,$150Save up to 5% with Subscribe to Save,$150Save up to 5% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,5 Revisions,5 Revisions,5 Revisions,5.0,19,Nigeria,N/A,N/A,N/A,I speak English,N/A,True
+Data,data-analactics,level 2,461,$25,$100,$255,2 days,4 days,14 days,-1,-1,-1,5.0,16,Germany,N/A,N/A,N/A,"I speak English, German",N/A,False
+Data,data-analactics,level 2,461,$80,$150,$230,1 day,2 days,3 days,0,0,0,5.0,31,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$100,$150,$230,3 days,6 days,10 days,1,1,1,5.0,49,Mexico,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Data,data-analactics,level 2,461,$100,$250,$400,2 days,3 days,3 days,-1,-1,-1,5.0,13,Netherlands,N/A,N/A,N/A,"I speak English, Dutch",N/A,False
+Data,data-analactics,level 2,461,$50,$150,$200,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,21,Turkey,N/A,N/A,N/A,"I speak English, Amharic, Turkish",N/A,False
+Data,data-analactics,level 2,461,$200,$500,$800,3 days,4 days,7 days,2,3,4,4.6,69,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Data,data-analactics,level 2,461,$200,$300,$500,2 days,3 days,5 days,-1,-1,-1,4.8,136,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Data,data-analactics,level 2,461,$80,$125,$225,3 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.9,162,United States,N/A,N/A,N/A,I speak English,N/A,False

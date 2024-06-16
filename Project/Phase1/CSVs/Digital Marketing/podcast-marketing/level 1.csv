@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Digital Marketing,podcast-marketing,level 1,89,$100,$100,$100,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,5.0,13,United States,N/A,N/A,N/A,I speak English,N/A,True
+Digital Marketing,podcast-marketing,level 1,89,$30,$60,$300,1 day,2 days,3 days,-1,-1,-1,5.0,5,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$50,$50,$50,6-day delivery,6-day delivery,6-day delivery,-1,-1,-1,5.0,5,United Arab Emirates,N/A,N/A,N/A,"I speak English, Arabic, French, Spanish",N/A,True
+Digital Marketing,podcast-marketing,level 1,89,$10,$60,$110,3 days,7 days,14 days,-1,-1,-1,4.4,101,Bangladesh,N/A,N/A,N/A,"I speak Bengali, English, Spanish",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$75,$85,$90,5 days,4 days,4 days,-1,-1,-1,4.9,62,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$40,$60,$80,7 days,7 days,7 days,-1,-1,-1,4.9,126,United Kingdom,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$100,$150,$200,3 days,3 days,3 days,-1,-1,-1,5.0,176,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$20,$30,$75,2 days,3 days,5 days,-1,-1,-1,4.8,502,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,€9.78,€63.55,€127.10,3 days,7 days,14 days,-1,-1,-1,4.4,137,Malaysia,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$5,$10,$15,7 days,7 days,7 days,-1,-1,-1,5.0,11,United Kingdom,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,€34.22,€44,€87.99,7 days,7 days,7 days,-1,-1,-1,5.0,90,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,£16.48,£82.40,£329.59,1 day,1 day,2 days,-1,-1,-1,5.0,3,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$300,$600,"$1,000",7 days,10 days,10 days,-1,-1,-1,5.0,5,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$150,$150,$150,30-day delivery,30-day delivery,30-day delivery,-1,-1,-1,5.0,2,United Arab Emirates,N/A,N/A,N/A,"I speak English, Arabic, French, Spanish",N/A,True
+Digital Marketing,podcast-marketing,level 1,89,$125,$250,$275,7 days,7 days,7 days,-1,-1,-1,5.0,26,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$10,$25,$80,2 days,3 days,5 days,-1,-1,-1,4.9,13,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$100,$100,$100,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,5.0,13,United States,N/A,N/A,N/A,I speak English,N/A,True
+Digital Marketing,podcast-marketing,level 1,89,$80,$105,$140,5 days,4 days,4 days,-1,-1,-1,4.9,566,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,US$30,US$50,US$100,1 day,2 days,3 days,-1,-1,-1,4.8,37,Bangladesh,N/A,N/A,N/A,"I speak English, Bengali, Korean",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,£20.60,£28.84,£41.20,7 days,7 days,7 days,-1,-1,-1,5.0,385,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$10,$100,$300,2 days,10 days,29 days,-1,-1,-1,4.8,8,Bangladesh,N/A,N/A,N/A,"I speak Hindi, Bengali, English",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$50,$75,$100,2 days,2 days,2 days,-1,-1,-1,4.9,11,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$35,$45,$90,7 days,7 days,7 days,-1,-1,-1,5.0,90,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$100,$150,$200,3 days,3 days,3 days,-1,-1,-1,5.0,176,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$115,$165,$370,7 days,7 days,7 days,-1,-1,-1,5.0,20,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$5,$10,$20,30 days,60 days,90 days,-1,-1,-1,4.9,94,United Kingdom,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$70,$200,$360,4 days,3 days,3 days,-1,-1,-1,4.7,28,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$25,$45,$75,4 days,4 days,4 days,-1,-1,-1,5.0,163,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$5,$15,$25,1 day,2 days,2 days,-1,-1,-1,5.0,47,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$250,$500,$800,7 days,14 days,30 days,-1,-1,-1,5.0,1,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$75,$110,$135,4 days,4 days,4 days,-1,-1,-1,4.9,42,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$25,$65,$275,1 day,3 days,45 days,-1,-1,-1,4.9,15,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$20,$30,$75,2 days,3 days,6 days,-1,-1,-1,4.6,"4,795",United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,€78.21Save up to 10% with Subscribe to Save,€78.21Save up to 10% with Subscribe to Save,€78.21Save up to 10% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,8,United States,N/A,N/A,N/A,I speak English,N/A,True
+Digital Marketing,podcast-marketing,level 1,89,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,5,Pakistan,N/A,N/A,N/A,"I speak English, German, French, Spanish",N/A,True
+Digital Marketing,podcast-marketing,level 1,89,$75,$115,$150,7 days,7 days,7 days,-1,-1,-1,5.0,29,Singapore,N/A,N/A,N/A,"I speak English, Chinese",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$80Save up to 10% with Subscribe to Save,$80Save up to 10% with Subscribe to Save,$80Save up to 10% with Subscribe to Save,14-day delivery,14-day delivery,14-day delivery,-1,-1,-1,5.0,44,United States,N/A,N/A,N/A,I speak English,N/A,True
+Digital Marketing,podcast-marketing,level 1,89,$75,$100,$150,5 days,6 days,7 days,-1,-1,-1,5.0,3,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$15,$30,$85,3 days,4 days,5 days,-1,-1,-1,5.0,18,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$5,$15,$25,1 day,2 days,2 days,-1,-1,-1,5.0,47,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$5,$10,$15,2 days,3 days,4 days,-1,-1,-1,5.0,16,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$25,$45,$75,10 days,10 days,10 days,-1,-1,-1,4.9,37,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,£20.60,£20.60,£20.60,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,1,Ireland,N/A,N/A,N/A,I speak English,N/A,True
+Digital Marketing,podcast-marketing,level 1,89,€78.21,€102.66,€136.87,5 days,4 days,4 days,-1,-1,-1,4.9,566,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,€9.78,€53.77,€215.09,2 days,7 days,30 days,-1,-1,-1,4.6,18,Bangladesh,N/A,N/A,N/A,"I speak Bengali, English",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,€9.78,€19.55,€97.77,2 days,7 days,14 days,-1,-1,-1,4.8,19,United Arab Emirates,N/A,N/A,N/A,"I speak English, Arabic, French, Spanish",N/A,False
+Digital Marketing,podcast-marketing,level 1,89,€24.44,€34.22,€48.88,7 days,7 days,7 days,-1,-1,-1,5.0,385,United States,N/A,N/A,N/A,I speak English,N/A,False
+Digital Marketing,podcast-marketing,level 1,89,$20,$30,$75,2 days,3 days,6 days,-1,-1,-1,4.6,"4,795",United States,N/A,N/A,N/A,I speak English,N/A,False

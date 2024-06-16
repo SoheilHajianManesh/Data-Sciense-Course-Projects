@@ -1,0 +1,36 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Photography,food-photographers,level 2,29,$50,$60,$70,5 days,5 days,5 days,1,1,1,5.0,3,Australia,Jun 2023,2 hours,4 days,English,2 orders in queue,False
+Photography,food-photographers,level 2,29,$100,$190,$270,3 days,4 days,5 days,2,2,3,5.0,101,Ecuador,Apr 2020,1 hour,3 days,"English, Spanish",N/A,False
+Photography,food-photographers,level 2,29,$40,$80,$200,5 days,5 days,10 days,-1,-1,-1,5.0,150,Bulgaria,Mar 2020,1 hour,2 months,"English, Bulgarian, French",N/A,False
+Photography,food-photographers,level 2,29,$90,$365,$640,4 days,6 days,7 days,1,2,3,5.0,15,United Kingdom,Nov 2021,8 hours,3 days,English,1 order in queue,False
+Photography,food-photographers,level 2,29,$110,$220,$330,10 days,10 days,10 days,1,1,1,4.0,1,United Kingdom,Jul 2021,4 hours,1 week,English,N/A,False
+Photography,food-photographers,level 2,29,$350,$650,$850,14 days,14 days,14 days,0,0,0,5.0,1,United Kingdom,Jul 2021,4 hours,1 week,English,N/A,False
+Photography,food-photographers,level 2,29,$40,$60,$90,4 days,4 days,7 days,1,1,1,4.9,47,Ukraine,Apr 2021,1 hour,1 week,"Ukrainian, Russian, English",N/A,False
+Photography,food-photographers,level 2,29,$90,$365,$640,4 days,6 days,7 days,1,2,3,4.8,5,United Kingdom,Nov 2021,8 hours,3 days,English,N/A,False
+Photography,food-photographers,level 2,29,$150,$295,$595,10 days,14 days,14 days,1,1,1,5.0,89,Germany,Jan 2021,5 hours,3 days,"English, Ukrainian, German",1 order in queue,False
+Photography,food-photographers,level 2,29,$45,$80,$230,10 days,10 days,14 days,-1,-1,-1,4.8,32,Germany,Jan 2021,5 hours,3 days,"English, Ukrainian, German",1 order in queue,False
+Photography,food-photographers,level 2,29,$250,$400,$700,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,4,United Kingdom,May 2018,1 hour,about 16 hours,"Portuguese, Spanish, German, English",N/A,False
+Photography,food-photographers,level 2,29,$150,$295,$595,10 days,14 days,14 days,1,1,1,5.0,89,Germany,Jan 2021,5 hours,3 days,"English, Ukrainian, German",1 order in queue,False
+Photography,food-photographers,level 2,29,$110,$220,$330,10 days,10 days,10 days,1,1,1,4.0,1,United Kingdom,Jul 2021,4 hours,1 week,English,N/A,False
+Photography,food-photographers,level 2,29,$55,$150,$250,5 days,7 days,14 days,1,1,1,4.9,71,Egypt,Jun 2021,1 hour,6 days,"English, French, Arabic",N/A,False
+Photography,food-photographers,level 2,29,$100,$190,$270,4 days,6 days,7 days,2,2,3,5.0,4,Ecuador,Apr 2020,1 hour,3 days,"English, Spanish",N/A,False
+Photography,food-photographers,level 2,29,$50,$60,$70,5 days,5 days,5 days,1,1,1,5.0,3,Australia,Jun 2023,2 hours,4 days,English,2 orders in queue,False
+Photography,food-photographers,level 2,29,$45,$50,$75,5 days,7 days,14 days,1,1,1,5.0,4,Egypt,Jun 2021,1 hour,6 days,"English, French, Arabic",N/A,False
+Photography,food-photographers,level 2,29,$40,$50,$65,10 days,10 days,10 days,-1,-1,-1,5.0,21,Ukraine,Sep 2021,1 hour,1 day,"English, Russian",N/A,False
+Photography,food-photographers,level 2,29,$45,$55,$75,5 days,5 days,7 days,1,1,1,5.0,2,Egypt,Jun 2021,1 hour,6 days,"English, French, Arabic",N/A,False
+Photography,food-photographers,level 2,29,$40,$70,$180,3 days,5 days,10 days,-1,-1,-1,5.0,229,Bulgaria,Mar 2020,1 hour,2 months,"English, Bulgarian, French",N/A,False
+Photography,food-photographers,level 2,29,$90,$150,$250,4 days,6 days,10 days,1,2,2,4.6,137,Sri Lanka,Sep 2014,6 hours,3 weeks,"English, Japanese",N/A,False
+Photography,food-photographers,level 2,29,$300,$600,$900,3 days,7 days,7 days,1,1,1,4.9,63,United States,Feb 2018,1 hour,1 day,English,N/A,False
+Photography,food-photographers,level 2,29,$90,$365,$640,4 days,6 days,7 days,1,2,3,5.0,15,United Kingdom,Nov 2021,8 hours,3 days,English,1 order in queue,False
+Photography,food-photographers,level 2,29,$60,$90,$160,4 days,6 days,7 days,0,0,0,5.0,1,China,Jul 2019,1 hour,1 week,English,N/A,False
+Photography,food-photographers,level 2,29,$65,$100,$190,7 days,7 days,10 days,0,0,0,5.0,73,Australia,Jul 2021,2 hours,5 days,English,N/A,False
+Photography,food-photographers,level 2,29,$70,$120,$125,10 days,10 days,10 days,-1,-1,-1,4.9,133,Germany,Jan 2021,5 hours,3 days,"English, Ukrainian, German",N/A,False
+Photography,food-photographers,level 2,29,$75,$125,$250,5 days,7 days,7 days,1,1,1,5.0,1,United States,Mar 2021,5 hours,2 weeks,"English, Russian, Ukrainian",N/A,False
+Photography,food-photographers,level 2,29,$40,$55,$70,2 days,2 days,3 days,1,2,3,4.9,52,Pakistan,Jul 2016,1 hour,1 week,"English, German, Portuguese, Spanish",N/A,False
+Photography,food-photographers,level 2,29,€44,€58.66,€78.21,5 days,5 days,5 days,1,1,1,5.0,85,United States,Oct 2021,2 hours,4 days,English,N/A,False
+Photography,food-photographers,level 2,29,$45,$80,$230,10 days,10 days,14 days,-1,-1,-1,4.8,32,Germany,Jan 2021,5 hours,3 days,"English, Ukrainian, German",1 order in queue,False
+Photography,food-photographers,level 2,29,$350,$650,$850,14 days,14 days,14 days,0,0,0,5.0,1,United Kingdom,Jul 2021,4 hours,1 week,English,N/A,False
+Photography,food-photographers,level 2,29,$65,$70,$180,5 days,5 days,10 days,-1,-1,-1,4.9,37,Bulgaria,Mar 2020,1 hour,2 months,"English, Bulgarian, French",N/A,False
+Photography,food-photographers,level 2,29,$100,$170,$230,1 day,1 day,1 day,2,2,2,5.0,66,Philippines,Mar 2020,5 hours,1 day,"English, Tagalog",N/A,False
+Photography,food-photographers,level 2,29,$275,$500,"$1,250",7 days,7 days,7 days,1,1,2,5.0,2,Canada,Jun 2018,1 hour,3 months,English,N/A,False
+Photography,food-photographers,level 2,29,$40,$80,$200,4 days,5 days,10 days,-1,-1,-1,5.0,6,Bulgaria,Mar 2020,1 hour,2 months,"English, Bulgarian, French",N/A,False

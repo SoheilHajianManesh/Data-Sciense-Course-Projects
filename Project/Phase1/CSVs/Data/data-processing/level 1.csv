@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Data,data-processing,level 1,923,$10,$25,$120,1 day,2 days,5 days,-1,-1,-1,4.3,11,Pakistan,Oct 2021,1 hour,about 9 hours,English,3 orders in queue,False
+Data,data-processing,level 1,923,$15,$30,$60,1 day,3 days,5 days,-1,-1,-1,5.0,6,Pakistan,Mar 2022,1 hour,1 day,"Urdu, English",6 orders in queue,False
+Data,data-processing,level 1,923,$10,$30,$50,3 days,3 days,3 days,3,5,7,5.0,53,India,Jul 2021,1 hour,1 day,"Hindi, English",N/A,False
+Data,data-processing,level 1,923,$20,$90,$200,2 days,3 days,7 days,Unlimited,Unlimited,Unlimited,5.0,88,Pakistan,Dec 2022,1 hour,3 days,English,4 orders in queue,False
+Data,data-processing,level 1,923,$25,$60,$125,2 days,2 days,3 days,-1,-1,-1,4.8,300,Pakistan,May 2018,1 hour,about 23 hours,"Urdu, English",N/A,False
+Data,data-processing,level 1,923,$10,$20,$40,1 day,2 days,5 days,1,2,4,5.0,66,France,Apr 2021,1 hour,1 day,"English, French, Arabic",1 order in queue,False
+Data,data-processing,level 1,923,$100,$100,$100,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,4.9,141,Spain,Apr 2019,14 hours,4 weeks,"English, Spanish, French, German",1 order in queue,True
+Data,data-processing,level 1,923,$15,$150,$300,1 day,3 days,4 days,Unlimited,Unlimited,Unlimited,4.9,31,Pakistan,Sep 2020,1 hour,about 13 hours,"Urdu, Hindi, English",N/A,False
+Data,data-processing,level 1,923,$15,$30,$70,2 days,3 days,5 days,1,1,2,5.0,5,Pakistan,May 2023,1 hour,about 23 hours,"Urdu, English, German, Russian",N/A,False
+Data,data-processing,level 1,923,$25,$150,$300,2 days,3 days,4 days,-1,-1,-1,4.9,287,Pakistan,Sep 2020,1 hour,about 19 hours,"Urdu, English",1 order in queue,False
+Data,data-processing,level 1,923,$5,$20,$30,1 day,3 days,4 days,2,2,2,4.9,29,Venezuela,Oct 2022,1 hour,2 days,"English, Spanish, Italian",1 order in queue,False
+Data,data-processing,level 1,923,$15,$30,$60,1 day,3 days,5 days,-1,-1,-1,5.0,6,Pakistan,Mar 2022,1 hour,1 day,"Urdu, English",6 orders in queue,False
+Data,data-processing,level 1,923,$10,$25,$120,1 day,2 days,5 days,-1,-1,-1,4.3,11,Pakistan,Oct 2021,1 hour,about 9 hours,English,3 orders in queue,False
+Data,data-processing,level 1,923,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,37,Bangladesh,Sep 2017,3 hours,3 weeks,English,N/A,True
+Data,data-processing,level 1,923,$25,$60,$125,2 days,2 days,2 days,-1,-1,-1,4.8,200,Pakistan,May 2018,1 hour,about 23 hours,"Urdu, English",1 order in queue,False
+Data,data-processing,level 1,923,$20,$50,$100,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,36,Pakistan,Jun 2023,1 hour,about 4 hours,"Punjabi, English, Urdu",2 orders in queue,False
+Data,data-processing,level 1,923,$5,$10,$20,1 day,2 days,3 days,2,3,4,4.8,7,Pakistan,Jul 2022,1 hour,about 10 hours,"Urdu, Punjabi, English",N/A,False
+Data,data-processing,level 1,923,$20,$60,$100,4 days,5 days,7 days,1,2,3,5.0,20,Pakistan,Dec 2015,1 hour,about 7 hours,"English, French, Portuguese, Spanish",1 order in queue,False
+Data,data-processing,level 1,923,CA$21.64,CA$28.85,CA$72.13,1 day,2 days,4 days,3,3,5,4.9,58,Pakistan,Mar 2023,5 hours,1 day,English,3 orders in queue,False
+Data,data-processing,level 1,923,$10,$30,$60,1 day,3 days,7 days,2,2,2,5.0,9,India,Feb 2023,8 days,4 days,"Telugu, English",1 order in queue,False
+Data,data-processing,level 1,923,$10,$20,$30,1 day,2 days,4 days,1,2,4,4.9,416,Pakistan,Apr 2022,1 hour,about 21 hours,"English, French",5 orders in queue,False
+Data,data-processing,level 1,923,$5,$35,$75,1 day,3 days,4 days,Unlimited,Unlimited,Unlimited,4.7,31,Pakistan,Sep 2023,1 hour,about 22 hours,"Urdu, English",3 orders in queue,False
+Data,data-processing,level 1,923,$10,$20,$35,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,4.9,45,Morocco,Dec 2016,1 hour,1 month,"English, French",N/A,False
+Data,data-processing,level 1,923,$10,$35,$75,1 day,3 days,5 days,2,3,Unlimited,4.6,11,Pakistan,Aug 2023,1 hour,about 10 hours,English,1 order in queue,False
+Data,data-processing,level 1,923,$20,$60,$100,4 days,5 days,7 days,0,1,3,5.0,5,Pakistan,Dec 2015,1 hour,about 7 hours,"English, French, Portuguese, Spanish",2 orders in queue,False
+Data,data-processing,level 1,923,$10,$20,$50,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,4.8,22,Austria,Sep 2023,4 hours,5 days,"English, German, Croatian",N/A,False
+Data,data-processing,level 1,923,$10,$30,$80,2 days,2 days,4 days,2,Unlimited,Unlimited,5.0,7,Bangladesh,Oct 2020,1 hour,3 days,"Bengali, Hindi, English, German",2 orders in queue,False
+Data,data-processing,level 1,923,$20,$60,$100,4 days,5 days,7 days,1,2,3,5.0,20,Pakistan,Dec 2015,1 hour,about 7 hours,"English, French, Portuguese, Spanish",1 order in queue,False
+Data,data-processing,level 1,923,$10,$35,$60,1 day,2 days,4 days,3,5,Unlimited,4.5,38,Pakistan,Mar 2023,1 hour,about 3 hours,"Urdu, English",N/A,False
+Data,data-processing,level 1,923,$10,$40,$75,1 day,2 days,3 days,3,5,Unlimited,4.9,322,Pakistan,Jan 2022,1 hour,1 day,English,3 orders in queue,False
+Data,data-processing,level 1,923,$5,$10,$30,1 day,2 days,3 days,3,4,5,5.0,22,Pakistan,Feb 2021,1 hour,1 day,"Urdu, English",N/A,False
+Data,data-processing,level 1,923,$10,$30,$60,1 day,3 days,7 days,2,2,2,4.7,33,India,Feb 2023,2 hours,1 week,"English, Telugu",5 orders in queue,False
+Data,data-processing,level 1,923,$15,$50,$150,2 days,3 days,7 days,3,3,3,5.0,27,Pakistan,May 2022,1 hour,3 weeks,"English, Urdu, Punjabi, Sindhi",N/A,False
+Data,data-processing,level 1,923,$5,$20,$30,1 day,3 days,4 days,2,2,2,4.9,29,Venezuela,Oct 2022,1 hour,2 days,"English, Spanish, Italian",1 order in queue,False
+Data,data-processing,level 1,923,$10,$30,$60,1 day,2 days,3 days,1,2,2,5.0,7,India,Feb 2023,1 hour,4 days,"Hindi, English",N/A,False
+Data,data-processing,level 1,923,$10,$35,$70,1 day,2 days,4 days,2,3,Unlimited,4.8,140,Pakistan,Aug 2022,1 hour,4 days,English,3 orders in queue,False
+Data,data-processing,level 1,923,$5,$20,$40,1 day,1 day,2 days,-1,-1,-1,5.0,12,Pakistan,Jan 2023,1 hour,6 days,"English, Urdu, Spanish",1 order in queue,False
+Data,data-processing,level 1,923,$10,$50,$80,1 day,3 days,6 days,3,3,3,5.0,51,Pakistan,Feb 2024,1 hour,3 days,English,4 orders in queue,False
+Data,data-processing,level 1,923,$45Save up to 20% with Subscribe to Save,$45Save up to 20% with Subscribe to Save,$45Save up to 20% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.9,479,Pakistan,May 2016,1 hour,about 11 hours,"English, Urdu",2 orders in queue,True
+Data,data-processing,level 1,923,$10,$20,$30,1 day,2 days,2 days,Unlimited,Unlimited,Unlimited,4.9,141,Pakistan,Jul 2019,1 hour,1 day,"Urdu, English, Spanish, French",2 orders in queue,False
+Data,data-processing,level 1,923,$10,$35,$65,1 day,2 days,4 days,2,3,Unlimited,4.9,30,Pakistan,Aug 2022,N/A,5 months,"Italian, Spanish, English",N/A,False
+Data,data-processing,level 1,923,$10,$40,$75,1 day,2 days,3 days,3,5,Unlimited,4.9,322,Pakistan,Jan 2022,1 hour,1 day,English,3 orders in queue,False
+Data,data-processing,level 1,923,$15Save up to 20% with Subscribe to Save,$15Save up to 20% with Subscribe to Save,$15Save up to 20% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,4.8,22,Pakistan,May 2017,1 hour,3 weeks,"English, Urdu",N/A,True
+Data,data-processing,level 1,923,$10,$50,$80,1 day,2 days,4 days,2,5,Unlimited,4.9,19,Pakistan,Feb 2024,1 hour,about 7 hours,"Urdu, English, Spanish",5 orders in queue,False
+Data,data-processing,level 1,923,$5,$10,$30,1 day,2 days,3 days,3,4,5,5.0,22,Pakistan,Feb 2021,1 hour,1 day,"Urdu, English",N/A,False
+Data,data-processing,level 1,923,$5,$20,$40,1 day,1 day,2 days,3,3,5,4.8,103,Pakistan,Jun 2023,1 hour,about 5 hours,"Urdu, English, Spanish",2 orders in queue,False
+Data,data-processing,level 1,923,$10,$30,$60,1 day,3 days,7 days,2,2,2,4.7,33,India,Feb 2023,2 hours,1 week,"English, Telugu",5 orders in queue,False
+Data,data-processing,level 1,923,$15,$40,$80,1 day,2 days,4 days,2,5,8,5.0,24,Pakistan,May 2021,1 hour,4 days,"Urdu, English, Spanish, French",N/A,False

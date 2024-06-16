@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Business,legal-consulting-services,top rated seller,336,$125,$125,$125,14-day delivery,14-day delivery,14-day delivery,-1,-1,-1,5.0,148,United Kingdom,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,top rated seller,336,$335,$375,$405,21 days,21 days,21 days,-1,-1,-1,5.0,131,United Kingdom,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$300,$550,$750,3 days,4 days,4 days,-1,-1,-1,4.9,758,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$175,$295,$395,7 days,7 days,7 days,-1,-1,-1,4.9,391,United States,N/A,N/A,N/A,"I speak English, German, French",N/A,False
+Business,legal-consulting-services,top rated seller,336,$50,$120,$190,2 days,2 days,3 days,2,2,2,4.9,829,United Kingdom,N/A,N/A,N/A,"I speak English, Greek, Spanish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$35,$155,$190,3 days,7 days,7 days,-1,-1,-1,4.9,442,Canada,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Business,legal-consulting-services,top rated seller,336,$185,$220,$600,1 day,1 day,5 days,-1,-1,-1,5.0,346,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$200,$300,$400,3 days,3 days,3 days,1,1,1,5.0,588,Canada,N/A,N/A,N/A,"I speak English, French",N/A,False
+Business,legal-consulting-services,top rated seller,336,$60,$100,$150,3 days,2 days,1 day,2,2,2,5.0,212,United Kingdom,N/A,N/A,N/A,"I speak English, Greek, Spanish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$100,$145,$195,2 days,3 days,3 days,0,0,0,5.0,332,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$355,$355,$355,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,5.0,275,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$15,$45,$90,4 days,5 days,6 days,-1,-1,-1,5.0,"3,689",India,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$50,$70,$80,3 days,7 days,10 days,-1,-1,-1,5.0,223,United Arab Emirates,N/A,N/A,N/A,"I speak English, Urdu, Italian, Spanish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$125,$250,$450,3 days,3 days,3 days,-1,-1,-1,5.0,134,Malta,N/A,N/A,N/A,"I speak English, Maltese",N/A,False
+Business,legal-consulting-services,top rated seller,336,$95,$195,$295,2 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,"1,077",India,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Business,legal-consulting-services,top rated seller,336,$150,$300,$400,4 days,5 days,7 days,-1,-1,-1,5.0,278,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$35,$100,$200,2 days,4 days,6 days,-1,-1,-1,4.9,134,India,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$50,$125,$175,2 days,4 days,4 days,-1,-1,-1,5.0,203,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$25,$45,$65,2 days,3 days,4 days,0,1,1,5.0,266,India,N/A,N/A,N/A,"I speak Hindi, English",N/A,False
+Business,legal-consulting-services,top rated seller,336,$20,$30,$40,2 days,2 days,3 days,1,1,1,5.0,826,United Kingdom,N/A,N/A,N/A,"I speak English, German",N/A,False
+Business,legal-consulting-services,top rated seller,336,$35Save up to 15% with Subscribe to Save,$35Save up to 15% with Subscribe to Save,$35Save up to 15% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,357,India,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,top rated seller,336,$275,$275,$275,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,67,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$15,$30,$45,1 day,2 days,3 days,3,3,3,5.0,"1,986",United Kingdom,N/A,N/A,N/A,"I speak English, German",N/A,False
+Business,legal-consulting-services,top rated seller,336,$355,$355,$355,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,5.0,306,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$575,$575,$575,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,4.9,64,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$200,$500,$995,4 days,14 days,90 days,-1,-1,-1,5.0,93,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$355,$355,$355,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,4.8,17,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$250,$350,"$1,500",3 days,5 days,14 days,-1,-1,-1,4.9,61,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$50,$50,$50,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,343,China,N/A,N/A,N/A,"I speak English, Chinese",N/A,True
+Business,legal-consulting-services,top rated seller,336,$85,$85,$85,4-day delivery,4-day delivery,4-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,5.0,"1,118",Colombia,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$35,$90,$125,2 days,4 days,5 days,-1,-1,-1,5.0,30,India,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$125,$150,$175,7 days,7 days,7 days,-1,-1,-1,5.0,245,Malta,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$45,$60,$95,2 days,3 days,4 days,-1,-1,-1,4.9,762,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$15,$40,$50,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,273,United Kingdom,N/A,N/A,N/A,"I speak English, Polish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$250,$250,$250,7-day delivery,7-day delivery,7-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,64,United Kingdom,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,top rated seller,336,$995,"$1,045","$1,195",45 days,45 days,45 days,-1,-1,-1,5.0,269,United Kingdom,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$100,$100,$100,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,4.9,170,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$300,$300,$300,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,4.9,150,Venezuela,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$100,$250,$500,4 days,7 days,14 days,-1,-1,-1,4.9,86,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Business,legal-consulting-services,top rated seller,336,$75,$120,$155,2 days,3 days,3 days,1,2,3,5.0,147,Indonesia,N/A,N/A,N/A,"I speak English, Indonesian, Chinese",N/A,False
+Business,legal-consulting-services,top rated seller,336,$50,$100,$300,2 days,2 days,10 days,1,3,3,4.9,203,Nigeria,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$100Save up to 15% with Subscribe to Save,$100Save up to 15% with Subscribe to Save,$100Save up to 15% with Subscribe to Save,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,4.9,19,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$95,$100,$315,2 days,2 days,3 days,-1,-1,-1,5.0,734,United States,N/A,N/A,N/A,"I speak English, Chinese, Spanish, Arabic",N/A,False
+Business,legal-consulting-services,top rated seller,336,$355,$355,$355,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,4.9,71,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,top rated seller,336,$25,$75,$125,2 days,3 days,4 days,1,2,3,5.0,774,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,top rated seller,336,$35,$115,$150,2 days,5 days,7 days,-1,-1,-1,5.0,"2,407",Canada,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Business,legal-consulting-services,top rated seller,336,$35,$100,$160,2 days,4 days,5 days,-1,-1,-1,5.0,"2,076",India,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,top rated seller,336,$245,$295,$630,7 days,7 days,7 days,-1,-1,-1,5.0,"1,054",United States,N/A,N/A,N/A,"I speak English, German, French",N/A,False

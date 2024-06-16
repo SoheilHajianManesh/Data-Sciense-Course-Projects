@@ -1,0 +1,48 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Data,data-processing,new seller,4846,$100,$200,$300,2 days,3 days,5 days,-1,-1,-1,5.0,61,Pakistan,Feb 2017,7 hours,6 days,"Hindi, English, Spanish, Chinese",N/A,False
+Data,data-processing,new seller,4846,$10,$20,$50,2 days,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,1,Sri Lanka,May 2022,1 hour,3 weeks,English,N/A,False
+Data,data-processing,new seller,4846,$10,$20,$30,1 day,1 day,3 days,1,1,1,4.9,14,Italy,Mar 2023,2 hours,1 week,"English, Spanish",N/A,False
+Data,data-processing,new seller,4846,$15,$40,$80,1 day,3 days,7 days,Unlimited,Unlimited,Unlimited,4.9,25,Pakistan,Mar 2024,1 hour,5 days,"Urdu, English, German, Hindi",N/A,False
+Data,data-processing,new seller,4846,$5,$20,$40,1 day,6 days,7 days,Unlimited,Unlimited,Unlimited,5.0,19,Pakistan,Aug 2023,1 hour,about 9 hours,English,2 orders in queue,False
+Data,data-processing,new seller,4846,$5,$15,$30,1 day,2 days,3 days,1,3,5,4.7,17,India,Jul 2021,1 hour,about 2 hours,"Hindi, English, Urdu, German",N/A,False
+Data,data-processing,new seller,4846,$5,$30,$100,2 days,4 days,7 days,Unlimited,Unlimited,Unlimited,5.0,3,Bangladesh,Jan 2024,1 hour,6 days,"Bengali, English",N/A,False
+Data,data-processing,new seller,4846,$25,$60,$150,1 day,3 days,7 days,1,3,Unlimited,5.0,8,Pakistan,Oct 2022,1 hour,5 days,"Urdu, English, German",N/A,False
+Data,data-processing,new seller,4846,$5,$25,$90,1 day,2 days,3 days,-1,-1,-1,4.6,22,India,Dec 2023,1 hour,about 22 hours,"Hindi, English",1 order in queue,False
+Data,data-processing,new seller,4846,$10,$35,$70,2 days,2 days,3 days,3,3,5,4.9,532,Pakistan,Nov 2020,1 hour,2 days,"English, Urdu",9 orders in queue,False
+Data,data-processing,new seller,4846,$90,$250,$500,3 days,5 days,7 days,-1,-1,-1,4.9,8,Germany,Apr 2018,15 hours,1 week,"English, German",N/A,False
+Data,data-processing,new seller,4846,$10,$20,$40,1 day,2 days,4 days,1,2,3,4.5,3,Pakistan,Feb 2017,7 hours,6 days,"Hindi, English, Spanish, Chinese",N/A,False
+Data,data-processing,new seller,4846,$5,$25,$45,1 day,2 days,5 days,Unlimited,Unlimited,Unlimited,4.8,13,Pakistan,Feb 2024,2 hours,1 week,English,N/A,False
+Data,data-processing,new seller,4846,$25,$200,$800,2 days,4 days,7 days,1,1,1,5.0,38,United States,Apr 2018,11 hours,6 months,"English, Latvian, Spanish",N/A,False
+Data,data-processing,new seller,4846,$15,$50,$100,2 days,4 days,6 days,1,2,3,4.2,2,United States,Apr 2024,1 hour,about 19 hours,"English, Dutch, Spanish",1 order in queue,False
+Data,data-processing,new seller,4846,$250,$500,"$1,005",7 days,10 days,14 days,1,2,3,3.3,2,Bangladesh,Oct 2015,2 hours,3 weeks,English,N/A,False
+Data,data-processing,new seller,4846,$25,$50,$150,3 days,3 days,3 days,Unlimited,Unlimited,Unlimited,5.0,19,Australia,Jul 2019,1 hour,4 weeks,English,N/A,False
+Data,data-processing,new seller,4846,$5,$10,$20,1 day,1 day,3 days,Unlimited,Unlimited,Unlimited,5.0,4,Bangladesh,Jul 2023,1 hour,4 days,"Bengali, English",N/A,False
+Data,data-processing,new seller,4846,$20,$50,$100,7 days,10 days,14 days,-1,-1,-1,5.0,14,China,Apr 2021,18 hours,2 months,English,N/A,False
+Data,data-processing,new seller,4846,$25,$25,$25,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,12,Kenya,Jan 2024,2 hours,3 weeks,English,N/A,True
+Data,data-processing,new seller,4846,$85,$120,$150,2 days,3 days,3 days,-1,-1,-1,5.0,3,Argentina,Sep 2021,3 days,1 month,"English, Spanish",N/A,False
+Data,data-processing,new seller,4846,$80,$150,$230,3 days,5 days,5 days,1,2,4,5.0,9,India,Apr 2021,N/A,1 year,"Hindi, English",N/A,False
+Data,data-processing,new seller,4846,$100Save up to 10% with Subscribe to Save,$100Save up to 10% with Subscribe to Save,$100Save up to 10% with Subscribe to Save,3-day delivery,3-day delivery,3-day delivery,5 Revisions,5 Revisions,5 Revisions,5.0,14,Pakistan,Aug 2015,8 hours,about 9 hours,"English, German",N/A,True
+Data,data-processing,new seller,4846,$600,$600,$600,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,8,Algeria,Apr 2021,N/A,4 months,English,N/A,True
+Data,data-processing,new seller,4846,$50,$75,$100,1 day,4 days,10 days,3,3,3,5.0,10,Bosnia and Herzegovina,Sep 2015,1 day,1 year,"English, Bosnian, Serbian, Croatian",N/A,False
+Data,data-processing,new seller,4846,$100,$250,$400,3 days,5 days,7 days,1,1,2,5.0,2,India,Jun 2020,3 hours,1 week,"Malayalam, English, Hindi, Arabic",1 order in queue,False
+Data,data-processing,new seller,4846,$350,$500,$700,1 day,1 day,1 day,2,2,2,5.0,1,India,Mar 2022,3 hours,5 months,"Bengali, English, Hindi",N/A,False
+Data,data-processing,new seller,4846,$100,$100,$100,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,3,Argentina,Sep 2021,3 days,1 month,"English, Spanish",N/A,True
+Data,data-processing,new seller,4846,$135,$160,$200,1 day,3 days,4 days,3,4,6,5.0,1,Pakistan,Oct 2022,7 hours,1 month,English,N/A,False
+Data,data-processing,new seller,4846,$50,$50,$50,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,3.8,12,Pakistan,Mar 2023,1 hour,4 weeks,"Urdu, English, Hindi, Spanish",1 order in queue,True
+Data,data-processing,new seller,4846,$100Save up to 10% with Subscribe to Save,$100Save up to 10% with Subscribe to Save,$100Save up to 10% with Subscribe to Save,3-day delivery,3-day delivery,3-day delivery,5 Revisions,5 Revisions,5 Revisions,5.0,14,Pakistan,Aug 2015,8 hours,about 9 hours,"English, German",N/A,True
+Data,data-processing,new seller,4846,$50,$100,$150,2 days,4 days,5 days,2,2,3,5.0,3,Nigeria,Feb 2019,1 hour,1 month,English,1 order in queue,False
+Data,data-processing,new seller,4846,$25,$50,$80,5 days,10 days,14 days,-1,-1,-1,5.0,25,United Kingdom,Jul 2023,15 days,2 weeks,English,N/A,False
+Data,data-processing,new seller,4846,$10,$20,$30,3 days,4 days,5 days,-1,-1,-1,5.0,2,Bangladesh,Apr 2023,1 hour,4 days,"English, Spanish, Arabic",N/A,False
+Data,data-processing,new seller,4846,$100,$200,$300,2 days,3 days,5 days,-1,-1,-1,5.0,61,Pakistan,Feb 2017,7 hours,6 days,"Hindi, English, Spanish, Chinese",N/A,False
+Data,data-processing,new seller,4846,$20,$50,$95,1 day,2 days,4 days,1,2,Unlimited,4.9,8,Pakistan,Nov 2020,1 hour,1 week,"Urdu, English",N/A,False
+Data,data-processing,new seller,4846,$50,$120,$250,4 days,7 days,14 days,-1,-1,-1,5.0,20,Greece,May 2018,4 hours,2 days,English,N/A,False
+Data,data-processing,new seller,4846,$80,$100,$150,5 days,7 days,10 days,-1,-1,-1,5.0,2,Pakistan,Oct 2021,6 hours,4 weeks,"Urdu, English",N/A,False
+Data,data-processing,new seller,4846,$10,$55,$105,14 days,21 days,21 days,1,3,Unlimited,5.0,41,Canada,Jan 2020,1 hour,1 week,"English, French",N/A,False
+Data,data-processing,new seller,4846,$195,$395,$695,5 days,7 days,10 days,1,3,7,5.0,66,United States,Aug 2017,1 hour,5 days,"English, Korean, Spanish",1 order in queue,False
+Data,data-processing,new seller,4846,$30,$40,$50,7 days,3 days,10 days,2,2,2,5.0,11,Pakistan,Apr 2021,1 hour,3 weeks,English,N/A,False
+Data,data-processing,new seller,4846,$50,$500,"$1,000",3 days,3 days,3 days,-1,-1,-1,4.8,111,Nigeria,Feb 2017,N/A,3 months,English,N/A,False
+Data,data-processing,new seller,4846,$200,$500,"$1,500",2 days,4 days,7 days,0,0,0,5.0,77,Egypt,Mar 2020,5 hours,5 months,"English, Arabic, German",N/A,False
+Data,data-processing,new seller,4846,$10,$20,$100,1 day,2 days,5 days,Unlimited,Unlimited,Unlimited,5.0,6,Pakistan,Apr 2024,1 hour,2 days,English,N/A,False
+Data,data-processing,new seller,4846,$5,$15,$30,1 day,2 days,4 days,1,2,3,5.0,6,Pakistan,May 2024,1 hour,1 day,English,2 orders in queue,False
+Data,data-processing,new seller,4846,$5,$15,$20,1 day,2 days,4 days,1,2,3,5.0,1,Pakistan,Dec 2023,1 hour,1 day,English,N/A,False
+Data,data-processing,new seller,4846,$10,$15,$25,1 day,2 days,3 days,5,5,Unlimited,5.0,5,India,Oct 2022,1 hour,6 days,"Hindi, Punjabi, English",N/A,False

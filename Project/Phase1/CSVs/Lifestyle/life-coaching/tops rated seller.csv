@@ -1,0 +1,44 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Lifestyle,life-coaching,tops rated seller,76,$95,$425,$795,2 days,14 days,30 days,-1,-1,-1,5.0,43,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$65,$110,$560,7 days,7 days,45 days,-1,-1,-1,5.0,114,Luxembourg,N/A,N/A,N/A,"I speak English, Croatian, French",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$20,$360,$890,10 days,45 days,90 days,-1,-1,-1,5.0,124,Serbia,N/A,N/A,N/A,"I speak English, Serbian, Spanish",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$250,$250,$250,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,1,Australia,N/A,N/A,N/A,English,N/A,True
+Lifestyle,life-coaching,tops rated seller,76,$90,$360,$900,21 days,60 days,90 days,-1,-1,-1,5.0,18,Latvia,N/A,N/A,N/A,"I speak English, Latvian, Russian",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$100,$150,$200,30 days,30 days,30 days,-1,-1,-1,5.0,25,Israel,N/A,N/A,N/A,"I speak English, Hebrew",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$40,$120,$150,14 days,30 days,30 days,-1,-1,-1,5.0,277,India,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$40,$140,$255,7 days,30 days,30 days,-1,-1,-1,5.0,129,United States,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$155,$295,$375,3 days,3 days,3 days,-1,-1,-1,5.0,69,United States,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$90,$360,$600,21 days,90 days,90 days,-1,-1,-1,5.0,96,Latvia,N/A,N/A,N/A,"I speak English, Latvian, Russian",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$20,$60,$80,7 days,60 days,90 days,-1,-1,-1,5.0,45,Greece,N/A,N/A,N/A,"I speak English, Swedish, Greek",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$45,$400,$500,21 days,30 days,30 days,-1,-1,-1,5.0,104,Romania,N/A,N/A,N/A,"I speak English, Romanian",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$120,$120,$120,10-day delivery,10-day delivery,10-day delivery,-1,-1,-1,5.0,24,Switzerland,N/A,N/A,N/A,I speak English,N/A,True
+Lifestyle,life-coaching,tops rated seller,76,$70,$125,$150,2 days,3 days,3 days,-1,-1,-1,4.9,6,United Kingdom,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$50,$65,$225,21 days,21 days,30 days,-1,-1,-1,5.0,66,Argentina,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$75,$125,$215,14 days,30 days,30 days,-1,-1,-1,5.0,332,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$70,$125,$150,7 days,7 days,7 days,-1,-1,-1,5.0,177,United Kingdom,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$75,$150,$300,2 days,3 days,30 days,-1,-1,-1,5.0,8,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$70,$125,$150,4 days,6 days,6 days,-1,-1,-1,5.0,5,United Kingdom,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$100,$300,$810,30 days,30 days,30 days,-1,-1,-1,5.0,39,Serbia,N/A,N/A,N/A,"I speak English, Serbian, Bosnian, Croatian",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$100,$160,$300,14 days,14 days,14 days,-1,-1,-1,5.0,69,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$75,$150,$300,2 days,3 days,30 days,-1,-1,-1,5.0,8,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$150,$195,$245,5 days,6 days,6 days,-1,-1,-1,5.0,25,United States,N/A,N/A,N/A,"I speak English, Spanish, Galician",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$65,$110,$560,7 days,7 days,45 days,-1,-1,-1,5.0,19,Luxembourg,N/A,N/A,N/A,"I speak English, Croatian, French",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$200,$600,"$1,200",3 days,3 days,3 days,-1,-1,-1,5.0,23,United States,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$65,$110,$560,7 days,7 days,45 days,-1,-1,-1,5.0,8,Luxembourg,N/A,N/A,N/A,"I speak English, Croatian, French",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$20,$115,$130,10 days,45 days,45 days,-1,-1,-1,5.0,82,Portugal,N/A,N/A,N/A,"I speak English, Portuguese, Spanish, French",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$70,$360,$875,1 day,30 days,90 days,-1,-1,-1,5.0,4,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$120,$120,$120,10-day delivery,10-day delivery,10-day delivery,-1,-1,-1,5.0,184,Switzerland,N/A,N/A,N/A,I speak English,N/A,True
+Lifestyle,life-coaching,tops rated seller,76,$60,$60,$60,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,70,Venezuela,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Lifestyle,life-coaching,tops rated seller,76,$20,$60,$80,7 days,60 days,90 days,-1,-1,-1,5.0,45,Greece,N/A,N/A,N/A,"I speak English, Swedish, Greek",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$20,$115,$130,10 days,45 days,45 days,-1,-1,-1,5.0,82,Portugal,N/A,N/A,N/A,"I speak English, Portuguese, Spanish, French",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$50,$100,$540,3 days,3 days,3 days,-1,-1,-1,5.0,221,Israel,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$50,$65,$225,10 days,14 days,30 days,-1,-1,-1,5.0,27,Argentina,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$100,$160,$300,7 days,14 days,14 days,-1,-1,-1,5.0,2,Canada,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$100,$200,"$1,000",3 days,7 days,7 days,-1,-1,-1,4.9,9,United States,N/A,N/A,N/A,I speak English,N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$65,$110,$560,7 days,7 days,45 days,-1,-1,-1,5.0,114,Luxembourg,N/A,N/A,N/A,"I speak English, Croatian, French",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$50,$65,$225,21 days,21 days,30 days,-1,-1,-1,5.0,66,Argentina,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$35,$35,$35,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,N/A,N/A,Pakistan,N/A,N/A,N/A,I speak English,N/A,True
+Lifestyle,life-coaching,tops rated seller,76,$15,$180,$240,7 days,45 days,45 days,-1,-1,-1,4.9,121,Czech Republic,N/A,N/A,N/A,"I speak English, Czech, Slovak, Italian",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$10,$10,$10,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,4.9,102,United States,N/A,N/A,N/A,I speak English,N/A,True
+Lifestyle,life-coaching,tops rated seller,76,$40,$120,$150,14 days,30 days,30 days,-1,-1,-1,5.0,277,India,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Lifestyle,life-coaching,tops rated seller,76,$120,$120,$120,10-day delivery,10-day delivery,10-day delivery,-1,-1,-1,5.0,184,Switzerland,N/A,N/A,N/A,I speak English,N/A,True

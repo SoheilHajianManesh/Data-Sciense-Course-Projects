@@ -1,0 +1,9 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Music & Audio,dj-mixing,top rated seller,22,$65,$95,$135,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,4.9,230,Greece,Nov 2020,2 hours,1 day,"English, Greek, French",2 orders in queue,False
+Music & Audio,dj-mixing,top rated seller,22,$70,$120,$175,3 days,4 days,5 days,2,4,6,5.0,3,Indonesia,Jun 2020,1 hour,about 10 hours,"English, Indonesian, Malay, German",N/A,False
+Music & Audio,dj-mixing,top rated seller,22,$35,$45,$55,1 day,3 days,3 days,2,3,3,4.9,290,Netherlands,Jul 2012,1 hour,about 9 hours,English,2 orders in queue,False
+Music & Audio,dj-mixing,top rated seller,22,$95Save up to 15% with Subscribe to Save,$95Save up to 15% with Subscribe to Save,$95Save up to 15% with Subscribe to Save,2-day delivery,2-day delivery,2-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.9,3,Greece,Nov 2020,2 hours,1 day,"English, Greek, French",1 order in queue,True
+Music & Audio,dj-mixing,top rated seller,22,$30,$30,$30,3-day delivery,3-day delivery,3-day delivery,1 Revision,1 Revision,1 Revision,4.9,739,Venezuela,Dec 2017,1 hour,1 day,"Spanish, English",8 orders in queue,True
+Music & Audio,dj-mixing,top rated seller,22,$35,$55,$95,3 days,5 days,5 days,1,2,2,5.0,66,United States,Mar 2020,1 hour,about 9 hours,English,N/A,False
+Music & Audio,dj-mixing,top rated seller,22,$65,$95,$135,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,4.9,230,Greece,Nov 2020,2 hours,1 day,"English, Greek, French",2 orders in queue,False
+Music & Audio,dj-mixing,top rated seller,22,$25,$35,$55,3 days,4 days,5 days,1,2,3,5.0,210,Belarus,May 2021,2 hours,about 9 hours,"English, Russian, Belarusian",2 orders in queue,False

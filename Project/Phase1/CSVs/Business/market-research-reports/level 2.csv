@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Business,market-research-reports,level 2,652,US$35,US$120,US$210,1 day,3 days,4 days,0,0,0,4.9,"3,410",Greece,N/A,N/A,N/A,"I speak English, Greek",N/A,False
+Business,market-research-reports,level 2,652,$60,$140,$175,2 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.9,360,Bangladesh,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$50,$150,$300,2 days,3 days,5 days,-1,-1,-1,4.8,325,Italy,N/A,N/A,N/A,"I speak English, Italian, French",N/A,False
+Business,market-research-reports,level 2,652,$20,$35,$145,2 days,3 days,5 days,-1,-1,-1,4.9,"1,649",Pakistan,N/A,N/A,N/A,"I speak Urdu, English, German, Spanish",N/A,False
+Business,market-research-reports,level 2,652,$25,$60,$150,1 day,3 days,5 days,2,2,2,4.8,51,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$35,$100,$200,2 days,4 days,7 days,-1,-1,-1,5.0,16,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,US$30,US$70,US$200,7 days,10 days,14 days,-1,-1,-1,4.9,175,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$60,$140,$175,2 days,5 days,7 days,Unlimited,Unlimited,Unlimited,5.0,356,Bangladesh,N/A,N/A,N/A,"I speak English, Bengali, Hindi",N/A,False
+Business,market-research-reports,level 2,652,$30,$70,$100,3 days,4 days,5 days,-1,-1,-1,4.9,283,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$10,$30,$70,1 day,2 days,3 days,-1,-1,-1,5.0,33,Pakistan,N/A,N/A,N/A,"I speak English, Arabic, Chinese, Spanish",N/A,False
+Business,market-research-reports,level 2,652,$10,$20,$50,1 day,2 days,3 days,-1,-1,-1,5.0,36,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,market-research-reports,level 2,652,$140,$300,$450,1 day,2 days,2 days,-1,-1,-1,4.9,28,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$10,$25,$35,1 day,1 day,1 day,-1,-1,-1,5.0,414,Pakistan,N/A,N/A,N/A,"I speak English, German, Spanish, French",N/A,False
+Business,market-research-reports,level 2,652,$15,$55,$100,2 days,3 days,4 days,-1,-1,-1,4.9,615,Bangladesh,N/A,N/A,N/A,"I speak English, Bengali",N/A,False
+Business,market-research-reports,level 2,652,$10,$40,$100,2 days,3 days,6 days,1,1,1,4.9,437,Bangladesh,N/A,N/A,N/A,"I speak Bengali, English, French, German",N/A,False
+Business,market-research-reports,level 2,652,$70,$140,$180,3 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.8,149,Bangladesh,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$55,$85,$120,2 days,2 days,3 days,-1,-1,-1,4.9,19,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,€91.85,€478.61,€962.05,3 days,5 days,10 days,-1,-1,-1,5.0,388,Bulgaria,N/A,N/A,N/A,"I speak English, Bulgarian, German, Spanish",N/A,False
+Business,market-research-reports,level 2,652,$5,$50,$100,5 days,7 days,5 days,1,Unlimited,Unlimited,4.8,81,Bangladesh,N/A,N/A,N/A,"I speak Bengali, English",N/A,False
+Business,market-research-reports,level 2,652,€145.03,€415.76,€483.44,7 days,10 days,10 days,-1,-1,-1,4.7,17,Netherlands,N/A,N/A,N/A,"I speak English, Dutch",N/A,False
+Business,market-research-reports,level 2,652,$150,$300,$600,5 days,7 days,10 days,-1,-1,-1,5.0,5,India,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$40,$100,$130,3 days,5 days,6 days,-1,-1,-1,5.0,68,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,market-research-reports,level 2,652,€58.01,€140.20,€174.04,2 days,5 days,7 days,-1,-1,-1,5.0,234,Bangladesh,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$15,$35,$50,2 days,3 days,3 days,-1,-1,-1,4.9,226,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,market-research-reports,level 2,652,$10,$15,$25,1 day,1 day,2 days,-1,-1,-1,4.8,40,Pakistan,N/A,N/A,N/A,"I speak German, French, English",N/A,False
+Business,market-research-reports,level 2,652,$60,$130,$175,2 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.9,890,Bangladesh,N/A,N/A,N/A,"I speak English, Bengali, Hindi",N/A,False
+Business,market-research-reports,level 2,652,$30,$50,$100,1 day,2 days,3 days,-1,-1,-1,4.9,119,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,market-research-reports,level 2,652,$10,$50,$100,1 day,2 days,3 days,-1,-1,-1,5.0,64,Pakistan,N/A,N/A,N/A,"I speak English, French, German, Arabic",N/A,False
+Business,market-research-reports,level 2,652,$150,$250,$350,5 days,7 days,10 days,-1,-1,-1,4.7,45,Ukraine,N/A,N/A,N/A,"I speak English, Ukrainian, Russian, French",N/A,False
+Business,market-research-reports,level 2,652,$25,$60,$150,2 days,2 days,2 days,-1,-1,-1,4.9,41,Nigeria,N/A,N/A,N/A,"I speak English, Spanish, Chinese, French",N/A,False
+Business,market-research-reports,level 2,652,$20,$50,$120,2 days,3 days,6 days,Unlimited,Unlimited,Unlimited,4.7,31,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Business,market-research-reports,level 2,652,$150,$250,$350,5 days,7 days,10 days,-1,-1,-1,4.7,45,Ukraine,N/A,N/A,N/A,"I speak English, Ukrainian, Russian, French",N/A,False
+Business,market-research-reports,level 2,652,"$1,000","$1,000","$1,000",7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,45,Ukraine,N/A,N/A,N/A,"I speak English, Ukrainian",N/A,True
+Business,market-research-reports,level 2,652,$60,$140,$175,2 days,5 days,7 days,Unlimited,Unlimited,Unlimited,4.9,360,Bangladesh,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$100,$200,$300,2 days,3 days,4 days,-1,-1,-1,4.9,22,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,657,India,N/A,N/A,N/A,"I speak English, Hindi, Marathi, Bengali",N/A,True
+Business,market-research-reports,level 2,652,$5,$15,$50,1 day,2 days,3 days,-1,-1,-1,5.0,88,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,market-research-reports,level 2,652,$35,$75,$150,3 days,4 days,5 days,-1,-1,-1,5.0,211,Bangladesh,N/A,N/A,N/A,"I speak English, German",N/A,False
+Business,market-research-reports,level 2,652,$15,$40,$80,1 day,3 days,4 days,-1,-1,-1,4.9,75,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$55,$85,$120,2 days,2 days,3 days,-1,-1,-1,4.9,19,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$10,$50,$100,2 days,4 days,5 days,-1,-1,-1,4.8,95,Bangladesh,N/A,N/A,N/A,"I speak English, Hindi, French, Spanish",N/A,False
+Business,market-research-reports,level 2,652,$40,$70,$90,1 day,2 days,3 days,-1,-1,-1,5.0,17,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$145,$355,$400,1 day,4 days,6 days,Unlimited,Unlimited,Unlimited,4.8,148,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$40,$70,$90,1 day,2 days,3 days,-1,-1,-1,5.0,17,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,€9.67,€29.01,€58.01,1 day,2 days,4 days,-1,-1,-1,5.0,103,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Korean, French",N/A,False
+Business,market-research-reports,level 2,652,$5,$10,$20,1 day,1 day,1 day,0,0,0,5.0,201,Brazil,N/A,N/A,N/A,"I speak English, Portuguese",N/A,False
+Business,market-research-reports,level 2,652,$5,$10,$20,6 days,6 days,6 days,-1,-1,-1,5.0,670,Bangladesh,N/A,N/A,N/A,I speak English,N/A,False
+Business,market-research-reports,level 2,652,$400,"$2,500","$7,000",14 days,14 days,21 days,-1,-1,-1,5.0,2,United States,N/A,N/A,N/A,"I speak English, Arabic",N/A,False

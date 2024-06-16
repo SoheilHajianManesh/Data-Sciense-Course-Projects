@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Graphics & Design,nft,new seller,1900,$150,$150,$150,14-day delivery,14-day delivery,14-day delivery,1 Revision,1 Revision,1 Revision,4.9,54,France,Mar 2021,1 hour,3 months,"English, French",N/A,True
+Graphics & Design,nft,new seller,1900,$50,$395,"$1,450",4 days,7 days,10 days,Unlimited,Unlimited,Unlimited,5.0,23,Sri Lanka,Jan 2022,N/A,1 year,English,N/A,False
+Graphics & Design,nft,new seller,1900,$200,"$3,000","$5,000",5 days,7 days,21 days,2,2,Unlimited,5.0,4,Ukraine,Dec 2017,15 hours,1 month,"English, Ukrainian, Polish",N/A,False
+Graphics & Design,nft,new seller,1900,$75,$550,$950,3 days,7 days,10 days,9,9,9,5.0,226,Sri Lanka,Jul 2013,2 hours,11 months,English,N/A,False
+Graphics & Design,nft,new seller,1900,$150,$350,$800,7 days,14 days,21 days,2,Unlimited,Unlimited,3.7,3,Indonesia,Oct 2012,1 hour,2 months,"English, Indonesian, Spanish, German",2 orders in queue,False
+Graphics & Design,nft,new seller,1900,$120,"$1,000","$2,250",7 days,14 days,21 days,Unlimited,3,3,5.0,4,Pakistan,May 2021,1 hour,2 months,English,N/A,False
+Graphics & Design,nft,new seller,1900,$15,$110,$300,3 days,7 days,14 days,3,Unlimited,Unlimited,5.0,7,Ukraine,Jan 2023,1 hour,3 months,"English, Ukrainian",N/A,False
+Graphics & Design,nft,new seller,1900,$150,$750,"$2,000",4 days,10 days,14 days,3,5,Unlimited,5.0,16,Pakistan,May 2022,3 hours,1 month,English,N/A,False
+Graphics & Design,nft,new seller,1900,$145,"$1,490","$5,900",7 days,21 days,30 days,3,9,Unlimited,5.0,30,Italy,Aug 2018,N/A,1 year,"English, Italian",N/A,False
+Graphics & Design,nft,new seller,1900,$250,$350,$750,14 days,14 days,14 days,0,1,1,4.9,52,Turkey,Oct 2021,N/A,1 year,English,N/A,False
+Graphics & Design,nft,new seller,1900,$20,$200,$400,2 days,7 days,10 days,Unlimited,Unlimited,Unlimited,5.0,14,Sri Lanka,Sep 2022,7 hours,10 months,"English, Sinhala",N/A,False
+Graphics & Design,nft,new seller,1900,$25,$300,$600,3 days,10 days,21 days,Unlimited,Unlimited,Unlimited,5.0,13,Pakistan,Mar 2024,1 hour,3 days,"English, French, German, Italian",1 order in queue,False
+Graphics & Design,nft,new seller,1900,$500,"$1,000","$1,500",5 days,10 days,14 days,2,3,4,5.0,5,Pakistan,Mar 2021,2 hours,2 days,"English, Urdu",N/A,False
+Graphics & Design,nft,new seller,1900,$995,"$1,795","$4,295",14 days,14 days,14 days,Unlimited,Unlimited,Unlimited,5.0,24,United Kingdom,Feb 2021,N/A,2 months,"English, French",N/A,False
+Graphics & Design,nft,new seller,1900,₪195.21,₪312.34,₪585.64,5 days,7 days,14 days,1,3,5,5.0,3,Pakistan,Nov 2022,2 hours,7 months,"English, French, German, Polish",N/A,False
+Graphics & Design,nft,new seller,1900,$35,$150,$275,7 days,10 days,14 days,1,3,3,5.0,273,Indonesia,Jul 2020,2 days,1 day,English,1 order in queue,False
+Graphics & Design,nft,new seller,1900,$90,$720,"$1,600",3 days,10 days,14 days,2,3,4,4.9,54,United Kingdom,Apr 2019,1 hour,1 week,"English, German, Spanish, French",N/A,False
+Graphics & Design,nft,new seller,1900,$35,$150,$275,7 days,10 days,14 days,2,2,3,4.9,116,Indonesia,Jul 2020,2 days,1 day,English,N/A,False
+Graphics & Design,nft,new seller,1900,$100,$250,$600,1 day,3 days,6 days,3,3,3,4.9,240,Argentina,Aug 2019,1 hour,9 months,"English, Spanish",N/A,False
+Graphics & Design,nft,new seller,1900,$45,$450,"$1,100",6 days,14 days,21 days,-1,-1,-1,4.3,7,Indonesia,Sep 2023,1 hour,1 month,"Indonesian, English",N/A,False
+Graphics & Design,nft,new seller,1900,$5,$50,$220,1 day,3 days,10 days,Unlimited,Unlimited,5,5.0,6,Bangladesh,Nov 2021,1 hour,2 weeks,"Hebrew, French, Dutch, English",N/A,False
+Graphics & Design,nft,new seller,1900,$50,$80,$150,3 days,5 days,7 days,1,2,5,5.0,43,Pakistan,Sep 2019,1 hour,7 months,"English, Urdu",N/A,False
+Graphics & Design,nft,new seller,1900,$35,$350,$520,2 days,7 days,10 days,Unlimited,Unlimited,Unlimited,4.9,62,Ukraine,May 2022,4 hours,1 month,"English, Ukrainian, Russian, Polish",N/A,False
+Graphics & Design,nft,new seller,1900,$50,$150,$280,1 day,5 days,5 days,Unlimited,Unlimited,Unlimited,5.0,8,Sri Lanka,Nov 2022,1 hour,1 month,"English, Spanish, German, French",N/A,False
+Graphics & Design,nft,new seller,1900,$20,$60,$100,5 days,7 days,10 days,5,Unlimited,Unlimited,5.0,4,Pakistan,May 2023,1 hour,4 weeks,"Hindi, English, Spanish, Arabic",N/A,False
+Graphics & Design,nft,new seller,1900,$25,$50,$200,1 day,1 day,1 day,1,2,3,5.0,6,Sri Lanka,Feb 2022,N/A,1 year,"Sinhala, English",N/A,False
+Graphics & Design,nft,new seller,1900,$5,$10,$20,1 day,2 days,2 days,Unlimited,5,5,5.0,17,India,Aug 2022,N/A,2 months,"English, Hindi",N/A,False
+Graphics & Design,nft,new seller,1900,$15,$30,$50,3 days,5 days,7 days,0,0,0,5.0,5,India,Dec 2021,1 hour,about 11 hours,"Hindi, English, Russian, French",N/A,False
+Graphics & Design,nft,new seller,1900,$150,"$2,000","$3,000",3 days,7 days,10 days,-1,-1,-1,5.0,6,Pakistan,Aug 2022,1 hour,1 month,English,N/A,False
+Graphics & Design,nft,new seller,1900,$5,$20,$60,1 day,3 days,7 days,Unlimited,Unlimited,Unlimited,5.0,56,Indonesia,Jun 2021,21 hours,3 weeks,"Indonesian, English",N/A,False
+Graphics & Design,nft,new seller,1900,$25,$200,$450,3 days,7 days,10 days,0,1,1,4.7,12,India,Jul 2020,4 hours,2 weeks,"English, Hindi",N/A,False
+Graphics & Design,nft,new seller,1900,$90,$140,$190,3 days,5 days,7 days,3,Unlimited,Unlimited,5.0,18,Morocco,Mar 2022,2 days,1 year,"English, French",N/A,False
+Graphics & Design,nft,new seller,1900,$20,$35,$50,2 days,4 days,5 days,1,3,5,5.0,62,Ukraine,Feb 2021,4 hours,3 weeks,"Ukrainian, Russian, English",N/A,False
+Graphics & Design,nft,new seller,1900,$150,$700,"$1,200",3 days,10 days,14 days,Unlimited,Unlimited,Unlimited,5.0,46,Morocco,Jun 2021,1 hour,11 months,English,N/A,False
+Graphics & Design,nft,new seller,1900,$10,$125,$185,1 day,4 days,7 days,Unlimited,Unlimited,Unlimited,5.0,16,Sri Lanka,Dec 2021,1 hour,1 month,"Sinhala, English, Tamil",N/A,False
+Graphics & Design,nft,new seller,1900,$70,$120,$230,7 days,14 days,21 days,3,3,5,5.0,31,Indonesia,May 2022,1 hour,5 months,"English, Indonesian",N/A,False
+Graphics & Design,nft,new seller,1900,$15,$30,$50,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,4.9,137,Sri Lanka,Dec 2019,N/A,1 year,"Spanish, French, English",N/A,False
+Graphics & Design,nft,new seller,1900,$25,$300,$600,3 days,7 days,14 days,Unlimited,Unlimited,Unlimited,5.0,2,Sri Lanka,Apr 2022,1 hour,6 months,"English, Sinhala, Tamil, Chinese",N/A,False
+Graphics & Design,nft,new seller,1900,$50,$150,$300,5 days,7 days,10 days,3,3,3,4.8,24,Pakistan,Jan 2022,1 hour,3 months,"Urdu, English",N/A,False
+Graphics & Design,nft,new seller,1900,$15,$100,$200,1 day,6 days,7 days,Unlimited,Unlimited,Unlimited,5.0,77,India,Oct 2021,2 days,3 months,English,N/A,False
+Graphics & Design,nft,new seller,1900,$15,$30,$50,1 day,2 days,3 days,1,2,3,4.3,9,Pakistan,Sep 2018,1 day,7 months,"Urdu, English, Spanish, Russian",N/A,False
+Graphics & Design,nft,new seller,1900,$25,$75,$125,5 days,10 days,14 days,Unlimited,Unlimited,Unlimited,4.9,59,Indonesia,Sep 2020,1 hour,8 months,"Indonesian, English",2 orders in queue,False
+Graphics & Design,nft,new seller,1900,$40,$60,$80,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,2,Pakistan,May 2022,N/A,2 months,"English, Urdu",N/A,False
+Graphics & Design,nft,new seller,1900,$5,$25,$50,1 day,2 days,3 days,2,4,5,4.8,13,Pakistan,Sep 2022,1 hour,1 week,"French, Spanish, German, English",N/A,False
+Graphics & Design,nft,new seller,1900,$850,"$2,500","$6,950",7 days,30 days,30 days,1,2,4,5.0,24,Turkey,Dec 2020,1 hour,7 months,"Turkish, English",N/A,False
+Graphics & Design,nft,new seller,1900,$30,$500,"$1,000",7 days,14 days,21 days,3,3,2,5.0,61,Austria,Jun 2021,2 hours,1 year,"English, German",N/A,False
+Graphics & Design,nft,new seller,1900,$25,$130,$230,2 days,5 days,7 days,5,5,2,5.0,184,Sri Lanka,Nov 2021,1 hour,4 months,English,N/A,False
+Graphics & Design,nft,new seller,1900,$5,$15,$35,2 days,2 days,2 days,1,1,3,4.3,21,Indonesia,Jul 2020,2 days,1 day,English,5 orders in queue,False

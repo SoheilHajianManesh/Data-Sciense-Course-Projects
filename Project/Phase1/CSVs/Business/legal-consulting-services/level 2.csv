@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Business,legal-consulting-services,level 2,1200,$95,$95,$95,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,4.9,374,Pakistan,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,level 2,1200,€9.67,€19.34,€29.01,1 day,2 days,2 days,-1,-1,-1,4.9,538,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,level 2,1200,$20,$80,$250,1 day,7 days,30 days,-1,-1,-1,4.9,81,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,level 2,1200,$250,$450,$650,3 days,4 days,4 days,1,1,2,4.9,274,Nigeria,N/A,N/A,N/A,"I speak English, French, German, Italian",N/A,False
+Business,legal-consulting-services,level 2,1200,$10,$30,$40,1 day,2 days,3 days,-1,-1,-1,4.9,544,United Arab Emirates,N/A,N/A,N/A,"I speak English, Urdu, Punjabi",N/A,False
+Business,legal-consulting-services,level 2,1200,$20,$30,$40,5 days,3 days,6 days,-1,-1,-1,4.9,567,India,N/A,N/A,N/A,"I speak Hindi, English",N/A,False
+Business,legal-consulting-services,level 2,1200,$50,$195,$250,1 day,2 days,1 day,-1,-1,-1,4.9,418,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$30,$30,$30,3-day delivery,3-day delivery,3-day delivery,2 Revisions,2 Revisions,2 Revisions,5.0,104,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,level 2,1200,$10,$65,$135,1 day,2 days,3 days,-1,-1,-1,4.9,368,Pakistan,N/A,N/A,N/A,"I speak English, Spanish, French",N/A,False
+Business,legal-consulting-services,level 2,1200,$100,$180,$350,3 days,3 days,3 days,-1,-1,-1,5.0,307,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$30,$90,$120,1 day,2 days,3 days,-1,-1,-1,4.9,57,Nigeria,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$5,$15,$25,1 day,1 day,2 days,-1,-1,-1,4.9,"1,332",Philippines,N/A,N/A,N/A,"I speak English, Tagalog, Chinese, Urdu",N/A,False
+Business,legal-consulting-services,level 2,1200,$30,$70,$100,3 days,6 days,10 days,-1,-1,-1,4.9,100,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Spanish, Turkish",N/A,False
+Business,legal-consulting-services,level 2,1200,$5,$25,$50,1 day,2 days,3 days,-1,-1,-1,4.9,144,Pakistan,N/A,N/A,N/A,"I speak English, Spanish, German",N/A,False
+Business,legal-consulting-services,level 2,1200,$35,$40,$45,5 days,5 days,5 days,-1,-1,-1,5.0,31,India,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Business,legal-consulting-services,level 2,1200,$15,$50,$300,2 days,5 days,14 days,-1,-1,-1,5.0,274,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,level 2,1200,$150Save up to 10% with Subscribe to Save,$150Save up to 10% with Subscribe to Save,$150Save up to 10% with Subscribe to Save,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,4.9,127,Pakistan,N/A,N/A,N/A,"I speak English, Spanish",N/A,True
+Business,legal-consulting-services,level 2,1200,$20,$100,$150,7 days,7 days,10 days,-1,-1,-1,4.8,18,Pakistan,N/A,N/A,N/A,"I speak English, Chinese, Arabic, German",N/A,False
+Business,legal-consulting-services,level 2,1200,$5,$10,$20,1 day,2 days,2 days,-1,-1,-1,5.0,233,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$65,$130,$180,3 days,3 days,3 days,-1,-1,-1,5.0,47,Pakistan,N/A,N/A,N/A,"I speak Urdu, Punjabi, English",N/A,False
+Business,legal-consulting-services,level 2,1200,$10,$40,$50,1 day,1 day,1 day,-1,-1,-1,4.9,568,China,N/A,N/A,N/A,"I speak English, Chinese",N/A,False
+Business,legal-consulting-services,level 2,1200,$50,$50,$50,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,5.0,354,Pakistan,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,level 2,1200,$5,$20,$50,1 day,1 day,3 days,-1,-1,-1,5.0,537,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Business,legal-consulting-services,level 2,1200,$50,$150,$200,7 days,7 days,7 days,-1,-1,-1,4.8,45,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$50,$50,$50,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,4.9,34,Finland,N/A,N/A,N/A,"I speak English, German, Portuguese, French",N/A,True
+Business,legal-consulting-services,level 2,1200,$35,$45,$60,4 days,3 days,2 days,-1,-1,-1,5.0,491,Pakistan,N/A,N/A,N/A,"I speak English, Italian, German, Spanish",N/A,False
+Business,legal-consulting-services,level 2,1200,$200,$250,$300,3 days,4 days,5 days,-1,-1,-1,4.9,48,Turkey,N/A,N/A,N/A,"I speak English, Turkish, German, Italian",N/A,False
+Business,legal-consulting-services,level 2,1200,$30,$35,$45,2 days,3 days,4 days,-1,-1,-1,4.9,58,Pakistan,N/A,N/A,N/A,"I speak English, Italian, German, Spanish",N/A,False
+Business,legal-consulting-services,level 2,1200,$100,$125,$600,2 days,3 days,3 days,0,1,2,4.9,199,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, Arabic",N/A,False
+Business,legal-consulting-services,level 2,1200,$345,$345,$345,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,80,Pakistan,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,level 2,1200,$30,$60,$75,3 days,3 days,2 days,-1,-1,-1,5.0,303,Pakistan,N/A,N/A,N/A,"I speak English, Italian, German, Spanish",N/A,False
+Business,legal-consulting-services,level 2,1200,$80,$160,$300,2 days,2 days,4 days,-1,-1,-1,5.0,250,India,N/A,N/A,N/A,"I speak English, Hindi",N/A,False
+Business,legal-consulting-services,level 2,1200,$5,$15,$35,1 day,1 day,3 days,-1,-1,-1,4.9,175,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Business,legal-consulting-services,level 2,1200,$5,$15,$25,1 day,2 days,2 days,-1,-1,-1,4.9,"1,190",Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$10,$20,$30,1 day,2 days,3 days,-1,-1,-1,4.9,208,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Hindi, Italian",N/A,False
+Business,legal-consulting-services,level 2,1200,$30,$45,$70,2 days,2 days,3 days,1,1,2,5.0,99,Pakistan,N/A,N/A,N/A,"I speak English, Italian, German, Spanish",N/A,False
+Business,legal-consulting-services,level 2,1200,$50,$100,$150,4 days,4 days,4 days,-1,-1,-1,4.9,14,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$5,$15,$25,1 day,2 days,2 days,-1,-1,-1,5.0,19,Philippines,N/A,N/A,N/A,"I speak English, Tagalog, Chinese, Urdu",N/A,False
+Business,legal-consulting-services,level 2,1200,$100,$195,$500,1 day,3 days,10 days,-1,-1,-1,4.9,72,China,N/A,N/A,N/A,"I speak English, Chinese",N/A,False
+Business,legal-consulting-services,level 2,1200,$120,$150,$175,2 days,3 days,5 days,-1,-1,-1,5.0,59,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$10,$20,$40,1 day,1 day,2 days,Unlimited,Unlimited,Unlimited,5.0,307,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Business,legal-consulting-services,level 2,1200,$10,$30,$60,1 day,2 days,2 days,1,2,3,4.9,80,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Spanish",N/A,False
+Business,legal-consulting-services,level 2,1200,$45,$55,$75,3 days,2 days,2 days,-1,-1,-1,4.9,25,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,$5,$20,$55,1 day,2 days,3 days,-1,-1,-1,5.0,822,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Hindi",N/A,False
+Business,legal-consulting-services,level 2,1200,$30,$60,$100,2 days,3 days,4 days,3,4,5,4.8,974,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,€29.01,€58.01,€96.69,2 days,3 days,4 days,2,4,5,4.8,445,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,level 2,1200,€29.01,€29.01,€29.01,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,5.0,"1,418",Pakistan,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,level 2,1200,€91.85,€91.85,€91.85,6-day delivery,6-day delivery,6-day delivery,-1,-1,-1,4.9,294,Pakistan,N/A,N/A,N/A,I speak English,N/A,True

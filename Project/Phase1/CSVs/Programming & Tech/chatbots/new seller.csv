@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Programming & Tech,chatbots,new seller,4300,$50,$80,$125,3 days,4 days,7 days,1,1,2,5.0,11,Kazakhstan,Jul 2020,2 hours,1 month,"English, Russian",N/A,False
+Programming & Tech,chatbots,new seller,4300,$45,$75,$115,5 days,10 days,14 days,2,Unlimited,Unlimited,5.0,64,Canada,Nov 2020,1 hour,about 21 hours,English,3 orders in queue,False
+Programming & Tech,chatbots,new seller,4300,$115,$230,$430,3 days,7 days,14 days,1,1,2,5.0,9,Bangladesh,May 2022,5 hours,1 year,English,N/A,False
+Programming & Tech,chatbots,new seller,4300,$40,$230,$600,3 days,10 days,21 days,5,9,Unlimited,5.0,4,Canada,Feb 2021,10 hours,7 months,"English, Ukrainian, Russian",N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$450,$850,2 days,1 day,1 day,0,0,0,5.0,11,Pakistan,Mar 2018,1 hour,1 month,English,N/A,False
+Programming & Tech,chatbots,new seller,4300,$100,$200,$250,2 days,2 days,2 days,5,5,5,4.9,259,Norway,Aug 2018,3 days,2 weeks,"English, Norwegian Bokmål",N/A,False
+Programming & Tech,chatbots,new seller,4300,$100,$200,$305,1 day,2 days,5 days,2,3,5,4.7,30,Pakistan,Mar 2021,1 hour,8 months,"English, German, Chinese, Spanish",N/A,False
+Programming & Tech,chatbots,new seller,4300,$50,$200,$500,3 days,5 days,14 days,-1,-1,-1,4.8,30,Pakistan,Mar 2018,1 hour,about 17 hours,"English, Urdu",2 orders in queue,False
+Programming & Tech,chatbots,new seller,4300,$140,$140,$140,4-day delivery,4-day delivery,4-day delivery,3 Revisions,3 Revisions,3 Revisions,5.0,16,Tunisia,Jan 2018,1 hour,8 months,"English, Arabic, French",N/A,True
+Programming & Tech,chatbots,new seller,4300,$200,$700,"$1,100",10 days,21 days,30 days,Unlimited,Unlimited,Unlimited,5.0,54,Italy,Jan 2019,9 days,4 months,"English, Italian",N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$75,$130,2 days,10 days,14 days,0,1,2,5.0,9,United Kingdom,Mar 2022,N/A,5 months,English,N/A,False
+Programming & Tech,chatbots,new seller,4300,$5,$5,$5,2-day delivery,2-day delivery,2-day delivery,2 Revisions,2 Revisions,2 Revisions,4.9,69,India,Sep 2020,1 hour,2 days,"Hindi, English",N/A,True
+Programming & Tech,chatbots,new seller,4300,$30,$80,$200,3 days,7 days,21 days,2,3,4,4.7,78,Bangladesh,Apr 2017,14 hours,1 month,"Bengali, English",N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$40,$55,2 days,2 days,2 days,3,5,Unlimited,5.0,14,Pakistan,Oct 2021,1 hour,4 days,"English, Hindi, Punjabi",N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$75,$125,1 day,2 days,2 days,3,4,5,5.0,5,Netherlands,Jan 2022,16 hours,3 weeks,"English, Dutch",N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$50,$60,1 day,2 days,3 days,0,1,2,5.0,91,Canada,Aug 2020,N/A,4 months,English,N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$75,$125,1 day,2 days,2 days,3,4,5,5.0,38,Netherlands,Jan 2022,16 hours,3 weeks,"English, Dutch",N/A,False
+Programming & Tech,chatbots,new seller,4300,$35,$50,$100,3 days,3 days,4 days,0,1,2,5.0,11,Pakistan,May 2021,N/A,8 months,"Urdu, English",N/A,False
+Programming & Tech,chatbots,new seller,4300,$200,$350,$555,7 days,14 days,21 days,1,1,2,5.0,5,Pakistan,Jul 2023,4 hours,1 month,"Urdu, English, Turkish",N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$50,$85,2 days,3 days,4 days,3,4,9,4.9,39,Belarus,Jul 2022,17 hours,1 month,"English, Belarusian, Russian, Ukrainian",N/A,False
+Programming & Tech,chatbots,new seller,4300,$50,$150,$250,2 days,5 days,7 days,-1,-1,-1,5.0,1,Pakistan,Jun 2015,1 hour,2 days,"Urdu, English",1 order in queue,False
+Programming & Tech,chatbots,new seller,4300,$80,$200,$400,3 days,5 days,7 days,2,5,7,5.0,1,Nigeria,Oct 2023,1 hour,1 week,N/A,2 orders in queue,False
+Programming & Tech,chatbots,new seller,4300,$5,$10,$15,4 days,10 days,14 days,1,1,2,5.0,11,Germany,Jul 2021,1 hour,about 18 hours,"English, German",N/A,False
+Programming & Tech,chatbots,new seller,4300,$50,$50,$50,7-day delivery,7-day delivery,7-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,5.0,34,Pakistan,Jan 2023,1 hour,3 months,English,N/A,True
+Programming & Tech,chatbots,new seller,4300,$50,$120,$200,7 days,14 days,21 days,1,2,4,5.0,1,Pakistan,Sep 2021,1 hour,2 months,"Urdu, English",N/A,False
+Programming & Tech,chatbots,new seller,4300,$80,$80,$80,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,5.0,1,Romania,Mar 2024,1 hour,1 month,"Romanian, Spanish, German, English",N/A,True
+Programming & Tech,chatbots,new seller,4300,$30,$30,$30,1-day delivery,1-day delivery,1-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.9,102,Pakistan,Mar 2021,13 hours,4 days,"English, French, Hindi, Urdu",N/A,True
+Programming & Tech,chatbots,new seller,4300,$30,$40,$50,2 days,2 days,2 days,3,5,9,4.5,5,Bangladesh,Nov 2022,2 hours,about 5 hours,"English, Spanish, German, Italian",N/A,False
+Programming & Tech,chatbots,new seller,4300,$450,"$1,000","$1,500",3 days,7 days,7 days,2,2,2,5.0,1,Canada,Sep 2022,10 hours,2 months,"English, French, Spanish",N/A,False
+Programming & Tech,chatbots,new seller,4300,CA$128.88,CA$143.20,CA$358.01,1 day,3 days,5 days,2,5,Unlimited,N/A,N/A,United States,Jul 2023,N/A,N/A,"English, Italian, French, Spanish",N/A,False
+Programming & Tech,chatbots,new seller,4300,$70,$70,$70,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,N/A,N/A,Afghanistan,Dec 2023,1 hour,N/A,N/A,N/A,True
+Programming & Tech,chatbots,new seller,4300,$80,$80,$80,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,N/A,N/A,Afghanistan,Dec 2023,1 hour,N/A,N/A,N/A,True
+Programming & Tech,chatbots,new seller,4300,$70,$70,$70,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,N/A,N/A,Afghanistan,Dec 2023,1 hour,N/A,N/A,N/A,True
+Programming & Tech,chatbots,new seller,4300,$10,$20,$30,2 days,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,42,Pakistan,Jul 2022,1 hour,1 month,"Urdu, Hindi, English",N/A,False
+Programming & Tech,chatbots,new seller,4300,$80,$80,$80,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,N/A,N/A,Afghanistan,Dec 2023,1 hour,N/A,N/A,N/A,True
+Programming & Tech,chatbots,new seller,4300,$75,$75,$75,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,N/A,N/A,United States,Nov 2023,7 hours,N/A,"English, French, Spanish, German",N/A,True
+Programming & Tech,chatbots,new seller,4300,$75,$75,$75,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,N/A,N/A,Argentina,Oct 2023,2 hours,N/A,"English, Spanish, French",N/A,True
+Programming & Tech,chatbots,new seller,4300,$100,$100,$100,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,N/A,N/A,United States,Nov 2023,7 hours,N/A,"English, French, Spanish, German",N/A,True
+Programming & Tech,chatbots,new seller,4300,$70,$70,$70,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,N/A,N/A,Kuwait,Jan 2024,2 hours,N/A,"Arabic, Spanish, English",N/A,True
+Programming & Tech,chatbots,new seller,4300,$80,$80,$80,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,N/A,N/A,Kuwait,Jan 2024,2 hours,N/A,"Arabic, Spanish, English",N/A,True
+Programming & Tech,chatbots,new seller,4300,$30,$30,$30,3-day delivery,3-day delivery,3-day delivery,-1,-1,-1,N/A,N/A,Morocco,Feb 2022,1 hour,5 months,"English, Arabic, French, Spanish",N/A,True
+Programming & Tech,chatbots,new seller,4300,$100,$400,"$1,000",5 days,10 days,21 days,3,5,Unlimited,5.0,43,Pakistan,Mar 2018,1 hour,about 17 hours,"English, Urdu",N/A,False
+Programming & Tech,chatbots,new seller,4300,$70,$70,$70,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,4.6,6,Mexico,Apr 2024,1 hour,1 week,"Spanish, French, German, English",1 order in queue,True
+Programming & Tech,chatbots,new seller,4300,$100,$200,$300,2 days,3 days,7 days,3,3,7,5.0,1,United Kingdom,Jan 2020,1 hour,1 month,English,N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$40,$50,2 days,2 days,2 days,1,2,2,5.0,512,India,Apr 2020,20 hours,about 4 hours,English,2 orders in queue,False
+Programming & Tech,chatbots,new seller,4300,$30,$35,$45,1 day,2 days,2 days,3,6,9,5.0,216,Pakistan,Dec 2021,1 hour,2 weeks,English,N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$40,$50,2 days,2 days,2 days,6,9,Unlimited,4.6,11,Morocco,Sep 2020,1 hour,1 month,"English, Arabic, French",N/A,False
+Programming & Tech,chatbots,new seller,4300,$30,$30,$30,4-day delivery,4-day delivery,4-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.9,22,United States,Jan 2022,2 hours,2 weeks,"English, German",N/A,True

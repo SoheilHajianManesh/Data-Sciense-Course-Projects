@@ -1,0 +1,195 @@
+Column: Category
+Business -> 0
+Data -> 1
+Digital Marketing -> 2
+Graphics & Design -> 3
+Lifestyle -> 4
+Music & Audio -> 5
+Photography -> 6
+Programming & Tech -> 7
+Video & Animation -> 8
+Writing & Translation -> 9
+
+Column: Field
+3d-product-animation -> 0
+animated-explainer-videos -> 1
+articles-blogposts -> 2
+book-editing -> 3
+business-plans -> 4
+chatbots -> 5
+data-analactics -> 6
+data-engineering -> 7
+data-mining -> 8
+data-processing -> 9
+data-science -> 10
+databases -> 11
+digital-illustration -> 12
+dj-mixing -> 13
+event-photographers -> 14
+fashion-design -> 15
+financial-consulting-services -> 16
+fitness -> 17
+food-photographers -> 18
+game-art -> 19
+game-development -> 20
+influencer-marketing -> 21
+legal-consulting-services -> 22
+life-coaching -> 23
+lifestyle-fashion-photographers -> 24
+logo-animation-services -> 25
+market-research-reports -> 26
+mixing-mastering -> 27
+mobile-app-services -> 28
+modeling-acting -> 29
+nft -> 30
+online-tutoring -> 31
+online-video-marketing -> 32
+personal-stylists -> 33
+podcast-marketing -> 34
+producers -> 35
+product-photographers -> 36
+proofreading-editing -> 37
+quality-translation-services -> 38
+real-estate-photographers -> 39
+sales -> 40
+seo-services -> 41
+singers-vocalists -> 42
+social-marketing -> 43
+social-media-design -> 44
+software-development -> 45
+software-management -> 46
+songwriters -> 47
+ux-writing -> 48
+video-editing -> 49
+visual-effects -> 50
+voice-overs -> 51
+website-development -> 52
+website-maintenance -> 53
+
+Column: Country
+Afghanistan -> 0
+Albania -> 1
+Algeria -> 2
+Andorra -> 3
+Argentina -> 4
+Armenia -> 5
+Australia -> 6
+Austria -> 7
+Azerbaijan -> 8
+Bahrain -> 9
+Bangladesh -> 10
+Barbados -> 11
+Belarus -> 12
+Belgium -> 13
+Bolivia -> 14
+Bosnia and Herzegovina -> 15
+Brazil -> 16
+Bulgaria -> 17
+Cambodia -> 18
+Cameroon -> 19
+Canada -> 20
+Chile -> 21
+China -> 22
+Colombia -> 23
+Costa Rica -> 24
+Croatia -> 25
+Cyprus -> 26
+Czech Republic -> 27
+Denmark -> 28
+Dominican Republic -> 29
+Ecuador -> 30
+Egypt -> 31
+El Salvador -> 32
+Estonia -> 33
+Ethiopia -> 34
+Finland -> 35
+France -> 36
+Georgia -> 37
+Germany -> 38
+Ghana -> 39
+Greece -> 40
+Grenada -> 41
+Haiti -> 42
+Hong Kong -> 43
+Hungary -> 44
+Iceland -> 45
+India -> 46
+Indonesia -> 47
+Ireland -> 48
+Israel -> 49
+Italy -> 50
+Jamaica -> 51
+Japan -> 52
+Jordan -> 53
+Kazakhstan -> 54
+Kenya -> 55
+Kosovo -> 56
+Kuwait -> 57
+Kyrgyzstan -> 58
+Latvia -> 59
+Lesotho -> 60
+Lithuania -> 61
+Luxembourg -> 62
+Macedonia [FYROM] -> 63
+Madagascar -> 64
+Malaysia -> 65
+Malta -> 66
+Mexico -> 67
+Moldova -> 68
+Mongolia -> 69
+Montenegro -> 70
+Morocco -> 71
+Namibia -> 72
+Nepal -> 73
+Netherlands -> 74
+New Zealand -> 75
+Nicaragua -> 76
+Nigeria -> 77
+Norway -> 78
+Oman -> 79
+Pakistan -> 80
+Palestinian Territories -> 81
+Paraguay -> 82
+Peru -> 83
+Philippines -> 84
+Poland -> 85
+Portugal -> 86
+Puerto Rico -> 87
+Qatar -> 88
+Reunion -> 89
+Romania -> 90
+Russia -> 91
+Rwanda -> 92
+Saudi Arabia -> 93
+Serbia -> 94
+Singapore -> 95
+Slovakia -> 96
+Slovenia -> 97
+South Africa -> 98
+South Korea -> 99
+Spain -> 100
+Sri Lanka -> 101
+Sudan -> 102
+Swaziland -> 103
+Sweden -> 104
+Switzerland -> 105
+Taiwan -> 106
+Tanzania -> 107
+Thailand -> 108
+Trinidad and Tobago -> 109
+Tunisia -> 110
+Turkey -> 111
+Turkmenistan -> 112
+Uganda -> 113
+Ukraine -> 114
+United Arab Emirates -> 115
+United Kingdom -> 116
+United States -> 117
+Uruguay -> 118
+Uzbekistan -> 119
+Venezuela -> 120
+Vietnam -> 121
+Yemen -> 122
+Zambia -> 123
+Zimbabwe -> 124
+

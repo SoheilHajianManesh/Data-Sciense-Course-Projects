@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Business,legal-consulting-services,new seller,5800,$125,$150,$180,2 days,3 days,4 days,0,1,2,4.8,9,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,₪234.26,₪234.26,₪234.26,3-day delivery,3-day delivery,3-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.9,45,United Kingdom,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,new seller,5800,₪39.04,₪78.09,₪117.13,1 day,1 day,1 day,5,8,Unlimited,5.0,12,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, German, Dutch",N/A,False
+Business,legal-consulting-services,new seller,5800,₪156.17,₪312.34,₪624.69,5 days,5 days,5 days,0,0,0,5.0,103,Australia,N/A,N/A,N/A,"I speak English, Chinese, Thai",N/A,False
+Business,legal-consulting-services,new seller,5800,₪39.04,₪78.09,₪156.17,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,4.7,13,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,$75,$75,$75,4-day delivery,4-day delivery,4-day delivery,-1,-1,-1,5.0,14,Spain,N/A,N/A,N/A,"I speak English, Spanish, Italian",N/A,True
+Business,legal-consulting-services,new seller,5800,$10,$15,$50,1 day,2 days,2 days,-1,-1,-1,4.8,27,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$15,$50,1 day,2 days,2 days,-1,-1,-1,4.8,40,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$30,$60,1 day,1 day,2 days,2,3,5,4.7,16,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,$5,$10,$100,1 day,2 days,3 days,-1,-1,-1,4.6,22,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,12,Pakistan,N/A,N/A,N/A,"I speak English, German",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,2 days,2 days,-1,-1,-1,5.0,13,Pakistan,N/A,N/A,N/A,"I speak English, French, German, Greek",N/A,False
+Business,legal-consulting-services,new seller,5800,$25,$35,$75,2 days,2 days,4 days,-1,-1,-1,4.9,6,Spain,N/A,N/A,N/A,"I speak English, Spanish, French",N/A,False
+Business,legal-consulting-services,new seller,5800,$50,$50,$50,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,3,India,N/A,N/A,N/A,"I speak English, Hindi",N/A,True
+Business,legal-consulting-services,new seller,5800,$30,$90,$150,2 days,3 days,4 days,Unlimited,Unlimited,Unlimited,5.0,4,Kenya,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,$5,$5,$5,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,4.5,2,India,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,new seller,5800,$60,$120,$180,2 days,3 days,5 days,-1,-1,-1,4.8,9,United Kingdom,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$15,$50,1 day,2 days,2 days,-1,-1,-1,4.8,9,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,1 day,2 days,-1,-1,-1,5.0,5,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$50,2 days,2 days,4 days,-1,-1,-1,5.0,3,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,2 days,3 days,-1,-1,-1,5.0,6,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,$35,$75,$95,2 days,7 days,21 days,-1,-1,-1,5.0,14,Pakistan,N/A,N/A,N/A,"I speak English, French, German, Spanish",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$25,$35,2 days,2 days,2 days,3,5,Unlimited,5.0,18,Pakistan,N/A,N/A,N/A,"I speak English, Urdu, Greek",N/A,False
+Business,legal-consulting-services,new seller,5800,$20,$45,$300,1 day,3 days,14 days,-1,-1,-1,5.0,5,Pakistan,N/A,N/A,N/A,"I speak English, Spanish, Arabic, Korean",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,1 day,1 day,-1,-1,-1,4.7,15,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Business,legal-consulting-services,new seller,5800,$900,"$1,000","$2,000",14 days,14 days,14 days,-1,-1,-1,5.0,18,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,$20,$30,$300,1 day,3 days,14 days,-1,-1,-1,5.0,10,Pakistan,N/A,N/A,N/A,"I speak Spanish, French, Arabic, English",N/A,False
+Business,legal-consulting-services,new seller,5800,€4.83,€9.67,€483.44,3 days,2 days,1 day,1,2,3,4.6,11,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,€290.07,€290.07,€290.07,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,4.8,11,India,N/A,N/A,N/A,"I speak English, Spanish, German, French",N/A,True
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,2 days,3 days,-1,-1,-1,5.0,5,Pakistan,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,2 days,3 days,-1,-1,-1,5.0,3,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,"$2,500","$3,100","$3,550",10 days,10 days,14 days,-1,-1,-1,5.0,7,Ukraine,N/A,N/A,N/A,"I speak English, Russian",N/A,False
+Business,legal-consulting-services,new seller,5800,$750,$900,"$1,000",3 days,3 days,5 days,-1,-1,-1,5.0,35,Romania,N/A,N/A,N/A,"I speak English, Romanian, Italian, German",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,2 days,3 days,-1,-1,-1,4.8,13,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,$750,$900,"$1,000",3 days,4 days,5 days,1,1,2,5.0,19,Romania,N/A,N/A,N/A,"I speak English, Romanian, Italian, German",N/A,False
+Business,legal-consulting-services,new seller,5800,$300,$450,$700,3 days,3 days,3 days,-1,-1,-1,5.0,4,Bangladesh,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,$520,$520,$520,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,5.0,1,Romania,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,new seller,5800,$175,$175,$175,5-day delivery,5-day delivery,5-day delivery,-1,-1,-1,4.7,7,United States,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,new seller,5800,$175,$450,"$4,995",1 day,4 days,4 days,-1,-1,-1,5.0,6,United States,N/A,N/A,N/A,"I speak English, Spanish",N/A,False
+Business,legal-consulting-services,new seller,5800,$295,$395,$495,1 day,14 days,21 days,-1,-1,-1,5.0,3,Canada,N/A,N/A,N/A,"I speak English, Arabic, Hindi",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,1 day,2 days,-1,-1,-1,4.5,2,Pakistan,N/A,N/A,N/A,"I speak Urdu, English",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$30,1 day,1 day,2 days,-1,-1,-1,5.0,7,Pakistan,N/A,N/A,N/A,"I speak English, German, Spanish, French",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$30,$45,1 day,1 day,2 days,2,4,Unlimited,5.0,7,Pakistan,N/A,N/A,N/A,"I speak Urdu, English, Spanish",N/A,False
+Business,legal-consulting-services,new seller,5800,$100,$130,$160,1 day,1 day,1 day,-1,-1,-1,5.0,4,United States,N/A,N/A,N/A,"I speak English, Spanish, Italian, French",N/A,False
+Business,legal-consulting-services,new seller,5800,$10,$20,$40,1 day,1 day,1 day,-1,-1,-1,5.0,18,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False
+Business,legal-consulting-services,new seller,5800,$25,$25,$25,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.8,25,United States,N/A,N/A,N/A,I speak English,N/A,True
+Business,legal-consulting-services,new seller,5800,₪117.13,₪780.86,₪897.99,3 days,5 days,3 days,0,1,2,5.0,57,United States,N/A,N/A,N/A,I speak English,N/A,False
+Business,legal-consulting-services,new seller,5800,₪117.13,₪234.26,₪390.43,3 days,10 days,14 days,-1,-1,-1,5.0,295,Pakistan,N/A,N/A,N/A,"I speak English, Urdu",N/A,False

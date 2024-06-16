@@ -1,0 +1,47 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Programming & Tech,website-maintenance,level 2,9400,$30,$70,$100,2 days,2 days,2 days,-1,-1,-1,5.0,113,United Kingdom,Sep 2022,1 hour,2 days,"English, French, Spanish",2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$60,$120,$160,2 days,2 days,3 days,-1,-1,-1,4.9,255,Pakistan,Apr 2019,1 hour,about 5 hours,English,1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$95,$120,$175,3 days,3 days,4 days,-1,-1,-1,5.0,309,United Kingdom,May 2016,10 hours,about 11 hours,English,6 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$25,$50,$100,2 days,3 days,5 days,1,2,2,5.0,"1,004",United Kingdom,Dec 2020,1 hour,1 day,English,2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$20,$85,$120,1 day,1 day,2 days,-1,-1,-1,4.9,237,Bangladesh,Oct 2020,1 hour,about 3 hours,"English, Bengali",2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$25,$90,1 day,2 days,2 days,-1,-1,-1,5.0,505,Bangladesh,Sep 2020,1 hour,about 23 hours,"English, Hindi, Urdu",2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$100,$105,$110,3 days,3 days,3 days,-1,-1,-1,4.9,672,India,Mar 2015,2 hours,2 days,English,N/A,False
+Programming & Tech,website-maintenance,level 2,9400,€29.01,€38.68,€48.34,1 day,1 day,1 day,-1,-1,-1,5.0,"2,098",Pakistan,Mar 2021,1 hour,about 5 hours,"Urdu, English",5 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$10,$15,$20,1 day,1 day,1 day,-1,-1,-1,5.0,632,Pakistan,Aug 2022,1 hour,about 7 hours,"English, German, Dutch, Spanish",4 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$25,$100,1 day,2 days,4 days,-1,-1,-1,5.0,"2,437",Pakistan,Jul 2018,1 hour,1 day,"Urdu, English",4 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,£8.24,£24.72,£41.21,1 day,2 days,3 days,-1,-1,-1,5.0,105,Pakistan,Jun 2021,1 hour,about 8 hours,"Urdu, English, German",1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$25,$50,2 days,2 days,4 days,5,5,5,5.0,598,Pakistan,Jul 2019,1 hour,2 days,"English, German, Spanish, French",4 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$20,$40,$60,1 day,1 day,1 day,-1,-1,-1,5.0,481,Pakistan,Dec 2015,1 hour,about 23 hours,"English, Hindi, Urdu, German",1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$5,$10,$20,1 day,3 days,5 days,-1,-1,-1,4.9,341,Pakistan,Feb 2021,1 hour,about 10 hours,"English, German, French",4 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$30,$50,1 day,1 day,2 days,-1,-1,-1,4.9,202,Bangladesh,Mar 2019,1 hour,about 14 hours,"English, Bengali, German, Hindi",1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$25,$35,1 day,3 days,3 days,-1,-1,-1,5.0,232,Bangladesh,Mar 2020,1 hour,1 day,"Bengali, English, Hindi",1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$25,$35,1 day,1 day,1 day,-1,-1,-1,4.9,58,Pakistan,Oct 2021,1 hour,4 days,"Urdu, English, Punjabi, German",1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$25,$30,1 day,1 day,2 days,-1,-1,-1,4.9,961,Bangladesh,Feb 2018,1 hour,about 4 hours,English,2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,€19.34,€48.34,€77.35,1 day,2 days,3 days,-1,-1,-1,4.9,123,Pakistan,Aug 2018,1 hour,about 20 hours,"Urdu, English, Hindi, Spanish",N/A,False
+Programming & Tech,website-maintenance,level 2,9400,$5,$5,$5,1-day delivery,1-day delivery,1-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,5.0,755,Bangladesh,Nov 2016,2 hours,about 15 hours,"Bengali, English",3 orders in queue,True
+Programming & Tech,website-maintenance,level 2,9400,$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,5.0,473,Bangladesh,Jan 2020,1 hour,about 14 hours,English,1 order in queue,True
+Programming & Tech,website-maintenance,level 2,9400,$15,$35,$65,1 day,2 days,3 days,-1,-1,-1,4.9,"1,235",Pakistan,Oct 2017,1 hour,2 days,"Urdu, Punjabi, English, Hindi",7 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$40,$50,1 day,1 day,1 day,-1,-1,-1,5.0,"2,815",Pakistan,Aug 2021,1 hour,about 7 hours,English,6 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$25,$90,1 day,2 days,2 days,-1,-1,-1,5.0,505,Bangladesh,Sep 2020,1 hour,about 23 hours,"English, Hindi, Urdu",2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$50,$100,3 days,3 days,3 days,-1,-1,-1,5.0,50,Bangladesh,Mar 2016,1 hour,3 days,"Bengali, English",N/A,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$30,$50,1 day,1 day,1 day,-1,-1,-1,4.9,420,Pakistan,Nov 2020,1 hour,about 5 hours,English,N/A,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$80,$120,1 day,2 days,3 days,-1,-1,-1,5.0,314,Bangladesh,Apr 2021,1 hour,1 day,"English, German, Russian, Hindi",6 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$40,$60,1 day,1 day,1 day,-1,-1,-1,5.0,480,Macedonia [FYROM],Aug 2019,1 hour,1 day,"English, Macedonian, German, Serbian",N/A,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$60,$100,2 days,4 days,7 days,-1,-1,-1,4.9,160,Pakistan,Aug 2022,1 hour,5 days,"English, French, Dutch, Spanish",1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$100,$200,7 days,7 days,21 days,-1,-1,-1,4.9,32,Germany,Jan 2023,2 hours,1 week,"English, German",2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$25,$50,1 day,2 days,3 days,-1,-1,-1,5.0,401,Bangladesh,Nov 2020,1 hour,about 5 hours,"Bengali, English",1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$45,$100,$145,2 days,3 days,4 days,-1,-1,-1,5.0,156,Bangladesh,Aug 2019,1 hour,1 day,"Bengali, English, Spanish, German",N/A,False
+Programming & Tech,website-maintenance,level 2,9400,$5,$15,$30,1 day,2 days,2 days,Unlimited,Unlimited,Unlimited,5.0,173,Bangladesh,Feb 2022,1 hour,1 day,"Bengali, English, Spanish, Portuguese",3 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$40,$120,$200,1 day,3 days,6 days,-1,-1,-1,4.9,165,Bangladesh,Jan 2020,1 hour,about 4 hours,"English, Hebrew, Italian, German",4 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$30,$70,2 days,3 days,7 days,2,2,3,5.0,92,Pakistan,Jun 2022,1 hour,about 7 hours,"Urdu, English",N/A,False
+Programming & Tech,website-maintenance,level 2,9400,€14.50,€14.50,€14.50,1-day delivery,1-day delivery,1-day delivery,1 Revision,1 Revision,1 Revision,5.0,224,Bangladesh,Oct 2020,1 hour,about 21 hours,"Bengali, English, Spanish, Hindi",1 order in queue,True
+Programming & Tech,website-maintenance,level 2,9400,$30,$30,$30,2-day delivery,2-day delivery,2-day delivery,-1,-1,-1,5.0,"1,118",India,Sep 2015,5 hours,about 5 hours,"English, Hindi",33 orders in queue,True
+Programming & Tech,website-maintenance,level 2,9400,$20,$60,$250,1 day,2 days,3 days,1,2,3,5.0,619,Pakistan,Mar 2019,1 hour,6 days,English,4 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$45,$65,1 day,1 day,1 day,-1,-1,-1,4.9,48,India,Jun 2019,1 hour,2 days,"Bengali, English, Hindi, Assamese",2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$15,$40,$75,1 day,1 day,3 days,Unlimited,Unlimited,Unlimited,4.9,217,Pakistan,Apr 2022,1 hour,about 15 hours,"English, Spanish, German, French",1 order in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$60,$100,2 days,3 days,4 days,-1,-1,-1,5.0,153,Pakistan,Jul 2022,1 hour,about 3 hours,English,2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$80,$150,2 days,4 days,6 days,-1,-1,-1,5.0,126,Pakistan,Aug 2017,1 hour,3 days,English,N/A,False
+Programming & Tech,website-maintenance,level 2,9400,$5,$15,$50,1 day,2 days,4 days,-1,-1,-1,5.0,"5,334",Bangladesh,Sep 2017,1 hour,about 11 hours,English,9 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,£12.36,£16.48,£24.72,1 day,1 day,1 day,-1,-1,-1,5.0,578,Pakistan,Jan 2013,1 hour,about 13 hours,"Urdu, English",N/A,False
+Programming & Tech,website-maintenance,level 2,9400,$10,$15,$25,1 day,1 day,1 day,-1,-1,-1,4.9,144,Bangladesh,Oct 2022,1 hour,about 6 hours,"Bengali, English, Hindi",2 orders in queue,False
+Programming & Tech,website-maintenance,level 2,9400,$30,$40,$50,1 day,1 day,1 day,-1,-1,-1,5.0,"2,815",Pakistan,Aug 2021,1 hour,about 7 hours,English,6 orders in queue,False

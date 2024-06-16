@@ -1,0 +1,49 @@
+Category,Field,Seller Level,Seller In Same Level,Basic Price,Standard Price,Premium Price,Basic Delivery,Standard Delivery,Premium Delivery,Basic Revision,Standard Revision,Premium Revision,Rating,Rating Count,Country,Member Since,Avg Response Time,Last Delivery,Language,Order in Queue,is_single_plan
+Programming & Tech,website-maintenance,new seller,3100,$20,$40,$70,1 day,2 days,4 days,3,3,3,4.9,27,Pakistan,May 2018,6 hours,1 week,"Urdu, English, Chinese",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$80,$130,$180,2 days,3 days,5 days,-1,-1,-1,4.8,61,Pakistan,May 2021,1 hour,1 day,"English, Spanish, German",3 orders in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$20,$35,$45,3 days,2 days,2 days,-1,-1,-1,5.0,14,Bangladesh,May 2018,1 hour,1 week,"Bengali, English, French, Spanish",1 order in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$50,$150,$250,2 days,5 days,7 days,-1,-1,-1,5.0,15,Pakistan,Aug 2022,1 hour,1 day,English,N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$30,$85,1 day,2 days,3 days,-1,-1,-1,5.0,3,Bangladesh,Jul 2021,1 hour,2 months,"Bengali, English, Hindi",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$25,$35,1 day,2 days,2 days,-1,-1,-1,5.0,1,Bahrain,Mar 2022,3 hours,1 month,"English, Arabic, Hindi",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$50,$80,$120,2 days,3 days,4 days,-1,-1,-1,5.0,36,Pakistan,Mar 2020,7 days,1 day,"English, French, Spanish, German",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$25,$35,$50,1 day,2 days,3 days,-1,-1,-1,5.0,1,Bahrain,Mar 2022,3 hours,1 month,"English, Arabic, Hindi",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$30,$50,$100,3 days,5 days,7 days,-1,-1,-1,5.0,21,Pakistan,May 2023,1 hour,1 day,"English, Arabic, Spanish",2 orders in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$70,$95,$120,2 days,5 days,7 days,-1,-1,-1,4.9,189,Egypt,Dec 2019,3 hours,1 day,"English, Arabic",5 orders in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$40,$60,$80,2 days,4 days,7 days,-1,-1,-1,5.0,16,Pakistan,Sep 2022,1 hour,4 days,"English, Urdu, Hindi, Portuguese",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$80,$110,$130,1 day,2 days,3 days,-1,-1,-1,5.0,219,Bangladesh,Dec 2017,1 hour,5 months,"English, German, Italian, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$25,$50,1 day,2 days,2 days,-1,-1,-1,5.0,24,Pakistan,Jan 2024,1 hour,1 week,"Urdu, English, French",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$10,$20,$30,2 days,3 days,3 days,-1,-1,-1,5.0,19,Pakistan,Dec 2023,1 hour,about 12 hours,"English, German, Italian, Spanish",1 order in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$30,$120,$265,2 days,4 days,6 days,Unlimited,Unlimited,Unlimited,5.0,196,Hungary,Aug 2021,3 hours,1 day,"English, Hungarian",9 orders in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$30,$50,$75,30 days,30 days,30 days,1,3,Unlimited,5.0,109,India,Apr 2015,1 hour,3 days,"English, Hindi, Punjabi",4 orders in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$10,$50,$100,3 days,4 days,5 days,-1,-1,-1,4.9,14,Pakistan,Nov 2021,1 hour,1 week,"English, German, Italian, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$350,$500,$750,3 days,5 days,10 days,-1,-1,-1,3.2,45,Pakistan,Mar 2018,1 hour,1 month,"Urdu, Punjabi, English",1 order in queue,False
+Programming & Tech,website-maintenance,new seller,3100,€48.34,€135.36,€212.71,3 days,4 days,6 days,-1,-1,-1,5.0,46,Bangladesh,Dec 2017,1 hour,5 months,"English, German, Italian, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,€9.67,€9.67,€9.67,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.9,17,Bangladesh,Aug 2022,1 hour,1 week,"English, German, Spanish",N/A,True
+Programming & Tech,website-maintenance,new seller,3100,€14.50,€24.17,€38.68,1 day,1 day,1 day,Unlimited,Unlimited,Unlimited,5.0,12,Pakistan,Mar 2024,1 hour,1 month,"English, Dutch, German, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$55,$85,$125,2 days,3 days,5 days,-1,-1,-1,5.0,20,Pakistan,Jul 2020,1 hour,1 week,"German, Spanish, English, Dutch",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$25,$50,$300,2 days,3 days,7 days,2,5,9,4.9,22,Bangladesh,Jul 2021,1 hour,2 months,"Bengali, English, Hindi",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$60,$80,1 day,2 days,3 days,Unlimited,Unlimited,Unlimited,5.0,16,Pakistan,Nov 2023,1 hour,6 days,"Urdu, English",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$40,$130,$200,3 days,5 days,7 days,-1,-1,-1,4.9,18,Nigeria,Sep 2023,1 hour,1 week,"Yoruba, English",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,€29.01,€58.01,€96.69,1 day,3 days,5 days,-1,-1,-1,5.0,19,Bangladesh,Jan 2023,2 hours,1 month,English,N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$30,$60,1 day,1 day,2 days,Unlimited,Unlimited,Unlimited,5.0,18,Turkey,Jul 2016,1 hour,4 days,"English, Turkish, Russian",1 order in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$15,$15,1-day delivery,1-day delivery,1-day delivery,Unlimited Revisions,Unlimited Revisions,Unlimited Revisions,4.8,14,Pakistan,Jan 2024,1 hour,2 days,"Urdu, English",N/A,True
+Programming & Tech,website-maintenance,new seller,3100,€14.50,€29.01,€48.34,1 day,2 days,3 days,-1,-1,-1,4.9,21,Bangladesh,Sept 2023,11 hours,3 months,"English, German, French, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$20,$25,3 days,2 days,2 days,-1,-1,-1,5.0,27,Bangladesh,Jun 2022,3 hours,3 months,"English, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$45,$60,$80,2 days,5 days,7 days,-1,-1,-1,5.0,10,Pakistan,May 2024,1 hour,2 days,"Urdu, English, Portuguese, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,€43.51,€58.01,€77.35,2 days,5 days,7 days,-1,-1,-1,5.0,7,Pakistan,May 2024,1 hour,2 days,"Hindi, English, Spanish, Portuguese",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,€29.01,€203.05,€290.07,1 day,5 days,10 days,-1,-1,-1,5.0,3,United States,Aug 2023,1 hour,2 days,English,N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$30,$60,1 day,2 days,3 days,5,9,9,4.9,22,Bangladesh,Jul 2021,1 hour,2 months,"Bengali, English, Hindi",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$20,$60,$120,2 days,2 days,2 days,-1,-1,-1,5.0,2,Bangladesh,Apr 2024,1 hour,3 days,English,N/A,False
+Programming & Tech,website-maintenance,new seller,3100,€241.72,€241.72,€241.72,7-day delivery,7-day delivery,7-day delivery,-1,-1,-1,N/A,N/A,United States,Apr 2024,N/A,4 days,English,N/A,True
+Programming & Tech,website-maintenance,new seller,3100,$45,$150,$300,1 day,2 days,3 days,2,Unlimited,Unlimited,4.2,3,Pakistan,May 2021,1 hour,4 days,"English, German, Russian, Spanish",1 order in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$20,$75,$150,1 day,2 days,30 days,Unlimited,Unlimited,Unlimited,4.9,71,Pakistan,Sep 2020,N/A,1 day,"Urdu, English",1 order in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$20,$80,$150,1 day,3 days,6 days,-1,-1,-1,5.0,30,India,Mar 2021,1 hour,about 8 hours,"French, Portuguese, German, English",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$30,$60,$150,3 days,7 days,10 days,-1,-1,-1,5.0,3,Pakistan,May 2024,1 hour,about 9 hours,"English, French, Spanish, Dutch",1 order in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$400,"$1,200","$5,000",5 days,7 days,30 days,-1,-1,-1,5.0,3,Uruguay,Aug 2022,2 hours,2 weeks,"English, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$10,$30,$55,2 days,5 days,7 days,-1,-1,-1,5.0,4,Pakistan,May 2024,1 hour,1 day,"English, German, French, Spanish",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$15,$25,$50,1 day,1 day,2 days,2,2,3,4.9,7,Mexico,Aug 2022,1 hour,2 days,"Spanish, English",N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$100,$250,$450,2 days,4 days,6 days,-1,-1,-1,5.0,9,United States,Oct 2019,N/A,1 year,English,N/A,False
+Programming & Tech,website-maintenance,new seller,3100,$10,$25,$50,2 days,4 days,6 days,-1,-1,-1,5.0,45,Pakistan,Feb 2024,1 hour,1 day,"Urdu, English, Dutch, Spanish",5 orders in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$10,$10,$10,1-day delivery,1-day delivery,1-day delivery,-1,-1,-1,4.9,12,Pakistan,Apr 2020,1 hour,6 days,English,N/A,True
+Programming & Tech,website-maintenance,new seller,3100,$30,$100,$180,2 days,5 days,7 days,-1,-1,-1,5.0,23,Bangladesh,Oct 2023,1 hour,2 days,"Bengali, English, German",1 order in queue,False
+Programming & Tech,website-maintenance,new seller,3100,$350,$500,$750,3 days,5 days,10 days,-1,-1,-1,3.2,45,Pakistan,Mar 2018,1 hour,1 month,"Urdu, Punjabi, English",1 order in queue,False
